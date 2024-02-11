@@ -1,0 +1,54 @@
+
+#####################################################################
+# Is git LFS required to run this repository?
+#
+# This normally remain "Yes", as this prevents inadvertently
+# committing large data files
+#####################################################################
+git_lfs_required: No
+
+#####################################################################
+# Other required software
+#####################################################################
+gslab_make_required: Yes
+
+software_required:
+  r: No
+  stata: Yes
+  lyx: Yes
+  matlab: No
+  latex: No
+
+#####################################################################
+# Repository metadata
+#####################################################################
+
+metadata:
+  regression:
+    X: i.stratum
+    DemographicVars: hhld_inc college male white age republican democrat
+
+  dates:
+    start_experiment: mdy(9, 27, 2018) # Set start date of experiment to 14 days before midline survey
+    midline: mdy(10, 11, 2018)
+    endline: mdy(11, 8, 2018)
+
+  save:
+    save: save
+    saveold: saveold
+
+  times:
+    times_windows: char(215)
+    times_mac: ×
+    times_other: x
+
+#####################################################################
+# Maximum allowed file sizes
+#####################################################################
+max_file_sizes:
+  file_MB_limit_lfs: 2               # Soft limit on file size (w/ LFS)
+  total_MB_limit_lfs: 500            # Soft limit on total size (w/ LFS)  
+  file_MB_limit: 0.5                 # Soft limit on file size (w/o LFS)
+  total_MB_limit: 125                # Soft limit on total size (w/o LFS)
+
+  
