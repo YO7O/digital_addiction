@@ -2,6 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-*.Rproj
 data/raw_data/sms_anonymous.dta
 data/raw_data/baseline_anonymous.dta
