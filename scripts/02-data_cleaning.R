@@ -1,11 +1,13 @@
 #### Preamble ####
-# Purpose: Cleans the raw data recorded 
-# Author: 
+# Purpose: Cleans the raw data recorded by Hunt Allcot, Luca Braghieri, 
+#          Sarah Eichmeyer and Matthew Gentzkow
+# Author: Kenneth Chan, 
 # Date: 11 February 2023 
-# Contact: 
+# Contact: kenchancf0618@gmail.com
 # License: MIT
-# Pre-requisites: 
-# Any other information needed? 
+# Pre-requisites: Digital addiction by Hunt Allcott, Matthew Gentzkow and
+#                 Lena Song
+# Any other information needed? None
 
 #### Workspace setup ####
 library(tidyverse)
@@ -25,22 +27,13 @@ endline <- as.Date(mdy(yaml_data$metadata$dates$endline))
 daylight_saving_2018 <- as.Date("2018-11-3")
 
 
-#####################################################
-###### Import, clean and reshape SMS responses ######
-#####################################################
-# Import timezone information
-raw_timezones <- read_excel("data/raw_data/us_timezones.xlsx")
-
-statetime <- raw_timezones |>
-  mutate(state = str_extract(state, "[A-Z]{2}"),
-         timezone = str_extract(timezone, "[A-Z]{3,4}"))
-
-
 # Extract state information from baseline
 raw_baseline <- read_dta("data/raw_data/baseline_anonymous.dta")
 
 cleaned_baseline <- raw_baseline |>
-  clean_names()
+  clean_names() |>
+  filter(consent1 == "Continue")
+  
 
 # Fill in missing state abbreviations for individuals who qualified for 
 # the midline but whose Zip codes weren't found
@@ -72,8 +65,25 @@ cleaned_baseline$state[cleaned_baseline$state_prescreen == "Michigan" &
 # Drop the state_prescreen variable
 cleaned_baseline$state_prescreen <- NULL
 
-# Import SMS responses
-raw_sms_data <- read_dta("data/raw_data/sms_anonymous.dta")
+social_time <- cleaned_baseline |>
+  select(id, leisure_activities2_5, fb_minutes) |>
+  # Remove non valid entries
+  filter(leisure_activities2_5 != "" & fb_minutes != "")|>
+  # Mutate response on other social media to numeric value
+  mutate(other_social_minutes = recode(leisure_activities2_5,
+                                       "0 minutes" = 0,
+                                       "Between 1 and 30 minutes" = 15,
+                                       "Between 31 minutes and 1 hour" = 45,
+                                       "Between 1 and 2 hours" = 90,
+                                       "Between 2 and 3 hours" = 150,
+                                       "More than 3 hours" = 180,
+                                       .default = -1),
+         fb_minutes = as.numeric(fb_minutes),
+         sum_social_minutes = fb_minutes + other_social_minutes) |>
+  rename(other_social_response = leisure_activities2_5)
+
+#### Save data ####
+write_csv(social_time, "data/analysis_data/social_time.csv")
 
 #### TODO: DELETE IT ####
 raw_data <- read_dta("data/raw_data/politics_anonymous.dta")
