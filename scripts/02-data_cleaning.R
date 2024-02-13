@@ -57,12 +57,12 @@ cleaned_midline <- raw_midline |>
   rename(price1 = first_4weeks_num,
          price2 = second_4weeks_num1) |>
   # Made it to randomization stage in midline
-  mutate(randomized = ifelse(wta_understanding1 == "", 0, 1),
+  mutate(randomized = ifelse(wta_understanding1 == "", FALSE, TRUE),
          # treatment = 1 if price is offered, 0 if not
-         treatment = ifelse(price1 == 102 & wta1 != "" & randomized == 1,
-                            1,
-                            ifelse(price1 == 0 & wta1 != "" & randomized == 1,
-                                   0,
+         treatment = ifelse(price1 == 102 & wta1 != "" & randomized,
+                            TRUE,
+                            ifelse(price1 == 0 & wta1 != "" & randomized,
+                                   FALSE,
                                    NA)))
 
 # Clean endline
@@ -89,6 +89,7 @@ social_time <- cleaned_baseline |>
   # Remove non valid entries
   filter(fb_minutes_base != "")|>
   mutate(fb_minutes_base = as.numeric(fb_minutes_base))
+
 
 # Select variables that are useful for measuring well-being
 # Variables that are useful in baseline
@@ -137,9 +138,99 @@ subjective_well_being <- merge(subjective_well_being,
                                by = "id",
                                all.x = TRUE)
 
+
+# Function for translating response into numeric values
+happiness_numeric <- function(happiness) {
+  recode (happiness,
+          "1 (not a very happy person)" = -3,
+          "2" = -2,
+          "3" = -1,
+          "4" = 0,
+          "5" = 1,
+          "6" = 2,
+          "7 (a very happy person)" = 3,
+          .default = 0
+  )
+}
+
+rel_happiness_numeric <- function(happiness) {
+  recode (happiness,
+          "1 (less happy)" = -3,
+          "2" = -2,
+          "3" = -1,
+          "4" = 0,
+          "5" = 1,
+          "6" = 2,
+          "7 (more happy)" = 3,
+          .default = 0
+  )
+}
+
+swl_numeric <- function(swl) {
+  recode (swl,
+          "Strongly disagree" = -3,
+          "Disagree" = -2,
+          "Slightly disagree" = -1,
+          "Neither agree nor disagree" = 0,
+          "Slightly agree" = 1,
+          "Agree" = 2,
+          "Strongly agree" = 3,
+          .default = 0
+  )
+}
+
+lns_numeric <- function(lns) {
+  recode (lns,
+          "Hardly ever" = -1,
+          "Some of the time" = 0,
+          "Often" = 1,
+          .default = 0
+  )
+}
+
+feel_numeric <- function(feel) {
+  recode (feel,
+          "1. None or almost none of the time" = 0,
+          "2" = 1,
+          "3" = 2,
+          "4. All or almost all of the time" = 3,
+          .default = 1.5
+  )
+}
+
+
 subjective_well_being <- subjective_well_being |>
+  # Filter out non valid responses
   filter(!is.na(treatment),
-         !is.na(swb_absorbed_worthwhile_end))
+         !is.na(swb_absorbed_worthwhile_end)) |>
+  # Translate the response to numeric
+  mutate(# Baseline responses
+    swb_happiness_base = happiness_numeric(swb_happiness_base),
+    swb_relhappiness_base = rel_happiness_numeric(swb_relhappiness_base),
+    swb_ideal_base = swl_numeric(swb_ideal_base),
+    swb_conditions_base = swl_numeric(swb_conditions_base),
+    swb_satisfied_base = swl_numeric(swb_satisfied_base),
+    swb_lack_companion_base = lns_numeric(swb_lack_companion_base),
+    swb_left_out_base = lns_numeric(swb_left_out_base),
+    swb_isolated_base = lns_numeric(swb_isolated_base),
+    swb_bored_base = feel_numeric(swb_bored_base),
+    swb_anxious_base = feel_numeric(swb_anxious_base),
+    swb_depressed_base = feel_numeric(swb_depressed_base),
+    swb_absorbed_worthwhile_base = feel_numeric(swb_absorbed_worthwhile_base),
+    # Endline responses
+    swb_happiness_end = happiness_numeric(swb_happiness_end),
+    swb_relhappiness_end = rel_happiness_numeric(swb_relhappiness_end),
+    swb_ideal_end = swl_numeric(swb_ideal_end),
+    swb_conditions_end = swl_numeric(swb_conditions_end),
+    swb_satisfied_end = swl_numeric(swb_satisfied_end),
+    swb_lack_companion_end = lns_numeric(swb_lack_companion_end),
+    swb_left_out_end = lns_numeric(swb_left_out_end),
+    swb_isolated_end = lns_numeric(swb_isolated_end),
+    swb_bored_end = feel_numeric(swb_bored_end),
+    swb_anxious_end = feel_numeric(swb_anxious_end),
+    swb_depressed_end = feel_numeric(swb_depressed_end),
+    swb_absorbed_worthwhile_end = feel_numeric(swb_absorbed_worthwhile_end),
+  )
 
 
 #### Save data ####

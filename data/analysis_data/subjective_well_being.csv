@@ -1,527 +1,527 @@
 id,swb_happiness_base,swb_relhappiness_base,swb_ideal_base,swb_conditions_base,swb_satisfied_base,swb_lack_companion_base,swb_left_out_base,swb_isolated_base,swb_bored_base,swb_anxious_base,swb_depressed_base,swb_absorbed_worthwhile_base,swb_happiness_end,swb_relhappiness_end,swb_ideal_end,swb_conditions_end,swb_satisfied_end,swb_lack_companion_end,swb_left_out_end,swb_isolated_end,swb_bored_end,swb_anxious_end,swb_depressed_end,swb_absorbed_worthwhile_end,treatment
-25,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,3,2,1. None or almost none of the time,6,5,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,1
-27,5,4,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,5,4,Slightly agree,Neither agree nor disagree,Strongly agree,Some of the time,Some of the time,Hardly ever,2.,2.,3.,2.,1
-28,5,6,Disagree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,3,5,6,Disagree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the times,2.,2.,2.,1
-47,5,6,Slightly agree,Agree,Slightly agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the time,2,3,2,5,4,Slightly agree,Agree,Agree,Some of the time,Often,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,2.,0
-50,6,6,Disagree,Neither agree nor disagree,Slightly agree,Often,Some of the time,Often,2,3,3,4. All or almost all of the time,4,3,Slightly agree,Slightly agree,Slightly agree,Often,Often,Often,3.,3.,2.,3.,0
-53,6,7 (more happy),Neither agree nor disagree,Neither agree nor disagree,Agree,Some of the time,Some of the time,Some of the time,2,1. None or almost none of the time,4. All or almost all of the time,1. None or almost none of the time,5,3,Slightly agree,Slightly disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,2.,2.,4. All or almost all of the time.,2.,0
-56,5,5,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the time,2,2,1. None or almost none of the time,5,4,Slightly disagree,Neither agree nor disagree,Slightly disagree,Some of the time,Often,Often,2.,3.,4. All or almost all of the time.,2.,0
-72,6,6,Agree,Strongly agree,Agree,Hardly ever,Some of the time,Hardly ever,2,3,3,3,5,6,Slightly agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,2.,3.,3.,2.,0
-76,5,3,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2,2,3,2,4,4,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,3.,2.,3.,2.,1
-111,6,4,Neither agree nor disagree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,6,5,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,0
-117,5,4,Strongly disagree,Strongly disagree,Disagree,Some of the time,Some of the time,Some of the time,3,2,2,3,5,4,Disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Hardly ever,Some of the time,3.,2.,2.,4. All or almost all of the time.,1
-132,4,1 (less happy),Slightly agree,Slightly agree,Slightly disagree,Often,Often,Often,3,4. All or almost all of the time,4. All or almost all of the time,3,5,5,Slightly agree,Slightly agree,Neither agree nor disagree,Often,Often,Often,3.,4. All or almost all of the time.,4. All or almost all of the time.,2.,1
-143,3,2,Disagree,Disagree,Slightly disagree,Often,Some of the time,Often,4. All or almost all of the time,3,1. None or almost none of the time,3,3,2,Strongly disagree,Strongly disagree,Disagree,Often,Some of the time,Some of the time,4. All or almost all of the time.,3.,1. None or almost none of the times,2.,0
-162,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,3,2,4. All or almost all of the time,3,5,5,Slightly agree,Slightly agree,Strongly agree,Some of the time,Some of the time,Some of the time,2.,2.,4. All or almost all of the time.,2.,0
-168,5,5,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,2,2,4. All or almost all of the time,1. None or almost none of the time,7 (a very happy person),7 (more happy),Agree,Strongly agree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,4. All or almost all of the time.,1. None or almost none of the times,1
-169,6,7 (more happy),Agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,6,6,Slightly agree,Agree,Strongly agree,Some of the time,Some of the time,Often,2.,3.,3.,1. None or almost none of the times,0
-177,3,3,Slightly agree,Neither agree nor disagree,Slightly agree,Often,Often,Often,3,3,2,2,5,4,Agree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2.,1. None or almost none of the times,3.,2.,1
-189,4,4,Slightly disagree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Some of the time,2,3,3,1. None or almost none of the time,3,4,Slightly disagree,Disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,2.,3.,3.,3.,0
-195,4,4,Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,4,4,Disagree,Slightly disagree,Slightly agree,Some of the time,Hardly ever,Some of the time,2.,4. All or almost all of the time.,3.,1. None or almost none of the times,0
-207,6,5,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,6,7 (more happy),Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-209,7 (a very happy person),7 (more happy),Slightly disagree,Neither agree nor disagree,Slightly disagree,Hardly ever,Some of the time,Hardly ever,2,2,3,2,7 (a very happy person),7 (more happy),Neither agree nor disagree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-228,5,5,Slightly disagree,Disagree,Slightly agree,Hardly ever,Some of the time,Hardly ever,3,3,4. All or almost all of the time,2,5,4,Slightly agree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Some of the time,3.,3.,3.,2.,0
-250,5,5,Strongly agree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,2,2,3,2,4,4,Slightly disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,3.,3.,2.,1
-279,5,3,Slightly disagree,Neither agree nor disagree,Agree,Some of the time,Some of the time,Some of the time,2,2,3,1. None or almost none of the time,5,4,Slightly agree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,2.,3.,3.,2.,0
-290,5,5,Slightly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,2,3,3,2,5,4,Slightly agree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,3.,2.,3.,0
-299,4,3,Disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Some of the time,3,3,2,2,2,2,Disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Some of the time,3.,3.,2.,2.,1
-335,3,3,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2,3,3,2,6,6,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the times,2.,3.,1. None or almost none of the times,1
-350,5,3,Slightly agree,Slightly disagree,Slightly agree,Some of the time,Often,Some of the time,3,3,2,3,4,3,Slightly disagree,Slightly agree,Strongly disagree,Often,Often,Often,3.,3.,2.,4. All or almost all of the time.,1
-357,5,4,Slightly disagree,Disagree,Slightly disagree,Some of the time,Often,Often,2,3,1. None or almost none of the time,3,5,3,Slightly disagree,Slightly disagree,Slightly disagree,Often,Often,Often,2.,3.,1. None or almost none of the times,4. All or almost all of the time.,0
-399,2,2,Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,2,4. All or almost all of the time,3,1 (less happy),Disagree,Disagree,Disagree,Hardly ever,Some of the time,Some of the time,4. All or almost all of the time.,4. All or almost all of the time.,2.,2.,1
-407,4,5,Disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,2,2,3,2,2,2,Strongly disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,3.,3.,2.,2.,1
-421,5,5,Slightly agree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2,2,4. All or almost all of the time,2,5,5,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2.,2.,4. All or almost all of the time.,3.,0
-430,4,4,Slightly agree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,2,3,1. None or almost none of the time,2,3,Strongly disagree,Disagree,Strongly disagree,Often,Often,Often,3.,4. All or almost all of the time.,3.,2.,0
-468,4,3,Disagree,Disagree,Disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,2,4. All or almost all of the time,3,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,2.,4. All or almost all of the time.,0
-471,5,5,Disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,2,1. None or almost none of the time,3,1. None or almost none of the time,3,4,Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,1. None or almost none of the times,1
-491,6,6,Slightly agree,Neither agree nor disagree,Agree,Some of the time,Some of the time,Some of the time,2,2,3,3,5,5,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,2.,3.,3.,2.,1
-494,7 (a very happy person),6,Strongly agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,1. None or almost none of the time,7 (a very happy person),6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-514,4,3,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,3,4. All or almost all of the time,3,2,5,4,Slightly agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,3.,3.,1. None or almost none of the times,0
-529,6,6,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,1. None or almost none of the time,6,6,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-540,5,5,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,2,2,1. None or almost none of the time,2,5,5,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,1. None or almost none of the times,1. None or almost none of the times,1. None or almost none of the times,0
-543,5,5,Neither agree nor disagree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,3,2,4. All or almost all of the time,2,5,5,Neither agree nor disagree,Agree,Agree,Some of the time,Hardly ever,Some of the time,2.,2.,2.,2.,0
-549,4,3,Disagree,Disagree,Disagree,Often,Often,Often,2,3,2,3,4,4,Disagree,Disagree,Slightly disagree,Often,Some of the time,Often,2.,3.,2.,4. All or almost all of the time.,1
-572,5,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Some of the time,2,3,3,2,5,6,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,2.,0
-574,5,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,6,6,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-582,5,5,Slightly disagree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,5,5,Slightly agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,2.,1
-592,5,4,Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Some of the time,3,1. None or almost none of the time,3,1. None or almost none of the time,1 (not a very happy person),1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,3.,3.,2.,1. None or almost none of the times,0
-595,4,4,Slightly disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Some of the time,2,3,3,3,4,4,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,2.,1. None or almost none of the times,3.,0
-604,6,6,Neither agree nor disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,3,3,3,1. None or almost none of the time,6,5,Agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,3.,3.,1. None or almost none of the times,0
-608,4,5,Slightly agree,Slightly agree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,2,1. None or almost none of the time,3,2,5,4,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,1. None or almost none of the times,3.,3.,0
-609,6,6,Slightly disagree,Slightly disagree,Neither agree nor disagree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the time,2,4. All or almost all of the time,3,4,4,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,3.,3.,4. All or almost all of the time.,3.,1
-633,5,4,Slightly agree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,2,2,3,2,3,3,Slightly disagree,Slightly disagree,Slightly disagree,Often,Often,Often,2.,2.,2.,1. None or almost none of the times,1
-654,5,5,Slightly agree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,3,3,2,3,5,5,Agree,Slightly agree,Strongly agree,Some of the time,Some of the time,Some of the time,2.,3.,2.,3.,0
-694,4,3,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,3,2,2,1. None or almost none of the time,6,5,Slightly agree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,1. None or almost none of the times,2.,1
-699,5,4,Disagree,Neither agree nor disagree,Agree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the time,2,3,1. None or almost none of the time,3,3,Disagree,Slightly disagree,Slightly agree,Often,Some of the time,Some of the time,2.,3.,3.,1. None or almost none of the times,1
-700,2,2,Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,3,3,2,2,1 (not a very happy person),1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Some of the time,Some of the time,3.,3.,2.,2.,0
-762,3,2,Slightly disagree,Disagree,Neither agree nor disagree,Some of the time,Some of the time,Often,2,3,1. None or almost none of the time,2,5,4,Slightly agree,Slightly agree,Agree,Hardly ever,Some of the time,Some of the time,3.,3.,2.,1. None or almost none of the times,1
-765,4,3,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Hardly ever,Hardly ever,3,3,3,1. None or almost none of the time,4,4,Disagree,Slightly disagree,Slightly disagree,Some of the time,Hardly ever,Often,2.,4. All or almost all of the time.,3.,1. None or almost none of the times,0
-774,3,1 (less happy),Slightly agree,Slightly agree,Slightly agree,Often,Often,Often,4. All or almost all of the time,1. None or almost none of the time,2,2,4,2,Disagree,Disagree,Disagree,Often,Often,Often,4. All or almost all of the time.,1. None or almost none of the times,2.,2.,0
-784,6,4,Agree,Agree,Agree,Some of the time,Some of the time,Hardly ever,2,2,3,2,4,3,Slightly disagree,Disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,3.,3.,3.,2.,1
-792,6,5,Disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,2,1. None or almost none of the time,2,1. None or almost none of the time,6,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,3.,1. None or almost none of the times,3.,1. None or almost none of the times,0
-801,3,3,Strongly disagree,Disagree,Neither agree nor disagree,Often,Often,Some of the time,3,1. None or almost none of the time,1. None or almost none of the time,3,3,4,Disagree,Disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,3.,1. None or almost none of the times,1. None or almost none of the times,2.,1
-811,3,3,Slightly agree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Often,3,2,3,4. All or almost all of the time,6,6,Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Some of the time,2.,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-823,5,5,Slightly agree,Agree,Agree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the time,2,2,3,5,5,Neither agree nor disagree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,0
-829,4,1 (less happy),Slightly disagree,Strongly disagree,Strongly disagree,Some of the time,Often,Often,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,4. All or almost all of the time,1 (not a very happy person),1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,2.,4. All or almost all of the time.,0
-835,6,7 (more happy),Slightly disagree,Slightly disagree,Strongly agree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the time,2,3,1. None or almost none of the time,6,5,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the times,2.,3.,3.,0
-839,6,6,Agree,Neither agree nor disagree,Slightly agree,Some of the time,Often,Often,2,4. All or almost all of the time,3,2,7 (a very happy person),5,Agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,3.,4. All or almost all of the time.,1. None or almost none of the times,0
-860,4,3,Slightly disagree,Disagree,Slightly agree,Some of the time,Some of the time,Often,4. All or almost all of the time,4. All or almost all of the time,3,2,3,3,Strongly disagree,Strongly disagree,Disagree,Some of the time,Some of the time,Some of the time,4. All or almost all of the time.,4. All or almost all of the time.,2.,3.,0
-872,6,6,Agree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,2,2,4. All or almost all of the time,2,6,5,Slightly agree,Slightly agree,Slightly agree,Often,Some of the time,Some of the time,2.,3.,4. All or almost all of the time.,2.,0
-876,6,6,Agree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,7 (a very happy person),7 (more happy),Slightly agree,Slightly agree,Strongly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-879,4,3,Disagree,Strongly disagree,Neither agree nor disagree,Often,Often,Often,3,3,2,4. All or almost all of the time,2,2,Disagree,Disagree,Disagree,Often,Some of the time,Often,3.,3.,2.,3.,0
-887,5,3,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2,3,3,2,5,5,Neither agree nor disagree,Slightly agree,Agree,Some of the time,Hardly ever,Some of the time,3.,2.,3.,2.,1
-890,4,1 (less happy),Strongly disagree,Strongly disagree,Disagree,Some of the time,Often,Often,4. All or almost all of the time,3,4. All or almost all of the time,2,2,2,Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Often,Often,3.,3.,2.,1. None or almost none of the times,1
-895,2,2,Disagree,Disagree,Slightly disagree,Often,Often,Often,3,3,3,1. None or almost none of the time,1 (not a very happy person),1 (less happy),Strongly disagree,Disagree,Strongly disagree,Some of the time,Some of the time,Some of the time,3.,4. All or almost all of the time.,2.,1. None or almost none of the times,0
-904,4,3,Disagree,Slightly disagree,Slightly disagree,Often,Some of the time,Often,3,3,2,2,3,6,Neither agree nor disagree,Agree,Slightly agree,Often,Some of the time,Often,2.,3.,3.,2.,0
-927,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,2,2,6,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-941,5,2,Disagree,Strongly disagree,Disagree,Some of the time,Some of the time,Some of the time,3,3,2,3,3,3,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,2.,3.,2.,1. None or almost none of the times,0
-947,3,2,Disagree,Disagree,Slightly disagree,Often,Often,Some of the time,3,4. All or almost all of the time,3,3,2,2,Strongly disagree,Disagree,Slightly disagree,Often,Some of the time,Some of the time,3.,3.,2.,2.,1
-948,6,5,Agree,Agree,Strongly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,3,3,3,6,7 (more happy),Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,2.,1
-958,3,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,3,4. All or almost all of the time,2,2,3,4,Disagree,Disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,2.,3.,1
-975,5,4,Strongly disagree,Disagree,Slightly agree,Often,Often,Often,2,3,1. None or almost none of the time,3,4,4,Disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,4. All or almost all of the time.,2.,2.,0
-985,4,3,Disagree,Slightly agree,Slightly disagree,Some of the time,Some of the time,Hardly ever,3,3,2,3,3,4,Disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Hardly ever,3.,2.,1. None or almost none of the times,2.,0
-988,4,4,Slightly disagree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,6,7 (more happy),Agree,Agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,0
-990,3,2,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,3,3,2,2,5,5,Slightly agree,Slightly disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,2.,3.,2.,1. None or almost none of the times,1
-997,4,4,Slightly disagree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Hardly ever,3,3,3,2,4,5,Neither agree nor disagree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Hardly ever,3.,2.,3.,3.,0
-999,6,5,Slightly disagree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2,3,3,1. None or almost none of the time,5,4,Slightly disagree,Slightly disagree,Disagree,Hardly ever,Some of the time,Some of the time,3.,3.,2.,2.,1
-1017,5,4,Neither agree nor disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2,3,4. All or almost all of the time,2,4,1 (less happy),Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,3.,4. All or almost all of the time.,2.,3.,1
-1063,7 (a very happy person),7 (more happy),Slightly disagree,Slightly disagree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,2,3,3,1. None or almost none of the time,5,4,Disagree,Slightly agree,Agree,Often,Some of the time,Often,2.,3.,3.,1. None or almost none of the times,0
-1073,6,5,Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Some of the time,2,1. None or almost none of the time,3,3,6,5,Slightly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,2.,0
-1075,6,5,Agree,Slightly agree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,6,5,Slightly disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-1091,4,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,3,4. All or almost all of the time,1. None or almost none of the time,6,4,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2.,3.,3.,1. None or almost none of the times,1
-1092,5,4,Neither agree nor disagree,Agree,Agree,Hardly ever,Hardly ever,Some of the time,2,3,3,2,5,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,3.,3.,2.,1
-1094,4,4,Agree,Slightly agree,Agree,Often,Often,Often,2,2,3,3,6,7 (more happy),Slightly agree,Agree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,2.,3.,1. None or almost none of the times,0
-1099,6,6,Slightly agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,1. None or almost none of the time,6,5,Disagree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,1
-1103,3,3,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,4. All or almost all of the time,4. All or almost all of the time,2,3,2,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Often,Some of the time,4. All or almost all of the time.,4. All or almost all of the time.,2.,2.,1
-1104,5,5,Agree,Agree,Slightly agree,Some of the time,Some of the time,Some of the time,2,2,1. None or almost none of the time,3,4,4,Agree,Slightly disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,2.,3.,3.,2.,1
-1114,3,3,Strongly disagree,Strongly disagree,Neither agree nor disagree,Some of the time,Often,Some of the time,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,3,5,4,Disagree,Disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,2.,1
-1126,2,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Often,Often,4. All or almost all of the time,4. All or almost all of the time,2,4. All or almost all of the time,1 (not a very happy person),1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,1. None or almost none of the times,4. All or almost all of the time.,1
-1142,5,5,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2,4. All or almost all of the time,1. None or almost none of the time,3,3,3,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,3.,3.,2.,3.,0
-1147,4,3,Disagree,Slightly agree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,3,3,2,4,3,Disagree,Slightly agree,Slightly disagree,Some of the time,Hardly ever,Some of the time,3.,3.,2.,3.,0
-1149,4,4,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the time,2,3,1. None or almost none of the time,5,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,3.,0
-1154,4,5,Neither agree nor disagree,Slightly disagree,Agree,Hardly ever,Hardly ever,Some of the time,3,2,2,3,6,7 (more happy),Slightly agree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,2.,3.,4. All or almost all of the time.,2.,0
-1175,7 (a very happy person),6,Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,4. All or almost all of the time,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,2.,2.,0
-1194,6,6,Agree,Agree,Strongly agree,Some of the time,Hardly ever,Some of the time,2,2,3,2,6,5,Agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,3.,0
-1196,5,4,Agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2,2,2,3,5,5,Agree,Slightly agree,Agree,Some of the time,Some of the time,Hardly ever,2.,3.,4. All or almost all of the time.,2.,1
-1206,5,6,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the time,2,4. All or almost all of the time,1. None or almost none of the time,5,5,Slightly agree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-1231,3,5,Disagree,Disagree,Disagree,Some of the time,Some of the time,Hardly ever,2,1. None or almost none of the time,2,1. None or almost none of the time,5,5,Disagree,Slightly agree,Slightly disagree,Some of the time,Some of the time,Hardly ever,2.,1. None or almost none of the times,2.,1. None or almost none of the times,0
-1251,6,6,Disagree,Disagree,Agree,Often,Some of the time,Some of the time,1. None or almost none of the time,3,3,3,3,2,Strongly disagree,Disagree,Strongly disagree,Often,Some of the time,Some of the time,3.,4. All or almost all of the time.,2.,1. None or almost none of the times,1
-1259,5,4,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,3,3,3,2,4,2,Neither agree nor disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,2.,3.,3.,3.,1
-1265,3,3,Slightly agree,Disagree,Slightly disagree,Some of the time,Hardly ever,Hardly ever,3,3,4. All or almost all of the time,2,5,6,Slightly agree,Neither agree nor disagree,Agree,Some of the time,Some of the time,Some of the time,3.,3.,3.,1. None or almost none of the times,1
-1269,5,4,Slightly agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,1. None or almost none of the time,3,2,6,5,Neither agree nor disagree,Slightly agree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,1. None or almost none of the times,3.,1. None or almost none of the times,0
-1275,5,4,Slightly disagree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2,3,2,3,5,6,Disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Often,2.,3.,2.,4. All or almost all of the time.,0
-1282,5,5,Agree,Agree,Agree,Often,Some of the time,Some of the time,3,2,4. All or almost all of the time,2,5,4,Agree,Slightly agree,Agree,Often,Some of the time,Some of the time,2.,3.,3.,3.,1
-1283,6,6,Slightly disagree,Disagree,Slightly disagree,Some of the time,Hardly ever,Hardly ever,2,3,2,1. None or almost none of the time,5,6,Slightly disagree,Neither agree nor disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,3.,3.,1. None or almost none of the times,0
-1296,3,3,Slightly agree,Slightly agree,Slightly disagree,Often,Often,Often,4. All or almost all of the time,3,2,3,5,3,Disagree,Neither agree nor disagree,Slightly agree,Often,Often,Often,2.,4. All or almost all of the time.,4. All or almost all of the time.,2.,1
-1311,2,1 (less happy),Disagree,Disagree,Disagree,Often,Some of the time,Often,4. All or almost all of the time,4. All or almost all of the time,3,3,1 (not a very happy person),1 (less happy),Slightly disagree,Disagree,Slightly agree,Often,Often,Often,3.,4. All or almost all of the time.,2.,3.,0
-1313,4,3,Disagree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,2,3,5,4,Slightly disagree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,3.,3.,3.,3.,0
-1318,5,6,Strongly disagree,Strongly disagree,Disagree,Some of the time,Some of the time,Some of the time,3,2,3,2,6,5,Neither agree nor disagree,Disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,1. None or almost none of the times,3.,1. None or almost none of the times,0
-1323,7 (a very happy person),7 (more happy),Agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,7 (a very happy person),6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,0
-1338,3,3,Disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Often,3,3,3,1. None or almost none of the time,3,4,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,3.,3.,3.,1. None or almost none of the times,0
-1342,6,7 (more happy),Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,2,3,5,6,Neither agree nor disagree,Slightly agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-1345,7 (a very happy person),6,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,2,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,1. None or almost none of the times,1
-1349,6,6,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,6,6,Agree,Agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-1354,4,3,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Often,Often,3,2,2,3,4,3,Disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,3.,3.,2.,3.,0
-1394,5,5,Slightly agree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Often,Often,3,3,3,3,6,5,Slightly agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,1. None or almost none of the times,2.,1
-1401,6,4,Strongly agree,Strongly agree,Strongly agree,Often,Some of the time,Some of the time,2,4. All or almost all of the time,4. All or almost all of the time,2,5,7 (more happy),Strongly agree,Agree,Strongly agree,Hardly ever,Hardly ever,Some of the time,2.,2.,4. All or almost all of the time.,3.,1
-1404,6,5,Slightly disagree,Disagree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,3,3,3,5,5,Slightly disagree,Neither agree nor disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,4. All or almost all of the time.,3.,4. All or almost all of the time.,3.,0
-1407,6,6,Agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,5,4,Slightly agree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Some of the time,2.,2.,3.,2.,0
-1421,6,6,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,1. None or almost none of the time,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-1424,5,5,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,2,2,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,2.,2.,0
-1441,4,3,Disagree,Strongly disagree,Strongly disagree,Often,Some of the time,Some of the time,3,3,2,1. None or almost none of the time,3,2,Strongly disagree,Strongly disagree,Strongly disagree,Often,Some of the time,Some of the time,3.,3.,3.,2.,1
-1442,4,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the time,1. None or almost none of the time,2,3,5,5,Agree,Agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the times,3.,3.,2.,1
-1444,3,2,Disagree,Strongly disagree,Disagree,Often,Often,Often,,3,2,1. None or almost none of the time,4,3,Slightly disagree,Slightly disagree,Slightly disagree,Often,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,2.,0
-1475,2,2,Strongly disagree,Strongly disagree,Disagree,Often,Some of the time,Often,4. All or almost all of the time,4. All or almost all of the time,3,2,2,2,Disagree,Strongly disagree,Disagree,Some of the time,Some of the time,Often,4. All or almost all of the time.,4. All or almost all of the time.,3.,1. None or almost none of the times,0
-1490,4,4,Slightly disagree,Neither agree nor disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,4. All or almost all of the time,1. None or almost none of the time,1. None or almost none of the time,4,3,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,4. All or almost all of the time.,2.,1. None or almost none of the times,1
-1495,6,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,1. None or almost none of the time,6,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-1512,5,5,Neither agree nor disagree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,3,4,6,Slightly disagree,Slightly disagree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,3.,4. All or almost all of the time.,2.,0
-1518,3,3,Disagree,Slightly disagree,Strongly disagree,Often,Some of the time,Often,4. All or almost all of the time,4. All or almost all of the time,3,1. None or almost none of the time,1 (not a very happy person),1 (less happy),Disagree,Disagree,Strongly disagree,Often,Some of the time,Often,4. All or almost all of the time.,4. All or almost all of the time.,2.,1. None or almost none of the times,0
-1532,5,6,Neither agree nor disagree,Slightly disagree,Strongly agree,Some of the time,Often,Some of the time,3,2,4. All or almost all of the time,2,6,6,Strongly agree,Strongly agree,Agree,Some of the time,Hardly ever,Some of the time,2.,3.,4. All or almost all of the time.,1. None or almost none of the times,0
-1544,5,5,Slightly disagree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,4,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the times,3.,3.,1. None or almost none of the times,1
-1574,3,3,Disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Hardly ever,3,3,2,2,4,3,Disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,3.,2.,1. None or almost none of the times,1
-1579,3,1 (less happy),Disagree,Disagree,Neither agree nor disagree,Often,Often,Often,3,4. All or almost all of the time,2,3,3,2,Slightly disagree,Disagree,Disagree,Some of the time,Some of the time,Often,2.,3.,2.,2.,0
-1589,4,4,Slightly disagree,Slightly agree,Slightly disagree,Often,Often,Often,2,3,3,2,5,4,Disagree,Neither agree nor disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,3.,2.,3.,1
-1607,7 (a very happy person),7 (more happy),Strongly disagree,Strongly disagree,Disagree,Hardly ever,Often,Hardly ever,3,3,3,3,5,5,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,2.,2.,2.,1
-1609,5,4,Neither agree nor disagree,Slightly agree,Slightly agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the time,3,3,3,6,4,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,4. All or almost all of the time.,3.,2.,0
-1625,1 (not a very happy person),1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,4. All or almost all of the time,1 (not a very happy person),1 (less happy),Strongly disagree,Disagree,Disagree,Often,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,1. None or almost none of the times,4. All or almost all of the time.,0
-1632,4,6,Disagree,Disagree,Disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,3,3,3,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time.,3.,2.,3.,0
-1637,5,5,Agree,Slightly agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the time,2,3,2,5,4,Slightly agree,Slightly agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-1643,4,4,Disagree,Slightly agree,Neither agree nor disagree,Often,Hardly ever,Some of the time,3,3,2,2,5,4,Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Some of the time,2.,4. All or almost all of the time.,2.,1. None or almost none of the times,0
-1686,5,5,Neither agree nor disagree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,2,3,3,2,5,5,Neither agree nor disagree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,2.,1
-1694,7 (a very happy person),7 (more happy),Slightly agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,2,2,3,1. None or almost none of the time,5,6,Slightly disagree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,1. None or almost none of the times,0
-1712,3,1 (less happy),Slightly disagree,Neither agree nor disagree,Slightly agree,Some of the time,Often,Often,3,1. None or almost none of the time,4. All or almost all of the time,1. None or almost none of the time,5,5,Disagree,Slightly agree,Slightly agree,Often,Some of the time,Often,2.,3.,3.,2.,0
-1715,5,4,Disagree,Disagree,Slightly disagree,Often,Hardly ever,Hardly ever,3,3,3,3,4,3,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,4. All or almost all of the time.,4. All or almost all of the time.,3.,4. All or almost all of the time.,1
-1716,6,6,Disagree,Slightly agree,Agree,Often,Some of the time,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,1. None or almost none of the time,6,6,Slightly disagree,Slightly agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-1726,6,4,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,3,5,4,Slightly agree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,3.,1
-1731,2,3,Disagree,Disagree,Strongly disagree,Some of the time,Some of the time,Hardly ever,3,1. None or almost none of the time,3,2,4,3,Slightly disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,1. None or almost none of the times,3.,1. None or almost none of the times,0
-1739,4,5,Agree,Agree,Slightly agree,Some of the time,Some of the time,Hardly ever,2,2,2,2,5,4,Agree,Agree,Slightly agree,Some of the time,Some of the time,Hardly ever,2.,1. None or almost none of the times,3.,2.,0
-1741,5,5,Slightly disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Hardly ever,2,2,3,1. None or almost none of the time,5,5,Slightly disagree,Slightly disagree,Slightly agree,Often,Hardly ever,Some of the time,1. None or almost none of the times,3.,3.,2.,0
-1743,3,2,Disagree,Strongly disagree,Disagree,Often,Often,Often,3,1. None or almost none of the time,2,3,3,4,Slightly disagree,Disagree,Disagree,Often,Some of the time,Some of the time,3.,2.,3.,2.,1
-1750,5,4,Slightly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,2,3,2,5,4,Slightly agree,Slightly disagree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,2.,0
-1766,6,6,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,3,5,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,3.,4. All or almost all of the time.,2.,0
-1773,7 (a very happy person),7 (more happy),Neither agree nor disagree,Slightly disagree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,3,6,5,Agree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,2.,3.,1
-1776,5,5,Slightly agree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,2,3,3,4,3,Disagree,Disagree,Disagree,Hardly ever,Some of the time,Some of the time,3.,2.,2.,1. None or almost none of the times,1
-1786,6,6,Slightly agree,Slightly agree,Strongly agree,Hardly ever,Some of the time,Some of the time,2,1. None or almost none of the time,3,1. None or almost none of the time,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,1. None or almost none of the times,0
-1814,5,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,4,5,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-1820,4,4,Slightly disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Hardly ever,3,3,1. None or almost none of the time,4. All or almost all of the time,4,3,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,3.,2.,2.,3.,0
-1834,6,5,Agree,Slightly agree,Strongly agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the time,2,3,2,6,6,Agree,Strongly agree,Strongly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,2.,2.,1. None or almost none of the times,0
-1854,4,2,Slightly disagree,Disagree,Disagree,Often,Some of the time,Often,3,2,1. None or almost none of the time,1. None or almost none of the time,2,1 (less happy),Strongly disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,3.,2.,1. None or almost none of the times,0
-1855,5,6,Slightly agree,Agree,Agree,Often,Hardly ever,Some of the time,2,2,3,3,5,7 (more happy),Agree,Strongly agree,Strongly agree,Some of the time,Hardly ever,Some of the time,2.,2.,3.,1. None or almost none of the times,0
-1860,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,2,3,3,2,6,7 (more happy),Slightly agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,2.,1. None or almost none of the times,1
-1877,4,5,Disagree,Disagree,Slightly disagree,Hardly ever,Some of the time,Often,2,3,2,2,5,4,Slightly disagree,Agree,Slightly agree,Hardly ever,Some of the time,Some of the time,2.,1. None or almost none of the times,3.,2.,0
-1880,7 (a very happy person),5,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,6,6,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-1890,5,6,Slightly disagree,Disagree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,4,2,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,1. None or almost none of the times,3.,2.,1
-1901,3,3,Strongly disagree,Strongly disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,4. All or almost all of the time,4. All or almost all of the time,2,4. All or almost all of the time,5,7 (more happy),Disagree,Neither agree nor disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,3.,3.,2.,2.,1
-1903,7 (a very happy person),7 (more happy),Agree,Strongly agree,Strongly agree,Some of the time,Hardly ever,Hardly ever,2,2,3,2,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,2.,1
-1913,3,2,Strongly disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,3,4. All or almost all of the time,1. None or almost none of the time,1. None or almost none of the time,1 (not a very happy person),5,Strongly disagree,Disagree,Slightly disagree,Some of the time,Often,Often,3.,4. All or almost all of the time.,2.,1. None or almost none of the times,1
-1936,4,3,Slightly disagree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,3,2,2,5,4,Neither agree nor disagree,Slightly agree,Agree,Some of the time,Hardly ever,Some of the time,2.,3.,3.,2.,1
-1939,1 (not a very happy person),1 (less happy),Disagree,Disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,2,3,3,Disagree,Slightly disagree,Slightly disagree,Often,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,2.,2.,0
-1946,6,6,Agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,2,3,3,4,Slightly disagree,Disagree,Disagree,Often,Some of the time,Some of the time,2.,3.,2.,3.,0
-1965,5,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,5,4,Neither agree nor disagree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-1967,5,4,Agree,Strongly agree,Agree,Some of the time,Some of the time,Some of the time,2,3,3,2,6,5,Agree,Agree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,3.,1
-1987,5,7 (more happy),Agree,Agree,Strongly agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,7 (a very happy person),5,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,1
-1999,7 (a very happy person),6,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,1. None or almost none of the time,6,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-2019,6,5,Disagree,Slightly disagree,Slightly disagree,Often,Often,Often,1. None or almost none of the time,2,3,4. All or almost all of the time,1 (not a very happy person),2,Strongly disagree,Disagree,Strongly disagree,Often,Often,Often,3.,3.,3.,3.,1
-2030,5,7 (more happy),Slightly agree,Slightly agree,Strongly agree,Often,Some of the time,Some of the time,1. None or almost none of the time,3,4. All or almost all of the time,1. None or almost none of the time,6,6,Slightly agree,Slightly agree,Strongly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-2037,4,4,Disagree,Disagree,Disagree,Some of the time,Some of the time,Often,4. All or almost all of the time,4. All or almost all of the time,2,4. All or almost all of the time,5,6,Disagree,Disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,3.,2.,3.,1
-2039,3,3,Disagree,Disagree,Disagree,Often,Often,Often,2,4. All or almost all of the time,3,2,5,3,Disagree,Strongly disagree,Strongly disagree,Often,Often,Often,3.,4. All or almost all of the time.,2.,1. None or almost none of the times,0
-2041,4,4,Agree,Agree,Neither agree nor disagree,Some of the time,Some of the time,Often,3,3,2,4. All or almost all of the time,4,4,Agree,Slightly agree,Slightly agree,Often,Often,Some of the time,3.,2.,4. All or almost all of the time.,3.,0
-2048,7 (a very happy person),6,Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,1. None or almost none of the time,7 (a very happy person),6,Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,0
-2073,3,3,Disagree,Disagree,Disagree,Hardly ever,Often,Often,3,2,4. All or almost all of the time,4. All or almost all of the time,1 (not a very happy person),3,Strongly disagree,Disagree,Neither agree nor disagree,Some of the time,Some of the time,Hardly ever,4. All or almost all of the time.,2.,4. All or almost all of the time.,3.,0
-2088,5,5,Neither agree nor disagree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Some of the time,2,3,3,1. None or almost none of the time,5,5,Slightly agree,Neither agree nor disagree,Agree,Some of the time,Some of the time,Some of the time,2.,2.,3.,1. None or almost none of the times,0
-2091,3,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Some of the time,4. All or almost all of the time,2,1. None or almost none of the time,3,2,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Hardly ever,Often,Some of the time,4. All or almost all of the time.,4. All or almost all of the time.,1. None or almost none of the times,2.,1
-2092,5,4,Agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2,2,3,2,6,2,Disagree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,3.,2.,3.,1. None or almost none of the times,0
-2101,4,3,Neither agree nor disagree,Slightly disagree,Slightly disagree,Some of the time,Often,Often,3,3,2,4. All or almost all of the time,5,4,Slightly disagree,Neither agree nor disagree,Neither agree nor disagree,Hardly ever,Some of the time,Some of the time,3.,3.,2.,4. All or almost all of the time.,0
-2108,4,4,Disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,4. All or almost all of the time,2,3,5,4,Disagree,Disagree,Neither agree nor disagree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,4. All or almost all of the time.,3.,2.,0
-2133,5,5,Slightly agree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Some of the time,2,2,4. All or almost all of the time,2,5,5,Strongly agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,2.,2.,2.,2.,0
-2150,3,3,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the time,2,2,1. None or almost none of the time,4,5,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-2167,4,3,Strongly disagree,Strongly disagree,Disagree,Often,Hardly ever,Some of the time,2,4. All or almost all of the time,1. None or almost none of the time,1. None or almost none of the time,4,2,Disagree,Disagree,Disagree,Some of the time,Some of the time,Often,2.,3.,2.,1. None or almost none of the times,0
-2179,4,4,Slightly agree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,2,3,2,2,6,4,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,3.,3.,1. None or almost none of the times,0
-2180,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,6,6,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,2.,0
-2188,6,6,Slightly agree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,7 (a very happy person),6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,2.,1. None or almost none of the times,1
-2190,3,3,Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Some of the time,3,2,2,3,5,5,Slightly disagree,Slightly agree,Slightly disagree,Some of the time,Hardly ever,Some of the time,2.,1. None or almost none of the times,3.,2.,1
-2203,7 (a very happy person),6,Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,2,1. None or almost none of the time,3,1. None or almost none of the time,7 (a very happy person),7 (more happy),Slightly disagree,Slightly disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,2.,2.,4. All or almost all of the time.,2.,1
-2212,3,2,Strongly disagree,Strongly disagree,Disagree,Some of the time,Some of the time,Often,4. All or almost all of the time,4. All or almost all of the time,2,3,5,5,Agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Hardly ever,2.,2.,3.,1. None or almost none of the times,1
-2236,5,5,Strongly agree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2,2,2,1. None or almost none of the time,5,5,Agree,Disagree,Slightly disagree,Hardly ever,Often,Often,1. None or almost none of the times,2.,2.,2.,0
-2274,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,6,5,Slightly disagree,Agree,Slightly disagree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-2277,4,4,Slightly disagree,Slightly disagree,Slightly agree,Hardly ever,Some of the time,Some of the time,2,3,3,2,6,7 (more happy),Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Hardly ever,2.,2.,1. None or almost none of the times,3.,1
-2286,5,4,Slightly disagree,Slightly disagree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,2,2,5,4,Neither agree nor disagree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,3.,1
-2323,3,4,Disagree,Strongly disagree,Neither agree nor disagree,Some of the time,Hardly ever,Hardly ever,2,2,3,2,4,4,Slightly disagree,Slightly disagree,Slightly disagree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,1. None or almost none of the times,1
-2327,5,4,Neither agree nor disagree,Disagree,Disagree,Often,Some of the time,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,6,6,Disagree,Strongly disagree,Slightly disagree,Often,Hardly ever,Hardly ever,2.,2.,3.,3.,1
-2355,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,5,4,Neither agree nor disagree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,3.,4. All or almost all of the time.,3.,0
-2365,3,2,Slightly disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,4. All or almost all of the time,4. All or almost all of the time,2,3,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Some of the time,3.,3.,2.,3.,0
-2406,4,3,Neither agree nor disagree,Disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,3,2,3,2,3,3,Strongly disagree,Disagree,Disagree,Often,Often,Often,3.,2.,3.,3.,0
-2408,5,6,Agree,Agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,2,6,5,Agree,Slightly agree,Agree,Some of the time,Some of the time,Hardly ever,2.,3.,4. All or almost all of the time.,2.,1
-2427,4,3,Slightly disagree,Slightly agree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,3,3,3,4. All or almost all of the time,3,3,Slightly disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Some of the time,3.,3.,3.,4. All or almost all of the time.,0
-2436,5,5,Slightly agree,Strongly agree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the time,4. All or almost all of the time,3,2,5,6,Slightly agree,Agree,Agree,Hardly ever,Some of the time,Some of the time,2.,3.,4. All or almost all of the time.,2.,0
-2443,5,6,Slightly disagree,Agree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,3,2,1. None or almost none of the time,5,5,Slightly disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,3.,3.,2.,1
-2445,5,5,Disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2,1. None or almost none of the time,3,1. None or almost none of the time,4,4,Disagree,Disagree,Strongly disagree,Often,Often,Often,3.,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,1
-2449,3,3,Agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,2,3,2,4,5,Slightly disagree,Disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,2.,2.,2.,3.,0
-2488,6,6,Strongly agree,Agree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,6,7 (more happy),Agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,2.,0
-2489,4,5,Disagree,Disagree,Disagree,Often,Often,Often,3,4. All or almost all of the time,2,4. All or almost all of the time,4,3,Slightly disagree,Slightly disagree,Neither agree nor disagree,Often,Some of the time,Often,3.,3.,2.,2.,1
-2528,3,3,Neither agree nor disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,2,2,4. All or almost all of the time,2,4,5,Agree,Agree,Slightly agree,Often,Some of the time,Some of the time,1. None or almost none of the times,3.,4. All or almost all of the time.,1. None or almost none of the times,0
-2532,5,4,Strongly disagree,Disagree,Disagree,Often,Some of the time,Often,2,3,2,3,4,4,Strongly disagree,Strongly disagree,Disagree,Often,Often,Often,2.,3.,2.,3.,1
-2536,6,7 (more happy),Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,6,5,Slightly agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,2.,0
-2572,5,4,Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,5,4,Neither agree nor disagree,Neither agree nor disagree,Agree,Some of the time,Some of the time,Some of the time,2.,2.,3.,2.,0
-2597,4,4,Slightly disagree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,3,3,1. None or almost none of the time,7 (a very happy person),7 (more happy),Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-2600,5,5,Disagree,Disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the time,1. None or almost none of the time,3,2,6,6,Slightly agree,Agree,Slightly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,1. None or almost none of the times,0
-2622,7 (a very happy person),7 (more happy),Agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,7 (a very happy person),7 (more happy),Agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,0
-2629,3,3,Disagree,Disagree,Disagree,Often,Often,Often,3,2,1. None or almost none of the time,3,2,2,Disagree,Disagree,Strongly disagree,Some of the time,Some of the time,Some of the time,4. All or almost all of the time.,2.,3.,2.,1
-2640,3,4,Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,4. All or almost all of the time,2,2,1 (not a very happy person),1 (less happy),Disagree,Disagree,Disagree,Some of the time,Often,Often,3.,3.,2.,4. All or almost all of the time.,0
-2646,4,3,Disagree,Disagree,Slightly disagree,Often,Often,Often,2,3,3,1. None or almost none of the time,5,5,Agree,Agree,Agree,Hardly ever,Some of the time,Some of the time,4. All or almost all of the time.,4. All or almost all of the time.,3.,3.,1
-2654,7 (a very happy person),5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,6,5,Neither agree nor disagree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,1. None or almost none of the times,1
-2665,5,4,Slightly disagree,Disagree,Slightly agree,Some of the time,Hardly ever,Often,1. None or almost none of the time,2,3,2,2,1 (less happy),Disagree,Strongly disagree,Disagree,Often,Often,Often,3.,4. All or almost all of the time.,2.,2.,1
-2688,3,4,Slightly disagree,Agree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,2,3,3,2,4,3,Disagree,Slightly disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,3.,3.,2.,3.,1
-2690,6,5,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,7 (a very happy person),7 (more happy),Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,0
-2701,6,4,Strongly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,2,4. All or almost all of the time,3,2,6,4,Slightly agree,Agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the times,2.,3.,2.,1
-2716,4,2,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Some of the time,Often,3,1. None or almost none of the time,3,2,5,4,Neither agree nor disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,3.,4. All or almost all of the time.,2.,1
-2718,5,5,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,5,5,Slightly disagree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the times,2.,3.,2.,0
-2736,5,4,Disagree,Disagree,Neither agree nor disagree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the time,2,2,3,4,4,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Often,Often,2.,3.,2.,3.,1
-2742,3,3,Neither agree nor disagree,Disagree,Neither agree nor disagree,Some of the time,Some of the time,Often,2,2,3,2,3,4,Neither agree nor disagree,Slightly disagree,Slightly disagree,Often,Some of the time,Often,3.,3.,2.,3.,0
-2750,5,6,Agree,Strongly agree,Strongly agree,Some of the time,Some of the time,Some of the time,3,3,4. All or almost all of the time,1. None or almost none of the time,6,6,Agree,Strongly agree,Strongly agree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the times,3.,4. All or almost all of the time.,2.,1
-2754,3,3,Slightly disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Some of the time,3,3,2,3,4,3,Slightly disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Some of the time,3.,3.,2.,2.,0
-2761,5,6,Slightly agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,2,3,3,2,5,6,Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Some of the time,2.,3.,3.,2.,0
-2767,7 (a very happy person),7 (more happy),Slightly agree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,2,5,7 (more happy),Slightly agree,Neither agree nor disagree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,0
-2768,4,5,Slightly disagree,Disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,2,2,1. None or almost none of the time,3,6,6,Neither agree nor disagree,Neither agree nor disagree,Agree,Some of the time,Hardly ever,Hardly ever,2.,2.,4. All or almost all of the time.,2.,1
-2807,3,4,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,3,4. All or almost all of the time,3,3,4,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,3.,3.,3.,3.,0
-2811,6,5,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,6,5,Slightly agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,1. None or almost none of the times,1. None or almost none of the times,1
-2812,5,5,Slightly agree,Neither agree nor disagree,Slightly disagree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,2,2,2,5,5,Neither agree nor disagree,Disagree,Disagree,Often,Some of the time,Hardly ever,1. None or almost none of the times,2.,2.,1. None or almost none of the times,0
-2813,5,4,Slightly disagree,Disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,3,3,1. None or almost none of the time,6,5,Agree,Slightly agree,Strongly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,3.,4. All or almost all of the time.,2.,0
-2829,5,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,5,5,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,1. None or almost none of the times,0
-2840,4,3,Neither agree nor disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2,3,2,3,4,5,Slightly disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,3.,3.,2.,0
-2861,6,6,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,6,6,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the times,2.,3.,2.,1
-2879,1 (not a very happy person),1 (less happy),Neither agree nor disagree,Slightly disagree,Slightly disagree,Often,Often,Often,3,3,2,3,4,2,Slightly agree,Slightly disagree,Disagree,Often,Often,Often,3.,2.,3.,1. None or almost none of the times,0
-2880,5,4,Slightly disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,3,3,3,4. All or almost all of the time,4,3,Slightly agree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,2.,4. All or almost all of the time.,2.,0
-2893,3,3,Disagree,Disagree,Neither agree nor disagree,Often,Some of the time,Some of the time,3,2,2,2,5,4,Slightly agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,3.,2.,3.,1
-2918,6,6,Slightly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,2,3,3,3,3,4,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Often,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,1. None or almost none of the times,3.,0
-2930,6,6,Slightly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,1. None or almost none of the time,3,2,6,6,Agree,Strongly agree,Strongly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-2941,2,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,1. None or almost none of the time,3,3,Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Some of the time,Often,3.,3.,1. None or almost none of the times,2.,0
-2960,5,7 (more happy),Agree,Slightly disagree,Agree,Some of the time,Hardly ever,Hardly ever,3,2,4. All or almost all of the time,1. None or almost none of the time,6,6,Agree,Disagree,Strongly agree,Often,Hardly ever,Hardly ever,2.,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,0
-2964,2,2,Strongly disagree,Slightly agree,Disagree,Hardly ever,Hardly ever,Hardly ever,4. All or almost all of the time,3,3,3,3,3,Strongly disagree,Slightly agree,Slightly disagree,Some of the time,Hardly ever,Hardly ever,3.,2.,3.,2.,0
-2975,3,3,Strongly disagree,Strongly disagree,Slightly agree,Often,Often,Often,4. All or almost all of the time,3,1. None or almost none of the time,3,4,6,Slightly disagree,Slightly disagree,Agree,Often,Some of the time,Hardly ever,3.,3.,3.,1. None or almost none of the times,0
-2987,5,5,Neither agree nor disagree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,4. All or almost all of the time,3,2,5,4,Neither agree nor disagree,Slightly disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2.,3.,3.,2.,0
-3014,3,2,Disagree,Slightly disagree,Strongly disagree,Hardly ever,Hardly ever,Some of the time,4. All or almost all of the time,3,2,4. All or almost all of the time,2,2,Disagree,Strongly disagree,Strongly disagree,Some of the time,Some of the time,Often,4. All or almost all of the time.,3.,2.,4. All or almost all of the time.,1
-3020,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,4. All or almost all of the time,2,2,5,5,Slightly disagree,Disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,4. All or almost all of the time.,3.,1. None or almost none of the times,1
-3022,4,5,Slightly agree,Slightly disagree,Agree,Often,Some of the time,Some of the time,3,2,2,2,5,5,Slightly agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,2.,0
-3024,3,3,Slightly disagree,Slightly agree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,4. All or almost all of the time,3,2,2,4,3,Slightly disagree,Slightly agree,Slightly disagree,Hardly ever,Some of the time,Some of the time,3.,3.,2.,2.,0
-3051,3,3,Disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,2,3,2,1. None or almost none of the time,4,5,Slightly disagree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Some of the time,2.,3.,3.,1. None or almost none of the times,0
-3059,4,5,Strongly disagree,Disagree,Disagree,Often,Some of the time,Often,3,3,1. None or almost none of the time,2,5,5,Strongly disagree,Disagree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,1. None or almost none of the times,2.,1. None or almost none of the times,0
-3065,5,5,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Some of the time,2,3,2,2,5,5,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,2.,3.,2.,1. None or almost none of the times,0
-3081,6,7 (more happy),Strongly disagree,Strongly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,3,4. All or almost all of the time,3,5,4,Strongly agree,Strongly agree,Disagree,Some of the time,Hardly ever,Some of the time,3.,3.,3.,1. None or almost none of the times,0
-3100,5,6,Slightly disagree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,3,2,2,3,5,5,Slightly disagree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,3.,3.,3.,0
-3119,5,5,Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,3,3,1. None or almost none of the time,5,5,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Hardly ever,2.,2.,3.,2.,0
-3125,4,4,Slightly agree,Neither agree nor disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,3,2,3,2,4,4,Slightly agree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Some of the time,Hardly ever,2.,2.,3.,2.,1
-9584,5,5,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,2,4. All or almost all of the time,2,4,4,Slightly disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,2.,3.,3.,0
-9588,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,3,3,3,5,5,Slightly agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,2.,3.,3.,1
-9609,6,5,Agree,Agree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,1. None or almost none of the time,6,4,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-9707,6,5,Agree,Agree,Agree,Often,Hardly ever,Some of the time,2,2,4. All or almost all of the time,1. None or almost none of the time,6,6,Slightly agree,Agree,Strongly agree,Hardly ever,Some of the time,Some of the time,3.,3.,4. All or almost all of the time.,1. None or almost none of the times,0
-9783,5,5,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,2,3,5,6,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,1
-9787,3,3,Strongly disagree,Strongly disagree,Strongly disagree,Hardly ever,Often,Often,4. All or almost all of the time,3,1. None or almost none of the time,4. All or almost all of the time,2,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Often,Often,4. All or almost all of the time.,3.,1. None or almost none of the times,2.,0
-9910,5,5,Slightly disagree,Strongly disagree,Neither agree nor disagree,Often,Some of the time,Some of the time,3,3,2,2,3,2,Strongly disagree,Strongly disagree,Slightly disagree,Often,Often,Often,3.,2.,1. None or almost none of the times,3.,0
-9958,6,4,Strongly disagree,Disagree,Disagree,Some of the time,Hardly ever,Hardly ever,3,1. None or almost none of the time,4. All or almost all of the time,2,6,5,Slightly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,2.,2.,4. All or almost all of the time.,1. None or almost none of the times,1
-10187,5,4,Slightly agree,Slightly agree,Agree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the time,4. All or almost all of the time,2,2,5,3,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,4. All or almost all of the time.,3.,2.,0
-10210,4,5,Agree,Agree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,3,3,2,3,5,Slightly disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,2.,3.,3.,1
-10218,1 (not a very happy person),1 (less happy),Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Some of the time,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,4. All or almost all of the time,3,3,Disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,4. All or almost all of the time.,2.,2.,2.,1
-10272,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,1. None or almost none of the time,7 (a very happy person),5,Agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,1
-10304,4,5,Slightly agree,Slightly agree,Slightly disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,3,3,4,3,Disagree,Agree,Disagree,Often,Often,Often,3.,4. All or almost all of the time.,2.,4. All or almost all of the time.,0
-10335,2,2,Strongly disagree,Strongly disagree,Strongly disagree,Often,Some of the time,Some of the time,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,3,2,1 (less happy),Disagree,Disagree,Disagree,Often,Often,Often,3.,4. All or almost all of the time.,1. None or almost none of the times,3.,1
-10363,3,2,Disagree,Disagree,Slightly agree,Often,Often,Often,2,4. All or almost all of the time,2,1. None or almost none of the time,3,2,Disagree,Slightly disagree,Strongly disagree,Often,Often,Often,3.,3.,2.,1. None or almost none of the times,0
-10510,5,4,Neither agree nor disagree,Slightly disagree,Slightly disagree,Often,Hardly ever,Some of the time,3,3,2,2,4,3,Disagree,Disagree,Strongly disagree,Often,Often,Some of the time,3.,3.,2.,3.,0
-10534,5,5,Slightly disagree,Slightly disagree,Agree,Some of the time,Often,Some of the time,2,2,2,3,5,5,Slightly disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,2.,3.,4. All or almost all of the time.,0
-10595,5,5,Slightly agree,Agree,Agree,Some of the time,Hardly ever,Some of the time,2,3,3,1. None or almost none of the time,5,4,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,3.,2.,3.,1. None or almost none of the times,0
-10662,7 (a very happy person),5,Neither agree nor disagree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,2,1. None or almost none of the time,3,3,4,1 (less happy),Strongly disagree,Strongly disagree,Neither agree nor disagree,Hardly ever,Some of the time,Often,3.,1. None or almost none of the times,2.,1. None or almost none of the times,0
-10669,6,7 (more happy),Agree,Agree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,3,6,7 (more happy),Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,3.,0
-10675,6,4,Slightly agree,Neither agree nor disagree,Agree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the time,2,2,1. None or almost none of the time,6,4,Slightly disagree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Some of the time,3.,3.,2.,2.,1
-10719,5,5,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,2,4,4,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2.,2.,3.,2.,0
-10742,2,2,Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Some of the time,Some of the time,4. All or almost all of the time,4. All or almost all of the time,2,3,2,3,Strongly disagree,Strongly disagree,Disagree,Hardly ever,Some of the time,Some of the time,4. All or almost all of the time.,4. All or almost all of the time.,3.,1. None or almost none of the times,0
-10865,6,5,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,1. None or almost none of the time,3,3,5,4,Neither agree nor disagree,Slightly agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,3.,0
-10940,5,4,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,1. None or almost none of the time,3,2,5,4,Slightly agree,Slightly agree,Slightly disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,2.,0
-11272,5,4,Slightly disagree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Some of the time,3,3,3,1. None or almost none of the time,5,4,Disagree,Slightly disagree,Slightly disagree,Hardly ever,Hardly ever,Some of the time,2.,3.,3.,1. None or almost none of the times,0
-11408,6,6,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,5,5,Neither agree nor disagree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,0
-11417,5,5,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,2,3,3,1. None or almost none of the time,6,7 (more happy),Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,2.,3.,3.,1. None or almost none of the times,0
-11513,3,4,Slightly agree,Neither agree nor disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,2,2,2,4. All or almost all of the time,4,3,Slightly agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,3.,2.,3.,1
-11544,5,5,Disagree,Agree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,7 (a very happy person),7 (more happy),Agree,Agree,Slightly agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the times,2.,3.,3.,1
-11663,3,5,Slightly agree,Slightly disagree,Agree,Some of the time,Hardly ever,Hardly ever,2,1. None or almost none of the time,4. All or almost all of the time,2,5,4,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2.,2.,4. All or almost all of the time.,2.,0
-11692,4,5,Agree,Agree,Agree,Hardly ever,Some of the time,Some of the time,2,2,3,2,5,6,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Some of the time,2.,3.,3.,2.,0
-11724,2,2,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,2,3,3,3,3,3,Disagree,Disagree,Disagree,Some of the time,Often,Often,3.,4. All or almost all of the time.,3.,2.,0
-11770,6,6,Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,6,5,Agree,Strongly agree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,1. None or almost none of the times,1
-12066,3,3,Strongly disagree,Disagree,Disagree,Some of the time,Often,Some of the time,3,1. None or almost none of the time,2,1. None or almost none of the time,3,3,Disagree,Disagree,Disagree,Often,Often,Often,3.,3.,2.,1. None or almost none of the times,0
-12088,4,5,Slightly agree,Slightly agree,Agree,Hardly ever,Some of the time,Hardly ever,2,1. None or almost none of the time,3,2,6,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,1. None or almost none of the times,4. All or almost all of the time.,2.,0
-12157,3,3,Disagree,Disagree,Disagree,Often,Often,Often,3,4. All or almost all of the time,3,3,3,4,Disagree,Disagree,Disagree,Some of the time,Some of the time,Often,2.,3.,2.,3.,0
-12174,5,7 (more happy),Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,6,5,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,1. None or almost none of the times,3.,3.,1
-12180,5,5,Slightly agree,Neither agree nor disagree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,3,3,2,5,4,Slightly disagree,Disagree,Neither agree nor disagree,Often,Hardly ever,Some of the time,2.,3.,2.,3.,1
-12182,5,5,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,2,3,3,6,5,Neither agree nor disagree,Neither agree nor disagree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,2.,0
-12326,5,6,Agree,Neither agree nor disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,2,1. None or almost none of the time,3,2,5,7 (more happy),Slightly agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,3.,1
-12550,5,5,Disagree,Disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,3,2,2,7 (a very happy person),5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,0
-12616,6,6,Agree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,2,3,2,2,5,6,Agree,Slightly agree,Agree,Often,Some of the time,Some of the time,3.,3.,2.,2.,1
-12636,5,5,Slightly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,1. None or almost none of the time,3,4. All or almost all of the time,5,5,Neither agree nor disagree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,1. None or almost none of the times,3.,3.,1
-12662,5,5,Slightly disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,3,2,2,5,5,Slightly agree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the times,2.,3.,2.,0
-12676,7 (a very happy person),6,Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,3,4. All or almost all of the time,1. None or almost none of the time,7 (a very happy person),6,Agree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-12698,4,3,Disagree,Slightly agree,Disagree,Hardly ever,Some of the time,Often,3,4. All or almost all of the time,1. None or almost none of the time,4. All or almost all of the time,5,4,Slightly agree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Some of the time,2.,4. All or almost all of the time.,2.,2.,0
-12728,5,5,Slightly agree,Neither agree nor disagree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,5,4,Slightly disagree,Neither agree nor disagree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-12764,7 (a very happy person),7 (more happy),Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,,,,,,,,,,,,,1
-12925,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the time,1. None or almost none of the time,2,2,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,1. None or almost none of the times,0
-12970,3,3,Slightly disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,3,3,3,6,5,Slightly agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,3.,1
-13031,6,4,Slightly agree,Slightly agree,Agree,Hardly ever,Some of the time,Some of the time,2,3,3,2,5,5,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Some of the time,2.,2.,3.,1. None or almost none of the times,0
-13317,4,4,Slightly agree,Agree,Slightly agree,Some of the time,Some of the time,Often,2,1. None or almost none of the time,2,1. None or almost none of the time,4,4,Slightly disagree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,2.,2.,1. None or almost none of the times,0
-13396,2,3,Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,4. All or almost all of the time,4,3,Strongly disagree,Neither agree nor disagree,Strongly disagree,Often,Some of the time,Some of the time,3.,4. All or almost all of the time.,2.,4. All or almost all of the time.,0
-13507,3,3,Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,3,2,3,2,5,3,Disagree,Slightly disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,2.,1
-13711,5,4,Slightly agree,Neither agree nor disagree,Agree,Often,Some of the time,Hardly ever,1. None or almost none of the time,2,2,3,5,6,Slightly disagree,Slightly agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the times,2.,3.,3.,0
-13768,5,5,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Often,Some of the time,Some of the time,3,3,4. All or almost all of the time,2,5,5,Slightly agree,Neither agree nor disagree,Agree,Some of the time,Hardly ever,Hardly ever,2.,3.,3.,2.,0
-13941,5,4,Slightly agree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,2,3,2,4,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,1. None or almost none of the times,2.,3.,0
-14012,4,4,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Hardly ever,Some of the time,3,3,3,2,3,4,Neither agree nor disagree,Slightly disagree,Slightly disagree,Often,Some of the time,Some of the time,2.,3.,2.,2.,0
-14021,6,5,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,2,6,6,Agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,4. All or almost all of the time.,1. None or almost none of the times,1
-14039,6,4,Agree,Slightly agree,Agree,Often,Some of the time,Hardly ever,1. None or almost none of the time,2,3,2,6,4,Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,2.,1
-14117,1 (not a very happy person),3,Disagree,Strongly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,2,2,2,Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Hardly ever,Hardly ever,4. All or almost all of the time.,4. All or almost all of the time.,1. None or almost none of the times,2.,1
-14123,4,4,Neither agree nor disagree,Slightly disagree,Agree,Often,Hardly ever,Hardly ever,2,1. None or almost none of the time,2,1. None or almost none of the time,4,4,Disagree,Disagree,Slightly disagree,Often,Some of the time,Some of the time,2.,1. None or almost none of the times,3.,2.,1
-14159,2,2,Strongly disagree,Strongly disagree,Strongly disagree,Often,Some of the time,Often,3,3,1. None or almost none of the time,3,2,2,Strongly disagree,Disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time.,3.,1. None or almost none of the times,3.,0
-14205,4,3,Disagree,Slightly disagree,Slightly agree,Some of the time,Hardly ever,Often,3,2,2,2,3,3,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,3.,2.,2.,2.,1
-14221,2,3,Disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Some of the time,3,3,3,1. None or almost none of the time,3,4,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,2.,3.,2.,2.,1
-14225,7 (a very happy person),5,Agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,7 (a very happy person),6,Slightly agree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2.,2.,4. All or almost all of the time.,2.,0
-14248,7 (a very happy person),5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,2.,0
-14277,6,6,Slightly agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,1. None or almost none of the time,2,7 (a very happy person),5,Neither agree nor disagree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,1. None or almost none of the times,2.,0
-14308,5,5,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,3,2,3,2,4,4,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,3.,3.,3.,0
-14321,7 (a very happy person),5,Slightly agree,Agree,Agree,Often,Often,Often,2,3,2,4. All or almost all of the time,4,2,Slightly disagree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,2.,1. None or almost none of the times,3.,0
-14402,5,5,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,2,3,6,6,Agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,2.,2.,0
-14551,4,4,Slightly disagree,Neither agree nor disagree,Neither agree nor disagree,Often,Often,Often,2,3,1. None or almost none of the time,3,5,4,Neither agree nor disagree,Slightly agree,Slightly agree,Some of the time,Often,Hardly ever,1. None or almost none of the times,2.,3.,3.,0
-14557,4,4,Neither agree nor disagree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,3,3,4. All or almost all of the time,,,,,,,,,,,,,0
-14718,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,1. None or almost none of the time,6,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,2.,1
-14729,4,2,Slightly disagree,Slightly disagree,Disagree,Some of the time,Some of the time,Often,2,3,2,2,4,1 (less happy),Slightly disagree,Slightly disagree,Disagree,Some of the time,Often,Some of the time,3.,4. All or almost all of the time.,2.,2.,0
-14738,4,5,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Some of the time,Often,Some of the time,3,4. All or almost all of the time,3,2,4,2,Neither agree nor disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,3.,3.,3.,0
-14751,3,3,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,2,3,3,1. None or almost none of the time,4,4,Slightly disagree,Slightly disagree,Agree,Some of the time,Some of the time,Some of the time,2.,2.,3.,2.,0
-14791,4,5,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Hardly ever,2,3,2,3,5,6,Agree,Agree,Strongly agree,Some of the time,Some of the time,Some of the time,2.,3.,3.,2.,0
-14866,7 (a very happy person),7 (more happy),Slightly disagree,Slightly agree,Agree,Some of the time,Often,Often,2,1. None or almost none of the time,3,2,5,6,Agree,Agree,Strongly agree,Some of the time,Some of the time,Some of the time,2.,3.,3.,1. None or almost none of the times,1
-14974,4,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,4. All or almost all of the time,3,1. None or almost none of the time,3,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,3.,4. All or almost all of the time.,3.,2.,0
-15023,5,6,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,4. All or almost all of the time,3,1. None or almost none of the time,6,6,Slightly disagree,Agree,Agree,Some of the time,Some of the time,Some of the time,2.,2.,3.,2.,0
-15035,4,3,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,3,3,2,4. All or almost all of the time,4,4,Neither agree nor disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Hardly ever,Hardly ever,2.,1. None or almost none of the times,3.,3.,0
-15036,6,7 (more happy),Agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,5,5,Slightly disagree,Slightly disagree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,2.,0
-15076,1 (not a very happy person),1 (less happy),Neither agree nor disagree,Agree,Disagree,Often,Some of the time,Often,3,4. All or almost all of the time,2,3,3,1 (less happy),Slightly disagree,Disagree,Slightly disagree,Often,Some of the time,Often,3.,4. All or almost all of the time.,3.,1. None or almost none of the times,0
-15096,7 (a very happy person),5,Slightly agree,Agree,Agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the time,2,2,3,6,5,Slightly agree,Agree,Slightly agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the times,2.,3.,2.,1
-15157,6,7 (more happy),Slightly agree,Slightly agree,Agree,Often,Some of the time,Some of the time,2,3,3,1. None or almost none of the time,3,2,Slightly disagree,Slightly disagree,Slightly agree,Often,Some of the time,Often,3.,3.,4. All or almost all of the time.,1. None or almost none of the times,0
-15163,5,3,Strongly disagree,Strongly disagree,Neither agree nor disagree,Often,Often,Often,2,2,3,4. All or almost all of the time,4,2,Disagree,Strongly disagree,Slightly disagree,Often,Some of the time,Some of the time,2.,3.,4. All or almost all of the time.,3.,0
-15174,4,4,Slightly agree,Slightly disagree,Slightly disagree,Often,Some of the time,Some of the time,3,,3,2,6,5,Slightly disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Hardly ever,4. All or almost all of the time.,2.,3.,2.,0
-15220,4,5,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Hardly ever,2,3,4. All or almost all of the time,1. None or almost none of the time,5,4,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,3.,3.,4. All or almost all of the time.,2.,0
-15306,6,5,Slightly agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,6,4,Slightly agree,Slightly agree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,1
-15507,5,6,Disagree,Disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2,1. None or almost none of the time,2,1. None or almost none of the time,3,4,Neither agree nor disagree,Neither agree nor disagree,Agree,Often,Hardly ever,Some of the time,1. None or almost none of the times,1. None or almost none of the times,2.,1. None or almost none of the times,1
-15519,5,5,Slightly agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,3,3,2,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,1. None or almost none of the times,3.,2.,1
-15564,5,3,Disagree,Disagree,Slightly disagree,Hardly ever,Some of the time,Some of the time,3,3,2,3,5,4,Slightly disagree,Agree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,2.,3.,2.,3.,0
-15678,5,4,Slightly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,2,2,3,5,5,Slightly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,2.,3.,3.,2.,0
-15691,4,4,Slightly agree,Slightly agree,Slightly disagree,Often,Often,Often,2,2,3,1. None or almost none of the time,3,4,Slightly disagree,Slightly agree,Slightly disagree,Often,Often,Often,2.,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-15761,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Some of the time,2,2,2,2,5,4,Slightly agree,Slightly agree,Agree,Hardly ever,Some of the time,Some of the time,2.,2.,2.,2.,1
-15770,3,2,Slightly agree,Slightly agree,Agree,Hardly ever,Some of the time,Some of the time,3,4. All or almost all of the time,2,2,5,6,Slightly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,2.,0
-15799,7 (a very happy person),7 (more happy),Slightly agree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,3,7 (a very happy person),7 (more happy),Agree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,1
-15802,5,6,Agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the time,2,3,2,6,6,Slightly agree,Agree,Agree,Some of the time,Some of the time,Some of the time,2.,2.,2.,3.,0
-15808,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,3,1. None or almost none of the time,3,2,6,6,Strongly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,1. None or almost none of the times,3.,2.,0
-15817,4,3,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Often,Some of the time,Some of the time,2,1. None or almost none of the time,3,3,4,4,Slightly agree,Agree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,3.,4. All or almost all of the time.,2.,0
-15821,5,4,Slightly disagree,Slightly disagree,Slightly disagree,Hardly ever,Some of the time,Hardly ever,2,3,2,3,4,3,Slightly disagree,Slightly disagree,Disagree,Hardly ever,Some of the time,Some of the time,2.,3.,2.,3.,0
-15845,7 (a very happy person),5,Slightly disagree,Slightly disagree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,3,2,2,4,4,Strongly disagree,Strongly disagree,Strongly disagree,Hardly ever,Some of the time,Some of the time,2.,4. All or almost all of the time.,2.,4. All or almost all of the time.,0
-15926,5,5,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,3,2,1. None or almost none of the time,5,4,Agree,Agree,Agree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the times,2.,3.,2.,1
-16006,2,1 (less happy),Neither agree nor disagree,Disagree,Disagree,Some of the time,Some of the time,Often,4. All or almost all of the time,3,1. None or almost none of the time,2,2,1 (less happy),Slightly disagree,Disagree,Disagree,Often,Often,Often,3.,3.,1. None or almost none of the times,2.,0
-16028,5,6,Slightly disagree,Slightly disagree,Disagree,Hardly ever,Some of the time,Some of the time,4. All or almost all of the time,4. All or almost all of the time,2,3,7 (a very happy person),6,Agree,Disagree,Disagree,Hardly ever,Some of the time,Some of the time,2.,2.,4. All or almost all of the time.,4. All or almost all of the time.,1
-16102,4,4,Slightly agree,Agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,2,3,2,Slightly disagree,Slightly agree,Slightly disagree,Some of the time,Some of the time,Often,3.,3.,3.,3.,1
-16126,5,6,Agree,Strongly agree,Agree,Some of the time,Hardly ever,Hardly ever,2,2,3,2,5,6,Slightly agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,2.,1. None or almost none of the times,3.,1. None or almost none of the times,0
-16132,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,2,7 (a very happy person),7 (more happy),Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,2.,1. None or almost none of the times,0
-16181,3,4,Disagree,Disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,3,2,2,2,3,3,Disagree,Disagree,Slightly disagree,Some of the time,Hardly ever,Often,3.,2.,3.,2.,0
-16302,4,4,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2,2,2,2,3,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Often,Some of the time,4. All or almost all of the time.,3.,2.,4. All or almost all of the time.,0
-16320,2,1 (less happy),Strongly disagree,Neither agree nor disagree,Disagree,Often,Often,Often,4. All or almost all of the time,3,2,3,4,2,Slightly disagree,Slightly agree,Disagree,Some of the time,Some of the time,Some of the time,4. All or almost all of the time.,2.,2.,3.,0
-16402,3,3,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,2,2,3,3,4,4,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Some of the time,Hardly ever,2.,3.,2.,2.,1
-16432,4,5,Neither agree nor disagree,Slightly disagree,Slightly disagree,Often,Some of the time,Hardly ever,4. All or almost all of the time,4. All or almost all of the time,3,1. None or almost none of the time,4,4,Slightly disagree,Slightly disagree,Slightly disagree,Often,Often,Often,3.,3.,2.,3.,1
-16462,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,1. None or almost none of the time,1. None or almost none of the time,7 (a very happy person),7 (more happy),Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,1. None or almost none of the times,1. None or almost none of the times,1
-16518,4,2,Disagree,Slightly disagree,Slightly disagree,Often,Often,Often,3,1. None or almost none of the time,3,4. All or almost all of the time,1 (not a very happy person),1 (less happy),Slightly disagree,Disagree,Disagree,Often,Often,Often,2.,1. None or almost none of the times,3.,4. All or almost all of the time.,0
-16647,3,3,Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,2,2,2,2,4,3,Disagree,Disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,2.,0
-16648,3,3,Disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Some of the time,2,4. All or almost all of the time,4. All or almost all of the time,3,4,4,Slightly agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,3.,2.,3.,0
-16865,4,4,Slightly disagree,Disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,3,4. All or almost all of the time,1. None or almost none of the time,5,5,Neither agree nor disagree,Disagree,Slightly disagree,Often,Hardly ever,Hardly ever,2.,2.,3.,3.,1
-16868,4,6,Slightly agree,Slightly agree,Slightly agree,Often,Some of the time,Some of the time,3,3,3,1. None or almost none of the time,5,5,Disagree,Disagree,Disagree,Often,Often,Often,2.,3.,2.,1. None or almost none of the times,0
-16954,4,5,Slightly disagree,Slightly disagree,Agree,Some of the time,Some of the time,Some of the time,2,3,3,2,5,6,Disagree,Disagree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,4. All or almost all of the time.,2.,1. None or almost none of the times,1
-16974,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,7 (a very happy person),7 (more happy),Agree,Agree,Strongly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,2.,0
-16988,5,4,Neither agree nor disagree,Slightly disagree,Slightly disagree,Often,Some of the time,Some of the time,2,2,3,2,4,3,Disagree,Slightly disagree,Neither agree nor disagree,Often,Some of the time,Some of the time,3.,1. None or almost none of the times,2.,3.,0
-17102,6,6,Agree,Agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the time,3,3,1. None or almost none of the time,5,5,Neither agree nor disagree,Agree,Agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the times,2.,3.,1. None or almost none of the times,0
-17136,6,4,Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Hardly ever,2,2,3,2,4,3,Neither agree nor disagree,Slightly agree,Slightly agree,Often,Hardly ever,Some of the time,3.,2.,3.,1. None or almost none of the times,1
-17138,4,4,Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Some of the time,Often,3,2,2,3,5,1 (less happy),Slightly disagree,Disagree,Strongly disagree,Some of the time,Some of the time,Hardly ever,3.,1. None or almost none of the times,3.,2.,1
-17208,4,4,Neither agree nor disagree,Slightly agree,Slightly disagree,Often,Some of the time,Some of the time,2,2,2,3,4,3,Slightly disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Hardly ever,Hardly ever,2.,3.,2.,3.,1
-17316,2,2,Disagree,Disagree,Disagree,Some of the time,Some of the time,Often,4. All or almost all of the time,4. All or almost all of the time,3,4. All or almost all of the time,2,2,Disagree,Disagree,Disagree,Often,Often,Often,3.,3.,3.,3.,1
-17353,6,6,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Hardly ever,Some of the time,2,2,3,1. None or almost none of the time,4,3,Disagree,Disagree,Disagree,Some of the time,Hardly ever,Some of the time,2.,1. None or almost none of the times,3.,1. None or almost none of the times,0
-17442,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,1. None or almost none of the time,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,0
-17448,1 (not a very happy person),3,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,4. All or almost all of the time,3,2,3,4,3,Slightly agree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Hardly ever,3.,3.,4. All or almost all of the time.,2.,1
-17476,3,3,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2,3,2,1. None or almost none of the time,3,3,Disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,2.,3.,2.,0
-17532,4,3,Disagree,Disagree,Disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,3,3,5,3,Slightly disagree,Slightly disagree,Neither agree nor disagree,Often,Often,Often,3.,3.,3.,2.,0
-17582,4,4,Slightly disagree,Slightly disagree,Neither agree nor disagree,Often,Some of the time,Some of the time,3,2,1. None or almost none of the time,2,5,5,Neither agree nor disagree,Slightly disagree,Slightly disagree,Often,Some of the time,Some of the time,3.,2.,3.,3.,0
-18106,4,2,Disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2,3,3,1. None or almost none of the time,4,3,Disagree,Slightly disagree,Disagree,Some of the time,Hardly ever,Some of the time,2.,3.,2.,3.,0
-18155,5,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,2,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,2.,0
-18162,5,4,Neither agree nor disagree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Hardly ever,2,1. None or almost none of the time,3,2,4,4,Disagree,Slightly disagree,Slightly disagree,Hardly ever,Some of the time,Some of the time,2.,3.,3.,1. None or almost none of the times,0
-18279,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,6,5,Agree,Strongly agree,Strongly agree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,2.,0
-18324,2,2,Disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,3,3,1. None or almost none of the time,3,3,Slightly disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-18500,2,2,Neither agree nor disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Often,2,3,4. All or almost all of the time,3,3,5,Neither agree nor disagree,Slightly agree,Slightly disagree,Some of the time,Some of the time,Often,2.,3.,3.,3.,0
-18560,4,2,Slightly agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Hardly ever,3,2,3,3,5,4,Slightly disagree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,3.,3.,3.,0
-18615,6,4,Neither agree nor disagree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,2,5,5,Disagree,Neither agree nor disagree,Slightly agree,Often,Hardly ever,Hardly ever,1. None or almost none of the times,3.,4. All or almost all of the time.,1. None or almost none of the times,1
-18667,3,3,Strongly disagree,Strongly disagree,Disagree,Some of the time,Hardly ever,Some of the time,3,4. All or almost all of the time,2,3,3,3,Disagree,Slightly disagree,Disagree,Often,Some of the time,Some of the time,3.,3.,3.,3.,0
-18700,6,5,Neither agree nor disagree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,6,6,Agree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,2.,2.,3.,3.,0
-18769,5,4,Slightly disagree,Slightly disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,5,1 (less happy),Disagree,Slightly disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,3.,1. None or almost none of the times,3.,2.,1
-18911,2,1 (less happy),Disagree,Disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,3,4. All or almost all of the time,2,1. None or almost none of the time,3,4,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Often,Often,3.,3.,3.,3.,0
-18949,6,5,Slightly agree,Slightly disagree,Agree,Some of the time,Hardly ever,Hardly ever,2,1. None or almost none of the time,2,1. None or almost none of the time,6,6,Slightly agree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-18988,5,5,Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,5,4,Neither agree nor disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-19304,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,2,2,6,6,Neither agree nor disagree,Slightly disagree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-19323,4,4,Disagree,Disagree,Neither agree nor disagree,Some of the time,Some of the time,Hardly ever,2,3,2,3,4,3,Disagree,Disagree,Slightly disagree,Often,Hardly ever,Often,4. All or almost all of the time.,2.,3.,3.,0
-19344,4,4,Slightly agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,4. All or almost all of the time,4. All or almost all of the time,3,3,3,3,Disagree,Disagree,Disagree,Often,Often,Often,3.,3.,2.,3.,1
-19386,5,6,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,3,5,6,Slightly agree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-19414,4,3,Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Some of the time,3,3,3,2,5,4,Slightly agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,3.,3.,2.,0
-19429,6,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,1. None or almost none of the time,6,6,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,1
-19454,3,2,Disagree,Strongly disagree,Slightly disagree,Some of the time,Often,Some of the time,3,3,1. None or almost none of the time,3,5,4,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Often,2.,2.,1. None or almost none of the times,3.,1
-19492,5,5,Slightly agree,Agree,Agree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the time,2,1. None or almost none of the time,1. None or almost none of the time,5,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the times,2.,2.,2.,0
-19597,5,5,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,2,1. None or almost none of the time,3,3,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,3.,1
-19699,7 (a very happy person),6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,3,5,4,Disagree,Disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,2.,1. None or almost none of the times,3.,2.,0
-19705,4,4,Neither agree nor disagree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,3,3,2,2,4,4,Neither agree nor disagree,Disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,2.,4. All or almost all of the time.,2.,0
-19710,5,5,Slightly disagree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Some of the time,2,3,2,3,4,4,Slightly disagree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Some of the time,2.,3.,3.,2.,0
-19794,2,2,Strongly disagree,Disagree,Disagree,Some of the time,Some of the time,Often,3,4. All or almost all of the time,1. None or almost none of the time,2,3,1 (less happy),Disagree,Disagree,Disagree,Often,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,2.,2.,0
-19867,6,4,Slightly agree,Agree,Strongly agree,Some of the time,Hardly ever,Hardly ever,2,3,4. All or almost all of the time,1. None or almost none of the time,4,5,Disagree,Slightly agree,Slightly disagree,Some of the time,Hardly ever,Some of the time,3.,2.,3.,2.,0
-19884,4,4,Agree,Agree,Slightly agree,Some of the time,Some of the time,Some of the time,2,3,3,3,6,5,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Some of the time,2.,2.,3.,2.,0
-19904,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,3,3,2,4,4,Slightly agree,Slightly disagree,Agree,Hardly ever,Some of the time,Some of the time,2.,3.,4. All or almost all of the time.,1. None or almost none of the times,0
-19965,3,3,Strongly disagree,Strongly disagree,Disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,2,4. All or almost all of the time,1 (not a very happy person),1 (less happy),Strongly disagree,Strongly disagree,Disagree,Often,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,1. None or almost none of the times,4. All or almost all of the time.,0
-20078,5,5,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,3,3,2,2,3,4,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Some of the time,Hardly ever,3.,3.,1. None or almost none of the times,2.,1
-20104,3,2,Disagree,Disagree,Disagree,Often,Some of the time,Often,3,1. None or almost none of the time,1. None or almost none of the time,3,2,1 (less happy),Disagree,Disagree,Disagree,Often,Some of the time,Often,3.,1. None or almost none of the times,2.,3.,0
-20117,5,4,Slightly disagree,Slightly disagree,Slightly agree,Often,Often,Often,2,3,1. None or almost none of the time,3,5,5,Slightly agree,Slightly agree,Agree,Some of the time,Often,Some of the time,3.,2.,4. All or almost all of the time.,2.,1
-20243,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,2,2,3,2,6,6,Agree,Agree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the times,2.,2.,2.,1
-20382,4,4,Slightly disagree,Disagree,Disagree,Some of the time,Hardly ever,Some of the time,2,2,2,2,4,4,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Hardly ever,Hardly ever,3.,3.,3.,3.,1
-20389,7 (a very happy person),7 (more happy),Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Hardly ever,Some of the time,2,2,2,4. All or almost all of the time,5,4,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Often,Some of the time,Some of the time,2.,2.,4. All or almost all of the time.,4. All or almost all of the time.,0
-20418,4,3,Slightly disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2,2,2,3,5,4,Slightly agree,Slightly agree,Agree,Hardly ever,Some of the time,Hardly ever,2.,1. None or almost none of the times,3.,2.,1
-20492,7 (a very happy person),7 (more happy),Agree,Agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,0
-20519,6,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,6,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,0
-20542,5,4,Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,2,2,1. None or almost none of the time,6,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,1
-20547,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,3,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,1. None or almost none of the times,1. None or almost none of the times,1
-20571,5,6,Slightly agree,Slightly agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,2,2,5,6,Slightly agree,Slightly agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,1. None or almost none of the times,2.,2.,0
-20623,6,6,Neither agree nor disagree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,,6,6,Neither agree nor disagree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,1. None or almost none of the times,1
-20666,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the time,2,1. None or almost none of the time,3,4,4,Disagree,Disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,3.,4. All or almost all of the time.,2.,0
-20757,5,6,Slightly agree,Neither agree nor disagree,Agree,Some of the time,Some of the time,Hardly ever,3,2,3,1. None or almost none of the time,3,4,Slightly disagree,Neither agree nor disagree,Agree,Some of the time,Hardly ever,Hardly ever,2.,3.,4. All or almost all of the time.,1. None or almost none of the times,0
-20763,5,5,Slightly agree,Slightly agree,Neither agree nor disagree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,3,3,3,4,3,Slightly disagree,Slightly disagree,Disagree,Hardly ever,Hardly ever,Hardly ever,2.,3.,2.,3.,0
-20780,4,4,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,4,4,Disagree,Slightly disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,2.,3.,3.,1. None or almost none of the times,0
-20835,6,6,Agree,Agree,Agree,Some of the time,Some of the time,Often,1. None or almost none of the time,2,3,2,6,6,Agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,2.,0
-20968,5,6,Slightly agree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,1
-21000,5,5,Neither agree nor disagree,Neither agree nor disagree,Agree,Some of the time,Some of the time,Some of the time,2,1. None or almost none of the time,3,2,5,5,Slightly disagree,Agree,Agree,Some of the time,Some of the time,Some of the time,2.,2.,3.,2.,0
-21038,7 (a very happy person),5,Slightly agree,Neither agree nor disagree,Slightly agree,Some of the time,Some of the time,Some of the time,2,2,2,2,7 (a very happy person),7 (more happy),Neither agree nor disagree,Slightly disagree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,4. All or almost all of the time.,4. All or almost all of the time.,3.,1
-21074,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,7 (a very happy person),7 (more happy),Strongly agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,1
-21075,3,3,Slightly disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,3,3,2,3,4,4,Neither agree nor disagree,Disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,2.,2.,3.,3.,0
-21120,5,5,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the time,2,2,1. None or almost none of the time,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,4. All or almost all of the time.,1. None or almost none of the times,0
-21141,5,6,Neither agree nor disagree,Slightly disagree,Disagree,Often,Some of the time,Some of the time,2,1. None or almost none of the time,3,2,3,5,Disagree,Disagree,Disagree,Often,Some of the time,Hardly ever,3.,1. None or almost none of the times,3.,2.,0
-21184,5,6,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,2,2,3,3,6,5,Slightly agree,Agree,Agree,Some of the time,Hardly ever,Some of the time,2.,2.,3.,2.,1
-21191,5,6,Disagree,Slightly disagree,Slightly agree,Some of the time,Often,Often,1. None or almost none of the time,2,3,1. None or almost none of the time,6,6,Slightly agree,Neither agree nor disagree,Agree,Some of the time,Often,Some of the time,2.,3.,3.,2.,0
-21194,4,3,Slightly agree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2,3,2,1. None or almost none of the time,5,3,Slightly disagree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the times,3.,3.,1. None or almost none of the times,1
-21216,3,3,Slightly agree,Slightly disagree,Neither agree nor disagree,Often,Some of the time,Hardly ever,2,1. None or almost none of the time,3,2,3,3,Disagree,Disagree,Disagree,Often,Hardly ever,Some of the time,2.,3.,2.,1. None or almost none of the times,1
-21272,5,4,Neither agree nor disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,2,4. All or almost all of the time,3,3,5,4,Slightly disagree,Slightly disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,2.,2.,1
-21281,6,6,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,2,3,2,5,4,Disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,3.,3.,3.,3.,0
-21285,7 (a very happy person),6,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,4. All or almost all of the time,1. None or almost none of the time,7 (a very happy person),7 (more happy),Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,2.,1. None or almost none of the times,0
-21361,5,4,Slightly disagree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,3,3,1. None or almost none of the time,3,6,6,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,3.,1. None or almost none of the times,2.,0
-21397,5,6,Slightly agree,Agree,Agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the time,2,3,2,3,5,Disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,3.,3.,1. None or almost none of the times,0
-21443,5,5,Slightly agree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,2,3,2,4,4,Slightly agree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2.,3.,3.,1. None or almost none of the times,0
-21484,2,2,Disagree,Strongly disagree,Strongly disagree,Hardly ever,Hardly ever,Hardly ever,4. All or almost all of the time,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,4,4,Disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,2.,4. All or almost all of the time.,4. All or almost all of the time.,1. None or almost none of the times,0
-21503,4,4,Neither agree nor disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,2,1. None or almost none of the time,3,2,2,3,Disagree,Disagree,Disagree,Often,Some of the time,Often,3.,3.,3.,3.,0
-21542,6,4,Slightly disagree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,2,3,6,5,Slightly disagree,Slightly disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-21555,5,5,Neither agree nor disagree,Neither agree nor disagree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,2,2,5,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,1
-21568,5,5,Disagree,Disagree,Disagree,Often,Often,Often,3,4. All or almost all of the time,2,1. None or almost none of the time,6,4,Disagree,Disagree,Disagree,Some of the time,Some of the time,Often,2.,3.,4. All or almost all of the time.,1. None or almost none of the times,0
-21616,3,3,Slightly agree,Agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,1. None or almost none of the time,3,2,3,2,Slightly disagree,Slightly agree,Slightly agree,Some of the time,Hardly ever,Hardly ever,2.,2.,2.,2.,0
-21624,5,5,Neither agree nor disagree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,3,6,5,Slightly agree,Slightly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,3.,0
-21685,5,4,Slightly agree,Slightly agree,Slightly agree,Often,Some of the time,Some of the time,3,3,4. All or almost all of the time,1. None or almost none of the time,4,4,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Often,Often,Often,2.,2.,3.,2.,0
-21713,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,6,6,Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,1. None or almost none of the times,0
-21723,6,5,Agree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,6,4,Agree,Agree,Strongly agree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the times,2.,3.,2.,1
-21726,3,3,Slightly agree,Neither agree nor disagree,Agree,Hardly ever,Hardly ever,Some of the time,3,3,4. All or almost all of the time,1. None or almost none of the time,4,6,Slightly agree,Neither agree nor disagree,Slightly agree,Hardly ever,Some of the time,Hardly ever,3.,3.,4. All or almost all of the time.,1. None or almost none of the times,1
-21746,4,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,4. All or almost all of the time,2,1 (less happy),Strongly disagree,Disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,1. None or almost none of the times,4. All or almost all of the time.,0
-21764,4,3,Neither agree nor disagree,Neither agree nor disagree,Slightly disagree,Hardly ever,Hardly ever,Some of the time,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,1. None or almost none of the time,3,1 (less happy),Disagree,Disagree,Disagree,Some of the time,Some of the time,Often,4. All or almost all of the time.,4. All or almost all of the time.,2.,2.,0
-21776,6,6,Agree,Agree,Strongly agree,Often,Hardly ever,Some of the time,1. None or almost none of the time,1. None or almost none of the time,4. All or almost all of the time,2,6,4,Slightly agree,Neither agree nor disagree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,1
-21826,5,4,Slightly disagree,Slightly disagree,Slightly agree,Often,Some of the time,Some of the time,2,3,2,3,4,3,Disagree,Slightly disagree,Slightly agree,Often,Often,Often,2.,2.,2.,3.,0
-21890,4,5,Slightly agree,Slightly disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,2,3,2,5,6,Slightly agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Hardly ever,2.,2.,4. All or almost all of the time.,1. None or almost none of the times,0
-21906,5,5,Agree,Slightly agree,Slightly disagree,Some of the time,Some of the time,Some of the time,2,2,1. None or almost none of the time,2,6,4,Slightly agree,Slightly agree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-21913,5,5,Slightly disagree,Slightly disagree,Agree,Some of the time,Hardly ever,Some of the time,2,2,3,2,6,5,Disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,2.,1
-22000,5,5,Disagree,Strongly disagree,Strongly disagree,Some of the time,Often,Some of the time,1. None or almost none of the time,2,3,1. None or almost none of the time,6,6,Slightly agree,Disagree,Agree,Hardly ever,Hardly ever,Hardly ever,2.,2.,3.,1. None or almost none of the times,0
-22139,4,4,Disagree,Slightly disagree,Slightly disagree,Hardly ever,Some of the time,Hardly ever,2,2,3,1. None or almost none of the time,4,5,Disagree,Disagree,Disagree,Some of the time,Often,Some of the time,1. None or almost none of the times,2.,3.,2.,0
-22142,5,5,Strongly disagree,Disagree,Strongly disagree,Often,Some of the time,Some of the time,3,3,2,1. None or almost none of the time,1 (not a very happy person),1 (less happy),Disagree,Strongly disagree,Strongly disagree,Often,Some of the time,Some of the time,2.,2.,2.,3.,0
-22193,5,4,Neither agree nor disagree,Neither agree nor disagree,Agree,Often,Some of the time,Often,2,3,3,2,5,4,Slightly disagree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2.,2.,1. None or almost none of the times,1. None or almost none of the times,0
-22290,7 (a very happy person),7 (more happy),Agree,Agree,Agree,Hardly ever,Some of the time,Some of the time,1. None or almost none of the time,2,3,3,7 (a very happy person),7 (more happy),Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,2.,1. None or almost none of the times,0
-22310,4,4,Neither agree nor disagree,Slightly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2,2,3,2,4,4,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,2.,2.,2.,1
-22444,5,5,Agree,Strongly agree,Slightly agree,Some of the time,Some of the time,Some of the time,2,1. None or almost none of the time,3,1. None or almost none of the time,4,4,Slightly agree,Agree,Slightly agree,Some of the time,Some of the time,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,2.,3.,0
-22477,5,4,Slightly disagree,Disagree,Disagree,Hardly ever,Hardly ever,Some of the time,2,2,3,2,3,3,Strongly disagree,Disagree,Disagree,Hardly ever,Hardly ever,Some of the time,2.,3.,3.,2.,0
-22523,5,5,Disagree,Slightly disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,6,6,Slightly agree,Agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,1. None or almost none of the times,1
-22624,3,4,Disagree,Agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,2,3,3,2,6,6,Slightly disagree,Slightly disagree,Neither agree nor disagree,Some of the time,Hardly ever,Some of the time,1. None or almost none of the times,2.,3.,1. None or almost none of the times,1
-22701,5,5,Slightly agree,Slightly agree,Agree,Often,Some of the time,Hardly ever,2,2,3,3,6,5,Agree,Slightly agree,Slightly agree,Some of the time,Some of the time,Hardly ever,2.,2.,3.,3.,1
-22705,6,6,Slightly disagree,Neither agree nor disagree,Slightly disagree,Some of the time,Some of the time,Hardly ever,2,3,2,3,6,7 (more happy),Neither agree nor disagree,Slightly agree,Slightly disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,3.,3.,1. None or almost none of the times,1
-22726,2,2,Disagree,Disagree,Disagree,Some of the time,Some of the time,Often,4. All or almost all of the time,3,1. None or almost none of the time,1. None or almost none of the time,3,2,Strongly disagree,Disagree,Strongly disagree,Some of the time,Some of the time,Some of the time,3.,3.,2.,1. None or almost none of the times,0
-22858,5,3,Slightly disagree,Strongly disagree,Slightly disagree,Some of the time,Often,Often,3,4. All or almost all of the time,4. All or almost all of the time,1. None or almost none of the time,4,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Some of the time,Often,Some of the time,4. All or almost all of the time.,4. All or almost all of the time.,2.,2.,1
-22947,5,5,Agree,Slightly agree,Agree,Hardly ever,Some of the time,Hardly ever,2,1. None or almost none of the time,3,2,6,5,Agree,Agree,Agree,Hardly ever,Some of the time,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-22999,6,4,Slightly disagree,Neither agree nor disagree,Neither agree nor disagree,Hardly ever,Hardly ever,Hardly ever,2,3,3,2,6,5,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Hardly ever,Some of the time,Hardly ever,2.,3.,3.,2.,0
-23078,5,5,Agree,Agree,Agree,Hardly ever,Hardly ever,Some of the time,1. None or almost none of the time,2,3,3,6,7 (more happy),Agree,Strongly agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,3.,1. None or almost none of the times,3.,0
-23111,5,4,Neither agree nor disagree,Disagree,Slightly disagree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,3,5,6,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-23330,6,7 (more happy),Slightly disagree,Agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,1. None or almost none of the time,6,6,Strongly agree,Strongly agree,Strongly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,4. All or almost all of the time.,1. None or almost none of the times,1
-23398,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,6,4,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,3.,3.,1. None or almost none of the times,0
-23427,3,3,Disagree,Slightly disagree,Slightly disagree,Hardly ever,Some of the time,Some of the time,3,4. All or almost all of the time,2,2,4,3,Neither agree nor disagree,Slightly disagree,Slightly agree,Some of the time,Some of the time,Some of the time,3.,4. All or almost all of the time.,2.,3.,0
-23454,5,4,Slightly disagree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,6,6,Slightly agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,2.,3.,2.,0
-23503,6,6,Agree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,2,6,6,Agree,Agree,Agree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,2.,4. All or almost all of the time.,2.,1
-23597,3,3,Slightly disagree,Disagree,Disagree,Some of the time,Some of the time,Some of the time,2,3,3,1. None or almost none of the time,5,3,Disagree,Disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,2.,2.,3.,1. None or almost none of the times,0
-23612,5,3,Slightly agree,Slightly agree,Neither agree nor disagree,Often,Some of the time,Some of the time,1. None or almost none of the time,1. None or almost none of the time,2,3,5,6,Neither agree nor disagree,Neither agree nor disagree,Slightly agree,Often,Often,Some of the time,1. None or almost none of the times,2.,3.,3.,0
-23703,4,4,Disagree,Disagree,Slightly disagree,Often,Some of the time,Some of the time,2,1. None or almost none of the time,1. None or almost none of the time,3,4,3,Slightly disagree,Disagree,Disagree,Often,Often,Often,2.,1. None or almost none of the times,3.,3.,0
-23706,4,5,Neither agree nor disagree,Slightly agree,Slightly agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,2,3,2,6,6,Neither agree nor disagree,Agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the times,1. None or almost none of the times,3.,2.,0
-23718,3,3,Disagree,Disagree,Disagree,Hardly ever,Some of the time,Some of the time,3,3,3,2,4,2,Disagree,Disagree,Disagree,Some of the time,Often,Often,3.,2.,2.,2.,1
-23752,5,2,Disagree,Disagree,Slightly disagree,Hardly ever,Often,Often,4. All or almost all of the time,4. All or almost all of the time,2,4. All or almost all of the time,3,2,Disagree,Disagree,Disagree,Some of the time,Some of the time,Often,4. All or almost all of the time.,4. All or almost all of the time.,2.,4. All or almost all of the time.,0
-23786,4,4,Disagree,Neither agree nor disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,3,3,2,2,4,4,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Some of the time,Some of the time,Some of the time,1. None or almost none of the times,1. None or almost none of the times,1. None or almost none of the times,1. None or almost none of the times,0
-23877,2,2,Strongly disagree,Disagree,Strongly disagree,Often,Often,Often,4. All or almost all of the time,4. All or almost all of the time,2,3,3,3,Strongly disagree,Strongly disagree,Disagree,Often,Some of the time,Some of the time,4. All or almost all of the time.,4. All or almost all of the time.,2.,1. None or almost none of the times,0
-24011,3,3,Slightly disagree,Slightly disagree,Slightly disagree,Some of the time,Some of the time,Some of the time,3,3,3,1. None or almost none of the time,3,3,Slightly disagree,Slightly agree,Disagree,Some of the time,Often,Often,4. All or almost all of the time.,4. All or almost all of the time.,3.,1. None or almost none of the times,0
-24046,7 (a very happy person),6,Agree,Slightly agree,Agree,Hardly ever,Hardly ever,Hardly ever,1. None or almost none of the time,1. None or almost none of the time,3,1. None or almost none of the time,5,4,Agree,Agree,Agree,Some of the time,Some of the time,Some of the time,2.,2.,3.,2.,1
-24132,5,5,Disagree,Slightly disagree,Disagree,Often,Often,Some of the time,3,3,2,3,3,1 (less happy),Strongly disagree,Strongly disagree,Strongly disagree,Often,Often,Often,3.,3.,2.,3.,0
-24313,5,6,Agree,Strongly agree,Agree,Some of the time,Some of the time,Hardly ever,2,3,2,3,5,5,Agree,Agree,Agree,Some of the time,Hardly ever,Hardly ever,1. None or almost none of the times,3.,3.,2.,0
+25,1,1,1,1,1,-1,-1,-1,1,2,1,0,2,1,0,0,1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+27,1,0,0,0,1,0,-1,-1,0,1,2,1,1,0,1,0,3,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+28,1,2,-2,0,1,0,-1,-1,0,1,2,2,1,2,-2,0,1,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+47,1,2,1,2,1,0,0,-1,0,1,2,1,1,0,1,2,2,0,1,-1,1.5,1.5,1.5,1.5,FALSE
+50,2,2,-2,0,1,1,0,1,1,2,2,3,0,-1,1,1,1,1,1,1,1.5,1.5,1.5,1.5,FALSE
+53,2,3,0,0,2,0,0,0,1,0,3,0,1,-1,1,-1,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+56,1,1,1,0,1,0,-1,0,0,1,1,0,1,0,-1,0,-1,0,1,1,1.5,1.5,1.5,1.5,FALSE
+72,2,2,2,3,2,-1,0,-1,1,2,2,2,1,2,1,2,2,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+76,1,-1,0,0,1,0,-1,-1,1,1,2,1,0,0,-1,-1,-1,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+111,2,0,0,0,2,-1,-1,-1,0,0,2,0,2,1,1,1,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+117,1,0,-3,-3,-2,0,0,0,2,1,1,2,1,0,-2,0,0,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+132,0,-3,1,1,-1,1,1,1,2,3,3,2,1,1,1,1,0,1,1,1,1.5,1.5,1.5,1.5,TRUE
+143,-1,-2,-2,-2,-1,1,0,1,3,2,0,2,-1,-2,-3,-3,-2,1,0,0,1.5,1.5,1.5,1.5,FALSE
+162,2,2,2,2,2,-1,-1,-1,2,1,3,2,1,1,1,1,3,0,0,0,1.5,1.5,1.5,1.5,FALSE
+168,1,1,2,2,3,-1,-1,-1,1,1,3,0,3,3,2,3,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+169,2,3,2,3,3,-1,-1,-1,0,0,2,0,2,2,1,2,3,0,0,1,1.5,1.5,1.5,1.5,FALSE
+177,-1,-1,1,0,1,1,1,1,2,2,1,1,1,0,2,1,1,0,-1,-1,1.5,1.5,1.5,1.5,TRUE
+189,0,0,-1,1,1,0,-1,0,1,2,2,0,-1,0,-1,-2,-1,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+195,0,0,-2,-2,-2,-1,-1,-1,0,3,3,0,0,0,-2,-1,1,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+207,2,1,2,2,3,-1,-1,-1,0,0,2,1,2,3,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+209,3,3,-1,0,-1,-1,0,-1,1,1,2,1,3,3,0,0,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+228,1,1,-1,-2,1,-1,0,-1,2,2,3,1,1,0,1,-1,0,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+250,1,1,3,1,2,0,0,0,1,1,2,1,0,0,-1,-2,-1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+279,1,-1,-1,0,2,0,0,0,1,1,2,0,1,0,1,1,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+290,1,1,1,2,2,0,0,0,1,2,2,1,1,0,1,-1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+299,0,-1,-2,-1,-2,0,0,0,2,2,1,1,-2,-2,-2,-1,-2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+335,-1,-1,-1,-1,-1,0,0,0,1,2,2,1,2,2,1,1,2,-1,-1,0,1.5,1.5,1.5,1.5,TRUE
+350,1,-1,1,-1,1,0,1,0,2,2,1,2,0,-1,-1,1,-3,1,1,1,1.5,1.5,1.5,1.5,TRUE
+357,1,0,-1,-2,-1,0,1,1,1,2,0,2,1,-1,-1,-1,-1,1,1,1,1.5,1.5,1.5,1.5,FALSE
+399,-2,-2,-3,-3,-3,1,1,1,3,3,1,3,-1,-3,-2,-2,-2,-1,0,0,1.5,1.5,1.5,1.5,TRUE
+407,0,1,-2,-1,0,0,0,0,1,1,2,1,-2,-2,-3,-2,-2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+421,1,1,1,1,1,0,-1,-1,1,1,3,1,1,1,1,0,1,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+430,0,0,1,1,2,0,0,0,0,1,2,0,-2,-1,-3,-2,-3,1,1,1,1.5,1.5,1.5,1.5,FALSE
+468,0,-1,-2,-2,-2,1,1,1,3,3,1,3,-1,-3,-3,-3,-3,1,1,1,1.5,1.5,1.5,1.5,FALSE
+471,1,1,-2,-2,-1,-1,-1,-1,1,0,2,0,-1,0,-2,-2,-2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+491,2,2,1,0,2,0,0,0,1,1,2,2,1,1,-1,-1,0,0,0,0,1.5,1.5,1.5,1.5,TRUE
+494,3,2,3,2,3,-1,-1,-1,0,0,3,0,3,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+514,0,-1,-1,-1,0,0,0,0,2,3,2,1,1,0,1,1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+529,2,2,1,1,2,-1,-1,-1,0,0,3,0,2,2,0,0,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+540,1,1,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+543,1,1,0,2,3,-1,-1,-1,2,1,3,1,1,1,0,2,2,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+549,0,-1,-2,-2,-2,1,1,1,1,2,1,2,0,0,-2,-2,-1,1,0,1,1.5,1.5,1.5,1.5,TRUE
+572,1,0,1,1,1,-1,-1,0,1,2,2,1,1,2,2,1,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+574,1,2,2,2,2,-1,-1,-1,0,0,2,1,2,2,2,2,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+582,1,1,-1,1,1,-1,-1,-1,0,1,2,0,1,1,1,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+592,1,0,-3,-3,-3,1,1,0,2,0,2,0,-3,-3,-3,-3,-3,1,1,1,1.5,1.5,1.5,1.5,FALSE
+595,0,0,-1,-1,-2,0,0,0,1,2,2,2,0,0,-1,-1,-1,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+604,2,2,0,-1,-1,0,0,0,2,2,2,0,2,1,2,1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+608,0,1,1,1,0,-1,-1,-1,1,0,2,1,1,0,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+609,2,2,-1,-1,0,-1,0,0,0,1,3,2,0,0,-2,-2,-2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+633,1,0,1,1,2,0,0,0,1,1,2,1,-1,-1,-1,-1,-1,1,1,1,1.5,1.5,1.5,1.5,TRUE
+654,1,1,1,1,2,0,0,0,2,2,1,2,1,1,2,1,3,0,0,0,1.5,1.5,1.5,1.5,FALSE
+694,0,-1,-1,-1,-1,0,-1,0,2,1,1,0,2,1,1,0,1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+699,1,0,-2,0,2,0,-1,0,0,1,2,0,-1,-1,-2,-1,1,1,0,0,1.5,1.5,1.5,1.5,TRUE
+700,-2,-2,-2,-2,-2,-1,-1,-1,2,2,1,1,-3,-3,-3,-3,-3,0,0,0,1.5,1.5,1.5,1.5,FALSE
+762,-1,-2,-1,-2,0,0,0,1,1,2,0,1,1,0,1,1,2,-1,0,0,1.5,1.5,1.5,1.5,TRUE
+765,0,-1,-1,-1,0,0,-1,-1,2,2,2,0,0,0,-2,-1,-1,0,-1,1,1.5,1.5,1.5,1.5,FALSE
+774,-1,-3,1,1,1,1,1,1,3,0,1,1,0,-2,-2,-2,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+784,2,0,2,2,2,0,0,-1,1,1,2,1,0,-1,-1,-2,0,0,0,0,1.5,1.5,1.5,1.5,TRUE
+792,2,1,-2,-2,-1,-1,-1,-1,1,0,1,0,2,1,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+801,-1,-1,-3,-2,0,1,1,0,2,0,0,2,-1,0,-2,-2,0,0,0,0,1.5,1.5,1.5,1.5,TRUE
+811,-1,-1,1,-1,-1,0,0,1,2,1,2,3,2,2,1,1,2,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+823,1,1,1,2,2,0,-1,0,0,1,1,2,1,1,0,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+829,0,-3,-1,-3,-3,0,1,1,3,3,0,3,-3,-3,-3,-3,-3,0,1,1,1.5,1.5,1.5,1.5,FALSE
+835,2,3,-1,-1,3,-1,0,0,0,1,2,0,2,1,0,0,3,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+839,2,2,2,0,1,0,1,1,1,3,2,1,3,1,2,2,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+860,0,-1,-1,-2,1,0,0,1,3,3,2,1,-1,-1,-3,-3,-2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+872,2,2,2,1,2,0,0,0,1,1,3,1,2,1,1,1,1,1,0,0,1.5,1.5,1.5,1.5,FALSE
+876,2,2,2,1,3,-1,-1,0,0,0,2,0,3,3,1,1,3,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+879,0,-1,-2,-3,0,1,1,1,2,2,1,3,-2,-2,-2,-2,-2,1,0,1,1.5,1.5,1.5,1.5,FALSE
+887,1,-1,-1,-1,-1,0,0,0,1,2,2,1,1,1,0,1,2,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+890,0,-3,-3,-3,-2,0,1,1,3,2,3,1,-2,-2,-3,-3,-3,0,1,1,1.5,1.5,1.5,1.5,TRUE
+895,-2,-2,-2,-2,-1,1,1,1,2,2,2,0,-3,-3,-3,-2,-3,0,0,0,1.5,1.5,1.5,1.5,FALSE
+904,0,-1,-2,-1,-1,1,0,1,2,2,1,1,-1,2,0,2,1,1,0,1,1.5,1.5,1.5,1.5,FALSE
+927,2,2,2,2,2,-1,-1,-1,0,0,1,1,2,1,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+941,1,-2,-2,-3,-2,0,0,0,2,2,1,2,-1,-1,-2,-2,-2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+947,-1,-2,-2,-2,-1,1,1,0,2,3,2,2,-2,-2,-3,-2,-1,1,0,0,1.5,1.5,1.5,1.5,TRUE
+948,2,1,2,2,3,0,-1,-1,0,2,2,2,2,3,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+958,-1,-3,-3,-3,-3,1,1,1,2,3,1,1,-1,0,-2,-2,-3,1,1,1,1.5,1.5,1.5,1.5,TRUE
+975,1,0,-3,-2,1,1,1,1,1,2,0,2,0,0,-2,-1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+985,0,-1,-2,1,-1,0,0,-1,2,2,1,2,-1,0,-2,-1,-2,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+988,0,0,-1,-1,0,-1,-1,-1,0,1,2,0,2,3,2,2,2,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+990,-1,-2,-2,-2,-2,0,0,0,2,2,1,1,1,1,1,-1,-1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+997,0,0,-1,0,2,-1,-1,-1,2,2,2,1,0,1,0,0,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+999,2,1,-1,1,1,0,-1,-1,1,2,2,0,1,0,-1,-1,-2,-1,0,0,1.5,1.5,1.5,1.5,TRUE
+1017,1,0,0,-1,1,0,0,0,1,2,3,1,0,-3,-1,-1,-1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+1063,3,3,-1,-1,3,-1,-1,-1,1,2,2,0,1,0,-2,1,2,1,0,1,1.5,1.5,1.5,1.5,FALSE
+1073,2,1,1,1,2,0,-1,0,1,0,2,2,2,1,1,2,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1075,2,1,2,1,-1,-1,-1,-1,0,1,2,0,2,1,-1,-1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1091,0,0,1,1,1,-1,-1,-1,1,2,3,0,2,0,1,0,1,0,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1092,1,0,0,2,2,-1,-1,0,1,2,2,1,1,1,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1094,0,0,2,1,2,1,1,1,1,1,2,2,2,3,1,2,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1099,2,2,1,2,2,-1,-1,-1,0,1,3,0,2,1,-2,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1103,-1,-1,-2,-2,-2,0,0,0,3,3,1,2,-2,-3,-3,-3,-3,0,1,0,1.5,1.5,1.5,1.5,TRUE
+1104,1,1,2,2,1,0,0,0,1,1,0,2,0,0,2,-1,-2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1114,-1,-1,-3,-3,0,0,1,0,3,3,0,2,1,0,-2,-2,0,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1126,-2,-3,-3,-3,-3,0,1,1,3,3,1,3,-3,-3,-3,-3,-3,1,1,1,1.5,1.5,1.5,1.5,TRUE
+1142,1,1,-1,-1,-1,0,0,0,1,3,0,2,-1,-1,-2,-2,-2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1147,0,-1,-2,1,0,-1,-1,-1,0,2,2,1,0,-1,-2,1,-1,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+1149,0,0,0,0,1,-1,-1,0,0,1,2,0,1,0,1,1,1,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+1154,0,1,0,-1,2,-1,-1,0,2,1,1,2,2,3,1,1,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1175,3,2,3,3,3,-1,-1,-1,0,1,2,3,2,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1194,2,2,2,2,3,0,-1,0,1,1,2,1,2,1,2,2,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1196,1,0,2,1,1,0,0,0,1,1,1,2,1,1,2,1,2,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+1206,1,2,2,1,2,-1,-1,0,0,1,3,0,1,1,1,-1,-1,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+1231,-1,1,-2,-2,-2,0,0,-1,1,0,1,0,1,1,-2,1,-1,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+1251,2,2,-2,-2,2,1,0,0,0,2,2,2,-1,-2,-3,-2,-3,1,0,0,1.5,1.5,1.5,1.5,TRUE
+1259,1,0,0,0,0,0,0,0,2,2,2,1,0,-2,0,-2,-2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+1265,-1,-1,1,-2,-1,0,-1,-1,2,2,3,1,1,2,1,0,2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+1269,1,0,1,1,1,0,0,0,0,0,2,1,2,1,0,1,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1275,1,0,-1,1,1,0,0,0,1,2,1,2,1,2,-2,-2,-1,0,0,1,1.5,1.5,1.5,1.5,FALSE
+1282,1,1,2,2,2,1,0,0,2,1,3,1,1,0,2,1,2,1,0,0,1.5,1.5,1.5,1.5,TRUE
+1283,2,2,-1,-2,-1,0,-1,-1,1,2,1,0,1,2,-1,0,-1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1296,-1,-1,1,1,-1,1,1,1,3,2,1,2,1,-1,-2,0,1,1,1,1,1.5,1.5,1.5,1.5,TRUE
+1311,-2,-3,-2,-2,-2,1,0,1,3,3,2,2,-3,-3,-1,-2,1,1,1,1,1.5,1.5,1.5,1.5,FALSE
+1313,0,-1,-2,-1,0,-1,-1,-1,0,1,1,2,1,0,-1,-1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1318,1,2,-3,-3,-2,0,0,0,2,1,2,1,2,1,0,-2,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1323,3,3,2,2,2,0,-1,-1,0,0,2,1,3,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1338,-1,-1,-2,-1,-2,0,0,1,2,2,2,0,-1,0,-2,-2,-2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1342,2,3,1,1,1,-1,-1,-1,0,0,1,2,1,2,0,1,2,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1345,3,2,2,2,3,-1,-1,-1,0,0,3,1,3,3,3,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1349,2,2,1,1,1,-1,-1,-1,0,0,2,1,2,2,2,2,2,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+1354,0,-1,-1,-1,-1,0,1,1,2,1,1,2,0,-1,-2,-1,-1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1394,1,1,1,0,0,0,1,1,2,2,2,2,2,1,1,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1401,2,0,3,3,3,1,0,0,1,3,3,1,1,3,3,2,3,-1,-1,0,1.5,1.5,1.5,1.5,TRUE
+1404,2,1,-1,-2,1,0,0,0,0,2,2,2,1,1,-1,0,-1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1407,2,2,2,2,2,0,-1,-1,0,1,2,1,1,0,1,1,1,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+1421,2,2,1,1,2,-1,-1,-1,0,1,3,0,2,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1424,1,1,1,1,2,-1,-1,-1,0,1,1,1,1,1,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1441,0,-1,-2,-3,-3,1,0,0,2,2,1,0,-1,-2,-3,-3,-3,1,0,0,1.5,1.5,1.5,1.5,TRUE
+1442,0,0,1,1,1,-1,0,0,0,0,1,2,1,1,2,2,2,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+1444,-1,-2,-2,-3,-2,1,1,1,1.5,2,1,0,0,-1,-1,-1,-1,1,0,0,1.5,1.5,1.5,1.5,FALSE
+1475,-2,-2,-3,-3,-2,1,0,1,3,3,2,1,-2,-2,-2,-3,-2,0,0,1,1.5,1.5,1.5,1.5,FALSE
+1490,0,0,-1,0,0,-1,-1,-1,0,3,0,0,0,-1,-1,-1,-1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+1495,2,0,1,1,1,-1,-1,-1,0,0,3,0,2,1,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1512,1,1,0,1,1,0,-1,-1,0,1,2,2,0,2,-1,-1,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1518,-1,-1,-2,-1,-3,1,0,1,3,3,2,0,-3,-3,-2,-2,-3,1,0,1,1.5,1.5,1.5,1.5,FALSE
+1532,1,2,0,-1,3,0,1,0,2,1,3,1,2,2,3,3,2,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+1544,1,1,-1,-1,1,-1,-1,-1,0,1,2,1,0,0,1,1,1,-1,0,-1,1.5,1.5,1.5,1.5,TRUE
+1574,-1,-1,-2,-2,-1,0,0,-1,2,2,1,1,0,-1,-2,-2,-1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+1579,-1,-3,-2,-2,0,1,1,1,2,3,1,2,-1,-2,-1,-2,-2,0,0,1,1.5,1.5,1.5,1.5,FALSE
+1589,0,0,-1,1,-1,1,1,1,1,2,2,1,1,0,-2,0,-1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+1607,3,3,-3,-3,-2,-1,1,-1,2,2,2,2,1,1,-1,-1,-1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+1609,1,0,0,1,1,-1,0,-1,0,2,2,2,2,0,-1,-1,-1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1625,-3,-3,-3,-3,-3,1,1,1,3,3,0,3,-3,-3,-3,-2,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+1632,0,2,-2,-2,-2,1,1,1,3,3,2,2,-1,-3,-3,-3,-3,1,1,1,1.5,1.5,1.5,1.5,FALSE
+1637,1,1,2,1,2,0,0,-1,0,1,2,1,1,0,1,1,2,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+1643,0,0,-2,1,0,1,-1,0,2,2,1,1,1,0,1,1,2,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+1686,1,1,0,1,2,-1,-1,-1,1,2,2,1,1,1,0,0,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1694,3,3,1,2,2,0,-1,-1,1,1,2,0,1,2,-1,-1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1712,-1,-3,-1,0,1,0,1,1,2,0,3,0,1,1,-2,1,1,1,0,1,1.5,1.5,1.5,1.5,FALSE
+1715,1,0,-2,-2,-1,1,-1,-1,2,2,2,2,0,-1,-2,-2,-2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+1716,2,2,-2,1,2,1,0,-1,0,1,3,0,2,2,-1,1,2,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1726,2,0,0,0,3,-1,-1,-1,0,0,3,2,1,0,1,0,1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1731,-2,-1,-2,-2,-3,0,0,-1,2,0,2,1,0,-1,-1,-1,-2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1739,0,1,2,2,1,0,0,-1,1,1,1,1,1,0,2,2,1,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+1741,1,1,-1,-1,1,0,0,-1,1,1,2,0,1,1,-1,-1,1,1,-1,0,1.5,1.5,1.5,1.5,FALSE
+1743,-1,-2,-2,-3,-2,1,1,1,2,0,1,2,-1,0,-1,-2,-2,1,0,0,1.5,1.5,1.5,1.5,TRUE
+1750,1,0,1,2,2,0,0,0,0,1,2,1,1,0,1,-1,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1766,2,2,1,1,2,-1,-1,-1,0,1,2,2,1,1,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1773,3,3,0,-1,2,-1,-1,-1,0,1,2,2,2,1,2,1,3,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1776,1,1,1,1,2,0,0,0,0,1,2,2,0,-1,-2,-2,-2,-1,0,0,1.5,1.5,1.5,1.5,TRUE
+1786,2,2,1,1,3,-1,0,0,1,0,2,0,2,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1814,1,1,2,2,2,-1,-1,-1,0,1,2,1,0,1,-1,-1,-1,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+1820,0,0,-1,-2,-1,0,0,-1,2,2,0,3,0,-1,-2,-2,-2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1834,2,1,2,1,3,-1,0,-1,0,1,2,1,2,2,2,3,3,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1854,0,-2,-1,-2,-2,1,0,1,2,1,0,0,-2,-3,-3,-2,-1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+1855,1,2,1,2,2,1,-1,0,1,1,2,2,1,3,2,3,3,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+1860,2,2,2,2,2,-1,-1,-1,1,2,2,1,2,3,1,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1877,0,1,-2,-2,-1,-1,0,1,1,2,1,1,1,0,-1,2,1,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+1880,3,1,2,2,3,-1,-1,-1,0,1,2,1,2,2,2,2,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1890,1,2,-1,-2,2,0,-1,-1,0,0,2,0,0,-2,-2,-2,-2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+1901,-1,-1,-3,-3,-2,-1,-1,-1,3,3,1,3,1,3,-2,0,-2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1903,3,3,2,3,3,0,-1,-1,1,1,2,1,3,3,3,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1913,-1,-2,-3,-2,-1,0,0,0,2,3,0,0,-3,1,-3,-2,-1,0,1,1,1.5,1.5,1.5,1.5,TRUE
+1936,0,-1,-1,0,1,0,0,0,0,2,1,1,1,0,0,1,2,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+1939,-3,-3,-2,-2,-3,1,1,1,3,3,0,1,-1,-1,-2,-1,-1,1,1,1,1.5,1.5,1.5,1.5,FALSE
+1946,2,2,2,1,1,-1,-1,-1,0,1,1,2,-1,0,-1,-2,-2,1,0,0,1.5,1.5,1.5,1.5,FALSE
+1965,1,0,1,1,1,-1,0,-1,0,0,2,1,1,0,0,1,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+1967,1,0,2,3,2,0,0,0,1,2,2,1,2,1,2,2,1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+1987,1,3,2,2,3,-1,0,-1,0,0,2,0,3,1,2,2,3,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+1999,3,2,2,2,3,-1,-1,-1,0,1,3,0,2,1,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2019,2,1,-2,-1,-1,1,1,1,0,1,2,3,-3,-2,-3,-2,-3,1,1,1,1.5,1.5,1.5,1.5,TRUE
+2030,1,3,1,1,3,1,0,0,0,2,3,0,2,2,1,1,3,0,0,0,1.5,1.5,1.5,1.5,FALSE
+2037,0,0,-2,-2,-2,0,0,1,3,3,1,3,1,2,-2,-2,1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+2039,-1,-1,-2,-2,-2,1,1,1,1,3,2,1,1,-1,-2,-3,-3,1,1,1,1.5,1.5,1.5,1.5,FALSE
+2041,0,0,2,2,0,0,0,1,2,2,1,3,0,0,2,1,1,1,1,0,1.5,1.5,1.5,1.5,FALSE
+2048,3,2,3,3,3,-1,-1,-1,0,0,3,0,3,2,3,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2073,-1,-1,-2,-2,-2,-1,1,1,2,1,3,3,-3,-1,-3,-2,0,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+2088,1,1,0,1,1,0,-1,0,1,2,2,0,1,1,1,0,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+2091,-1,-3,-3,-3,-3,1,1,0,3,1,0,2,-2,-3,-3,-3,-3,-1,1,0,1.5,1.5,1.5,1.5,TRUE
+2092,1,0,2,1,1,0,0,0,1,1,2,1,2,-2,-2,-1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2101,0,-1,0,-1,-1,0,1,1,2,2,1,3,1,0,-1,0,0,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+2108,0,0,-2,-1,0,0,-1,-1,0,3,1,2,1,0,-2,-2,0,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2133,1,1,1,1,1,0,-1,0,1,1,3,1,1,1,3,2,2,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2150,-1,-1,-1,-1,0,0,-1,0,0,1,1,0,0,1,-1,-1,0,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2167,0,-1,-3,-3,-2,1,-1,0,1,3,0,0,0,-2,-2,-2,-2,0,0,1,1.5,1.5,1.5,1.5,FALSE
+2179,0,0,1,-1,0,-1,-1,-1,1,2,1,1,2,0,1,1,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2180,2,2,2,2,2,-1,-1,-1,0,1,2,1,2,2,2,2,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2188,2,2,1,1,3,-1,-1,-1,0,0,2,0,3,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+2190,-1,-1,-2,-2,-2,-1,-1,0,2,1,1,2,1,1,-1,1,-1,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+2203,3,2,3,3,3,-1,-1,-1,1,0,2,0,3,3,-1,-1,-1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+2212,-1,-2,-3,-3,-2,0,0,1,3,3,1,2,1,1,2,1,1,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+2236,1,1,3,-1,-1,0,0,0,1,1,1,0,1,1,2,-2,-1,-1,1,1,1.5,1.5,1.5,1.5,FALSE
+2274,2,2,2,2,2,-1,-1,-1,0,1,2,0,2,1,-1,2,-1,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2277,0,0,-1,-1,1,-1,0,0,1,2,2,1,2,3,1,1,2,0,-1,-1,1.5,1.5,1.5,1.5,TRUE
+2286,1,0,-1,-1,2,-1,-1,-1,0,1,1,1,1,0,0,0,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+2323,-1,0,-2,-3,0,0,-1,-1,1,1,2,1,0,0,-1,-1,-1,-1,0,0,1.5,1.5,1.5,1.5,TRUE
+2327,1,0,0,-2,-2,1,0,-1,0,1,2,0,2,2,-2,-3,-1,1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+2355,1,1,1,1,1,-1,-1,-1,0,1,2,1,1,0,0,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2365,-1,-2,-1,-2,-1,-1,-1,-1,3,3,1,2,1,1,1,1,1,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+2406,0,-1,0,-2,0,0,0,0,2,1,2,1,-1,-1,-3,-2,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+2408,1,2,2,2,2,0,0,-1,0,1,3,1,2,1,2,1,2,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+2427,0,-1,-1,1,-1,-1,-1,-1,2,2,2,3,-1,-1,-1,-1,-2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+2436,1,1,1,3,2,-1,0,-1,0,3,2,1,1,2,1,2,2,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+2443,1,2,-1,2,1,0,0,0,0,2,1,0,1,1,-1,-1,1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+2445,1,1,-2,-2,-1,0,0,0,1,0,2,0,0,0,-2,-2,-3,1,1,1,1.5,1.5,1.5,1.5,TRUE
+2449,-1,-1,2,2,2,0,0,0,0,1,2,1,0,1,-1,-2,-1,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+2488,2,2,3,2,2,-1,0,-1,0,0,2,1,2,3,2,2,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+2489,0,1,-2,-2,-2,1,1,1,2,3,1,3,0,-1,-1,-1,0,1,0,1,1.5,1.5,1.5,1.5,TRUE
+2528,-1,-1,0,-1,0,0,0,0,1,1,3,1,0,1,2,2,1,1,0,0,1.5,1.5,1.5,1.5,FALSE
+2532,1,0,-3,-2,-2,1,0,1,1,2,1,2,0,0,-3,-3,-2,1,1,1,1.5,1.5,1.5,1.5,TRUE
+2536,2,3,2,2,2,-1,-1,-1,0,1,2,0,2,1,1,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2572,1,0,-2,-2,-2,-1,-1,-1,0,1,2,0,1,0,0,0,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+2597,0,0,-1,-1,0,-1,-1,-1,0,2,2,0,3,3,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2600,1,1,-2,-2,-1,0,-1,0,0,0,2,1,2,2,1,2,1,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2622,3,3,2,3,3,-1,-1,-1,0,0,2,0,3,3,2,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2629,-1,-1,-2,-2,-2,1,1,1,2,1,0,2,-2,-2,-2,-2,-3,0,0,0,1.5,1.5,1.5,1.5,TRUE
+2640,-1,0,-2,-2,-2,-1,-1,-1,0,3,1,1,-3,-3,-2,-2,-2,0,1,1,1.5,1.5,1.5,1.5,FALSE
+2646,0,-1,-2,-2,-1,1,1,1,1,2,2,0,1,1,2,2,2,-1,0,0,1.5,1.5,1.5,1.5,TRUE
+2654,3,1,2,2,2,-1,-1,-1,0,0,2,0,2,1,0,0,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+2665,1,0,-1,-2,1,0,-1,1,0,1,2,1,-2,-3,-2,-3,-2,1,1,1,1.5,1.5,1.5,1.5,TRUE
+2688,-1,0,-1,2,0,0,0,0,1,2,2,1,0,-1,-2,-1,1,0,-1,-1,1.5,1.5,1.5,1.5,TRUE
+2690,2,1,2,2,3,-1,-1,-1,0,1,2,0,3,3,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2701,2,0,3,2,2,0,0,0,1,3,2,1,2,0,1,2,2,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+2716,0,-2,-1,-1,0,0,0,1,2,0,2,1,1,0,0,-1,1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+2718,1,1,0,0,1,-1,-1,-1,0,0,2,0,1,1,-1,-1,0,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+2736,1,0,-2,-2,0,-1,0,0,0,1,1,2,0,0,-1,-1,-1,0,1,1,1.5,1.5,1.5,1.5,TRUE
+2742,-1,-1,0,-2,0,0,0,1,1,1,2,1,-1,0,0,-1,-1,1,0,1,1.5,1.5,1.5,1.5,FALSE
+2750,1,2,2,3,3,0,0,0,2,2,3,0,2,2,2,3,3,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+2754,-1,-1,-1,-1,-2,0,0,0,2,2,1,2,0,-1,-1,-1,-2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+2761,1,2,1,2,2,0,-1,-1,1,2,2,1,1,2,1,1,2,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+2767,3,3,1,1,3,-1,-1,-1,0,0,3,1,1,3,1,0,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2768,0,1,-1,-2,0,-1,-1,-1,1,1,0,2,2,2,0,0,2,0,-1,-1,1.5,1.5,1.5,1.5,TRUE
+2807,-1,0,-1,-1,-1,0,-1,0,2,3,2,2,0,0,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2811,2,1,1,1,2,-1,-1,-1,0,1,2,1,2,1,1,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+2812,1,1,1,0,-1,0,-1,-1,0,1,1,1,1,1,0,-2,-2,1,0,-1,1.5,1.5,1.5,1.5,FALSE
+2813,1,0,-1,-2,1,-1,-1,-1,1,2,2,0,2,1,2,1,3,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2829,1,1,2,2,2,-1,-1,-1,0,1,2,0,1,1,2,1,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2840,0,-1,0,-1,1,0,0,0,1,2,1,2,0,1,-1,-1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+2861,2,2,1,1,2,-1,-1,-1,0,1,2,0,2,2,2,1,2,-1,-1,0,1.5,1.5,1.5,1.5,TRUE
+2879,-3,-3,0,-1,-1,1,1,1,2,2,1,2,0,-2,1,-1,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+2880,1,0,-1,0,0,0,0,0,2,2,2,3,0,-1,1,-1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+2893,-1,-1,-2,-2,0,1,0,0,2,1,1,1,1,0,1,1,1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+2918,2,2,1,2,2,0,0,0,1,2,2,2,-1,0,0,0,1,1,1,1,1.5,1.5,1.5,1.5,FALSE
+2930,2,2,1,2,2,0,0,0,0,0,2,1,2,2,2,3,3,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2941,-2,-3,-3,-3,-3,1,1,1,3,3,0,0,-1,-1,-3,-3,-3,0,0,1,1.5,1.5,1.5,1.5,FALSE
+2960,1,3,2,-1,2,0,-1,-1,2,1,3,0,2,2,2,-2,3,1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2964,-2,-2,-3,1,-2,-1,-1,-1,3,2,2,2,-1,-1,-3,1,-1,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+2975,-1,-1,-3,-3,1,1,1,1,3,2,0,2,0,2,-1,-1,2,1,0,-1,1.5,1.5,1.5,1.5,FALSE
+2987,1,1,0,-1,1,-1,-1,-1,1,3,2,1,1,0,0,-1,1,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+3014,-1,-2,-2,-1,-3,-1,-1,0,3,2,1,3,-2,-2,-2,-3,-3,0,0,1,1.5,1.5,1.5,1.5,TRUE
+3020,1,1,1,1,1,-1,-1,-1,0,3,1,1,1,1,-1,-2,1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+3022,0,1,1,-1,2,1,0,0,2,1,1,1,1,1,1,1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+3024,-1,-1,-1,1,-1,-1,-1,-1,3,2,1,1,0,-1,-1,1,-1,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+3051,-1,-1,-2,-2,-1,-1,-1,-1,1,2,1,0,0,1,-1,-1,0,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+3059,0,1,-3,-2,-2,1,0,1,2,2,0,1,1,1,-3,-2,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+3065,1,1,0,0,1,-1,-1,0,1,2,1,1,1,1,0,0,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+3081,2,3,-3,3,1,-1,-1,-1,1,2,3,2,1,0,3,3,-2,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+3100,1,2,-1,1,1,0,0,0,2,1,1,2,1,1,-1,0,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+3119,1,1,1,1,2,0,-1,-1,0,2,2,0,1,1,1,0,1,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+3125,0,0,1,0,-1,0,0,0,2,1,2,1,0,0,1,0,0,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+9584,1,1,1,0,1,0,0,0,0,1,3,1,0,0,-1,-2,-1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+9588,1,1,1,1,1,-1,-1,-1,0,2,2,2,1,1,1,1,1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+9609,2,1,2,2,2,-1,0,-1,0,0,3,0,2,0,2,2,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+9707,2,1,2,2,2,1,-1,0,1,1,3,0,2,2,1,2,3,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+9783,1,1,2,1,2,-1,-1,-1,0,0,1,2,1,2,2,1,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+9787,-1,-1,-3,-3,-3,-1,1,1,3,2,0,3,-2,-3,-3,-3,-3,0,1,1,1.5,1.5,1.5,1.5,FALSE
+9910,1,1,-1,-3,0,1,0,0,2,2,1,1,-1,-2,-3,-3,-1,1,1,1,1.5,1.5,1.5,1.5,FALSE
+9958,2,0,-3,-2,-2,0,-1,-1,2,0,3,1,2,1,1,2,2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+10187,1,0,1,1,2,-1,0,0,0,3,1,1,1,-1,1,0,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+10210,0,1,2,2,1,0,0,0,0,2,2,1,-1,1,-1,-1,1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+10218,-3,-3,-2,-2,-2,-1,-1,0,3,3,0,3,-1,-1,-2,-2,-1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+10272,3,3,3,3,3,-1,-1,-1,0,1,3,0,3,1,2,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+10304,0,1,1,1,-1,1,1,1,3,3,2,2,0,-1,-2,2,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+10335,-2,-2,-3,-3,-3,1,0,0,3,3,0,2,-2,-3,-2,-2,-2,1,1,1,1.5,1.5,1.5,1.5,TRUE
+10363,-1,-2,-2,-2,1,1,1,1,1,3,1,0,-1,-2,-2,-1,-3,1,1,1,1.5,1.5,1.5,1.5,FALSE
+10510,1,0,0,-1,-1,1,-1,0,2,2,1,1,0,-1,-2,-2,-3,1,1,0,1.5,1.5,1.5,1.5,FALSE
+10534,1,1,-1,-1,2,0,1,0,1,1,1,2,1,1,-1,-1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+10595,1,1,1,2,2,0,-1,0,1,2,2,0,1,0,1,1,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+10662,3,1,0,-1,0,-1,-1,-1,1,0,2,2,0,-3,-3,-3,0,-1,0,1,1.5,1.5,1.5,1.5,FALSE
+10669,2,3,2,2,2,-1,0,-1,0,0,3,2,2,3,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+10675,2,0,1,0,2,-1,0,0,0,1,1,0,2,0,-1,-1,1,-1,-1,0,1.5,1.5,1.5,1.5,TRUE
+10719,1,1,2,2,3,-1,-1,-1,0,0,3,1,0,0,0,0,1,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+10742,-2,-2,-3,-3,-3,0,0,0,3,3,1,2,-2,-1,-3,-3,-2,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+10865,2,1,1,0,1,0,0,0,0,0,2,2,1,0,0,1,2,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+10940,1,0,1,0,1,0,0,0,0,0,2,1,1,0,1,1,-1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+11272,1,0,-1,-1,1,-1,-1,0,2,2,2,0,1,0,-2,-1,-1,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+11408,2,2,1,1,1,-1,-1,-1,0,0,2,0,1,1,0,-1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+11417,1,1,1,1,2,-1,-1,-1,1,2,2,0,2,3,2,2,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+11513,-1,0,1,0,0,-1,-1,-1,1,1,1,3,0,-1,1,1,1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+11544,1,1,-2,2,-1,-1,-1,-1,0,1,2,1,3,3,2,2,1,-1,0,-1,1.5,1.5,1.5,1.5,TRUE
+11663,-1,1,1,-1,2,0,-1,-1,1,0,3,1,1,0,0,0,1,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+11692,0,1,2,2,2,-1,0,0,1,1,2,1,1,2,2,2,3,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+11724,-2,-2,-2,-2,-2,0,0,0,1,2,2,2,-1,-1,-2,-2,-2,0,1,1,1.5,1.5,1.5,1.5,FALSE
+11770,2,2,3,3,3,-1,-1,-1,0,1,2,0,2,1,2,3,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+12066,-1,-1,-3,-2,-2,0,1,0,2,0,1,0,-1,-1,-2,-2,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+12088,0,1,1,1,2,-1,0,-1,1,0,2,1,2,1,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+12157,-1,-1,-2,-2,-2,1,1,1,2,3,2,2,-1,0,-2,-2,-2,0,0,1,1.5,1.5,1.5,1.5,FALSE
+12174,1,3,1,1,2,-1,-1,-1,0,0,2,0,2,1,1,1,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+12180,1,1,1,0,2,0,-1,-1,0,2,2,1,1,0,-1,-2,0,1,-1,0,1.5,1.5,1.5,1.5,TRUE
+12182,1,1,0,0,1,0,0,0,0,1,2,2,2,1,0,0,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+12326,1,2,2,0,-1,0,-1,0,1,0,2,1,1,3,1,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+12550,1,1,-2,-2,1,-1,-1,-1,1,2,1,1,3,1,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+12616,2,2,2,1,2,0,0,0,1,2,1,1,1,2,2,1,2,1,0,0,1.5,1.5,1.5,1.5,TRUE
+12636,1,1,1,2,2,0,0,0,0,0,2,3,1,1,0,1,2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+12662,1,1,-1,-2,-1,0,0,0,0,2,1,1,1,1,1,1,1,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+12676,3,2,3,3,3,-1,-1,-1,0,2,3,0,3,2,2,1,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+12698,0,-1,-2,1,-2,-1,0,1,2,3,0,3,1,0,1,0,1,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+12728,1,1,1,0,2,0,0,-1,0,1,2,0,1,0,-1,0,2,-1,0,-1,1.5,1.5,1.5,1.5,FALSE
+12764,3,3,1,1,2,-1,-1,-1,0,1,2,1,0,0,0,0,0,0,0,0,1.5,1.5,1.5,1.5,TRUE
+12925,2,2,2,2,2,-1,-1,0,0,0,1,1,3,3,3,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+12970,-1,-1,-1,-1,1,0,0,0,0,2,2,2,2,1,1,2,3,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+13031,2,0,1,1,2,-1,0,0,1,2,2,1,1,1,1,1,2,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+13317,0,0,1,2,1,0,0,1,1,0,1,0,0,0,-1,1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+13396,-2,-1,-3,-3,-3,1,1,1,3,3,0,3,0,-1,-3,0,-3,1,0,0,1.5,1.5,1.5,1.5,FALSE
+13507,-1,-1,-2,-2,-2,-1,-1,-1,2,1,2,1,1,-1,-2,-1,-2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+13711,1,0,1,0,2,1,0,-1,0,1,1,2,1,2,-1,1,2,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+13768,1,1,0,0,1,1,0,0,2,2,3,1,1,1,1,0,2,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+13941,1,0,1,-1,1,-1,-1,-1,1,1,2,1,0,0,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+14012,0,0,0,0,0,0,-1,0,2,2,2,1,-1,0,0,-1,-1,1,0,0,1.5,1.5,1.5,1.5,FALSE
+14021,2,1,2,1,2,-1,-1,-1,0,0,3,1,2,2,2,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+14039,2,0,2,1,2,1,0,-1,0,1,2,1,2,0,1,1,2,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+14117,-3,-1,-2,-3,-1,0,0,0,3,3,0,1,-2,-2,-3,-3,-3,0,-1,-1,1.5,1.5,1.5,1.5,TRUE
+14123,0,0,0,-1,2,1,-1,-1,1,0,1,0,0,0,-2,-2,-1,1,0,0,1.5,1.5,1.5,1.5,TRUE
+14159,-2,-2,-3,-3,-3,1,0,1,2,2,0,2,-2,-2,-3,-2,-3,1,1,1,1.5,1.5,1.5,1.5,FALSE
+14205,0,-1,-2,-1,1,0,-1,1,2,1,1,1,-1,-1,-1,-1,-1,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+14221,-2,-1,-2,-1,-2,0,0,0,2,2,2,0,-1,0,-2,-2,-2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+14225,3,1,2,1,1,-1,-1,-1,0,0,2,1,3,2,1,1,1,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+14248,3,1,2,2,2,-1,-1,-1,0,0,2,1,2,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+14277,2,2,1,2,2,-1,-1,-1,0,1,0,1,3,1,0,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+14308,1,1,0,0,0,0,0,0,2,1,2,1,0,0,0,0,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+14321,3,1,1,2,2,1,1,1,1,2,1,3,0,-2,-1,0,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+14402,1,1,0,0,0,0,-1,-1,0,0,1,2,2,2,2,2,2,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+14551,0,0,-1,0,0,1,1,1,1,2,0,2,1,0,0,1,1,0,1,-1,1.5,1.5,1.5,1.5,FALSE
+14557,0,0,0,0,2,-1,-1,-1,0,2,2,3,0,0,0,0,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+14718,3,3,3,3,3,-1,-1,-1,0,1,3,0,2,1,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+14729,0,-2,-1,-1,-2,0,0,1,1,2,1,1,0,-3,-1,-1,-2,0,1,0,1.5,1.5,1.5,1.5,FALSE
+14738,0,1,0,0,1,0,1,0,2,3,2,1,0,-2,0,-1,-1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+14751,-1,-1,-2,-2,-2,0,0,0,1,2,2,0,0,0,-1,-1,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+14791,0,1,1,0,1,0,0,-1,1,2,1,2,1,2,2,2,3,0,0,0,1.5,1.5,1.5,1.5,FALSE
+14866,3,3,-1,1,2,0,1,1,1,0,2,1,1,2,2,2,3,0,0,0,1.5,1.5,1.5,1.5,TRUE
+14974,0,0,1,1,1,-1,-1,-1,1,3,2,0,-1,0,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+15023,1,2,2,1,2,-1,-1,-1,0,3,2,0,2,2,-1,2,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+15035,0,-1,-1,-1,0,0,0,0,2,2,1,3,0,0,0,-1,0,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+15036,2,3,2,3,3,-1,-1,-1,0,1,2,0,1,1,-1,-1,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+15076,-3,-3,0,2,-2,1,0,1,2,3,1,2,-1,-3,-1,-2,-1,1,0,1,1.5,1.5,1.5,1.5,FALSE
+15096,3,1,1,2,2,-1,-1,0,0,1,1,2,2,1,1,2,1,-1,-1,0,1.5,1.5,1.5,1.5,TRUE
+15157,2,3,1,1,2,1,0,0,1,2,2,0,-1,-2,-1,-1,1,1,0,1,1.5,1.5,1.5,1.5,FALSE
+15163,1,-1,-3,-3,0,1,1,1,1,1,2,3,0,-2,-2,-3,-1,1,0,0,1.5,1.5,1.5,1.5,FALSE
+15174,0,0,1,-1,-1,1,0,0,2,1.5,2,1,2,1,-1,-2,-1,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+15220,0,1,0,0,1,0,0,-1,1,2,3,0,1,0,0,0,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+15306,2,1,1,2,2,0,-1,-1,0,0,2,1,2,0,1,1,2,-1,0,-1,1.5,1.5,1.5,1.5,TRUE
+15507,1,2,-2,-2,1,0,0,0,1,0,1,0,-1,0,0,0,2,1,-1,0,1.5,1.5,1.5,1.5,TRUE
+15519,1,1,1,2,2,0,-1,-1,0,2,2,1,1,1,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+15564,1,-1,-2,-2,-1,-1,0,0,2,2,1,2,1,0,-1,2,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+15678,1,0,1,2,2,0,0,0,0,1,1,2,1,1,1,2,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+15691,0,0,1,1,-1,1,1,1,1,1,2,0,-1,0,-1,1,-1,1,1,1,1.5,1.5,1.5,1.5,FALSE
+15761,1,1,1,1,1,-1,-1,0,1,1,1,1,1,0,1,1,2,-1,0,0,1.5,1.5,1.5,1.5,TRUE
+15770,-1,-2,1,1,2,-1,0,0,2,3,1,1,1,2,1,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+15799,3,3,1,1,3,-1,-1,-1,0,1,3,2,3,3,2,0,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+15802,1,2,2,2,2,0,0,0,0,1,2,1,2,2,1,2,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+15808,2,2,2,2,2,-1,-1,-1,2,0,2,1,2,2,3,1,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+15817,0,-1,0,0,1,1,0,0,1,0,2,2,0,0,1,2,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+15821,1,0,-1,-1,-1,-1,0,-1,1,2,1,2,0,-1,-1,-1,-2,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+15845,3,1,-1,-1,2,-1,-1,-1,0,2,1,1,0,0,-3,-3,-3,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+15926,1,1,1,0,1,0,-1,-1,0,2,1,0,1,0,2,2,2,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+16006,-2,-3,0,-2,-2,0,0,1,3,2,0,1,-2,-3,-1,-2,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+16028,1,2,-1,-1,-2,-1,0,0,3,3,1,2,3,2,2,-2,-2,-1,0,0,1.5,1.5,1.5,1.5,TRUE
+16102,0,0,1,2,2,0,0,-1,0,1,3,1,-1,-2,-1,1,-1,0,0,1,1.5,1.5,1.5,1.5,TRUE
+16126,1,2,2,3,2,0,-1,-1,1,1,2,1,1,2,1,2,2,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+16132,2,2,2,2,2,-1,-1,-1,0,0,3,1,3,3,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+16181,-1,0,-2,-2,-1,0,-1,0,2,1,1,1,-1,-1,-2,-2,-1,0,-1,1,1.5,1.5,1.5,1.5,FALSE
+16302,0,0,-1,-1,-1,0,0,0,1,1,1,1,-1,-3,-3,-3,-3,0,1,0,1.5,1.5,1.5,1.5,FALSE
+16320,-2,-3,-3,0,-2,1,1,1,3,2,1,2,0,-2,-1,1,-2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+16402,-1,-1,-1,-1,-1,0,-1,0,1,1,2,2,0,0,-1,-1,0,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+16432,0,1,0,-1,-1,1,0,-1,3,3,2,0,0,0,-1,-1,-1,1,1,1,1.5,1.5,1.5,1.5,TRUE
+16462,3,3,3,3,3,-1,-1,-1,0,0,0,0,3,3,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+16518,0,-2,-2,-1,-1,1,1,1,2,0,2,3,-3,-3,-1,-2,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+16647,-1,-1,-2,-2,-2,-1,-1,-1,1,1,1,1,0,-1,-2,-2,0,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+16648,-1,-1,-2,-2,-1,-1,-1,0,1,3,3,2,0,0,1,1,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+16865,0,0,-1,-2,0,-1,-1,-1,0,2,3,0,1,1,0,-2,-1,1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+16868,0,2,1,1,1,1,0,0,2,2,2,0,1,1,-2,-2,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+16954,0,1,-1,-1,2,0,0,0,1,2,2,1,1,2,-2,-2,1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+16974,2,2,2,2,2,-1,-1,-1,0,1,2,0,3,3,2,2,3,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+16988,1,0,0,-1,-1,1,0,0,1,1,2,1,0,-1,-2,-1,0,1,0,0,1.5,1.5,1.5,1.5,FALSE
+17102,2,2,2,2,2,0,0,-1,0,2,2,0,1,1,0,2,2,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+17136,2,0,1,1,2,0,-1,-1,1,1,2,1,0,-1,0,1,1,1,-1,0,1.5,1.5,1.5,1.5,TRUE
+17138,0,0,-3,-3,-3,0,0,1,2,1,1,2,1,-3,-1,-2,-3,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+17208,0,0,0,1,-1,1,0,0,1,1,1,2,0,-1,-1,0,0,0,-1,-1,1.5,1.5,1.5,1.5,TRUE
+17316,-2,-2,-2,-2,-2,0,0,1,3,3,2,3,-2,-2,-2,-2,-2,1,1,1,1.5,1.5,1.5,1.5,TRUE
+17353,2,2,-1,-1,-1,0,-1,0,1,1,2,0,0,-1,-2,-2,-2,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+17442,3,3,3,3,3,-1,-1,-1,0,1,3,0,3,3,3,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+17448,-3,-1,-2,-2,-2,0,0,0,3,2,1,2,0,-1,1,-1,-1,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+17476,-1,-1,-1,-1,-1,0,0,0,1,2,1,0,-1,-1,-2,-2,-1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+17532,0,-1,-2,-2,-2,1,1,1,3,3,2,2,1,-1,-1,-1,0,1,1,1,1.5,1.5,1.5,1.5,FALSE
+17582,0,0,-1,-1,0,1,0,0,2,1,0,1,1,1,0,-1,-1,1,0,0,1.5,1.5,1.5,1.5,FALSE
+18106,0,-2,-2,-2,-1,0,0,0,1,2,2,0,0,-1,-2,-1,-2,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+18155,1,1,2,2,2,-1,-1,-1,0,1,3,1,2,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+18162,1,0,0,0,2,-1,-1,-1,1,0,2,1,0,0,-2,-1,-1,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+18279,3,3,3,3,3,-1,-1,-1,0,1,2,1,2,1,2,3,3,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+18324,-2,-2,-2,-2,-1,-1,-1,-1,0,2,2,0,-1,-1,-1,-2,-1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+18500,-2,-2,0,-1,-1,0,0,1,1,2,3,2,-1,1,0,1,-1,0,0,1,1.5,1.5,1.5,1.5,FALSE
+18560,0,-2,1,1,1,0,0,-1,2,1,2,2,1,0,-1,1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+18615,2,0,0,1,1,0,-1,-1,0,1,3,1,1,1,-2,0,1,1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+18667,-1,-1,-3,-3,-2,0,-1,0,2,3,1,2,-1,-1,-2,-1,-2,1,0,0,1.5,1.5,1.5,1.5,FALSE
+18700,2,1,0,1,1,-1,-1,-1,0,1,2,0,2,2,2,1,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+18769,1,0,-1,-1,1,0,-1,-1,0,0,2,1,1,-3,-2,-1,1,0,-1,-1,1.5,1.5,1.5,1.5,TRUE
+18911,-2,-3,-2,-2,1,-1,-1,-1,2,3,1,0,-1,0,-1,-1,0,0,1,1,1.5,1.5,1.5,1.5,FALSE
+18949,2,1,1,-1,2,0,-1,-1,1,0,1,0,2,2,1,1,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+18988,1,1,-2,-2,-2,-1,-1,-1,0,1,2,1,1,0,0,-2,-1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+19304,1,1,1,1,1,-1,-1,-1,0,1,1,1,2,2,0,-1,2,-1,0,-1,1.5,1.5,1.5,1.5,FALSE
+19323,0,0,-2,-2,0,0,0,-1,1,2,1,2,0,-1,-2,-2,-1,1,-1,1,1.5,1.5,1.5,1.5,FALSE
+19344,0,0,1,1,1,0,0,0,3,3,2,2,-1,-1,-2,-2,-2,1,1,1,1.5,1.5,1.5,1.5,TRUE
+19386,1,2,1,1,1,-1,-1,-1,0,1,2,2,1,2,1,0,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+19414,0,-1,1,1,2,0,-1,0,2,2,2,1,1,0,1,1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+19429,2,1,1,1,1,-1,-1,-1,0,0,3,0,2,2,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+19454,-1,-2,-2,-3,-1,0,1,0,2,2,0,2,1,0,-1,-1,-1,0,0,1,1.5,1.5,1.5,1.5,TRUE
+19492,1,1,1,2,2,0,-1,0,0,1,0,0,1,0,1,1,1,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+19597,1,1,2,1,2,-1,-1,-1,1,0,2,2,2,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+19699,3,2,2,2,2,-1,-1,-1,0,0,2,2,1,0,-2,-2,-2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+19705,0,0,0,1,1,0,0,0,2,2,1,1,0,0,0,-2,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+19710,1,1,-1,-1,1,-1,-1,0,1,2,1,2,0,0,-1,-1,1,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+19794,-2,-2,-3,-2,-2,0,0,1,2,3,0,1,-1,-3,-2,-2,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+19867,2,0,1,2,3,0,-1,-1,1,2,3,0,0,1,-2,1,-1,0,-1,0,1.5,1.5,1.5,1.5,FALSE
+19884,0,0,2,2,1,0,0,0,1,2,2,2,2,1,2,1,2,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+19904,1,1,1,1,1,-1,-1,-1,1,2,2,1,0,0,1,-1,2,-1,0,0,1.5,1.5,1.5,1.5,FALSE
+19965,-1,-1,-3,-3,-2,1,1,1,3,3,1,3,-3,-3,-3,-3,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+20078,1,1,0,0,1,0,-1,-1,2,2,1,1,-1,0,-1,-1,0,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+20104,-1,-2,-2,-2,-2,1,0,1,2,0,0,2,-2,-3,-2,-2,-2,1,0,1,1.5,1.5,1.5,1.5,FALSE
+20117,1,0,-1,-1,1,1,1,1,1,2,0,2,1,1,1,1,2,0,1,0,1.5,1.5,1.5,1.5,TRUE
+20243,2,2,2,2,2,-1,-1,-1,1,1,2,1,2,2,2,2,2,-1,0,-1,1.5,1.5,1.5,1.5,TRUE
+20382,0,0,-1,-2,-2,0,-1,0,1,1,1,1,0,0,0,0,0,0,-1,-1,1.5,1.5,1.5,1.5,TRUE
+20389,3,3,0,0,0,0,-1,0,1,1,1,3,1,0,0,0,0,1,0,0,1.5,1.5,1.5,1.5,FALSE
+20418,0,-1,-1,-1,1,0,0,0,1,1,1,2,1,0,1,1,2,-1,0,-1,1.5,1.5,1.5,1.5,TRUE
+20492,3,3,2,2,1,-1,-1,-1,0,0,2,0,2,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+20519,2,1,2,2,2,-1,-1,-1,0,1,2,1,2,1,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+20542,1,0,1,1,2,0,-1,-1,0,1,1,0,2,1,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+20547,3,3,3,3,3,-1,-1,-1,0,0,3,2,3,3,3,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+20571,1,2,1,1,2,0,-1,-1,0,0,1,1,1,2,1,1,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+20623,2,2,0,1,2,-1,-1,-1,0,0,2,1.5,2,2,0,1,3,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+20666,1,1,1,1,1,-1,-1,0,0,1,0,2,0,0,-2,-2,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+20757,1,2,1,0,2,0,0,-1,2,1,2,0,-1,0,-1,0,2,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+20763,1,1,1,1,0,0,-1,-1,0,2,2,2,0,-1,-1,-1,-2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+20780,0,0,0,0,1,0,-1,-1,0,0,2,1,0,0,-2,-1,-1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+20835,2,2,2,2,2,0,0,1,0,1,2,1,2,2,2,2,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+20968,1,2,1,1,3,-1,-1,-1,0,0,2,0,2,2,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+21000,1,1,0,0,2,0,0,0,1,0,2,1,1,1,-1,2,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+21038,3,1,1,0,1,0,0,0,1,1,1,1,3,3,0,-1,2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+21074,3,3,3,3,3,-1,-1,-1,0,0,2,1,3,3,3,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+21075,-1,-1,-1,-2,-1,0,0,0,2,2,1,2,0,0,0,-2,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+21120,1,1,1,1,1,-1,0,0,0,1,1,0,3,3,3,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+21141,1,2,0,-1,-2,1,0,0,1,0,2,1,-1,1,-2,-2,-2,1,0,-1,1.5,1.5,1.5,1.5,FALSE
+21184,1,2,2,1,2,-1,-1,-1,1,1,2,2,2,1,1,2,2,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+21191,1,2,-2,-1,1,0,1,1,0,1,2,0,2,2,1,0,2,0,1,0,1.5,1.5,1.5,1.5,FALSE
+21194,0,-1,1,-1,-1,0,0,0,1,2,1,0,1,-1,-1,1,1,-1,-1,0,1.5,1.5,1.5,1.5,TRUE
+21216,-1,-1,1,-1,0,1,0,-1,1,0,2,1,-1,-1,-2,-2,-2,1,-1,0,1.5,1.5,1.5,1.5,TRUE
+21272,1,0,0,-2,-1,-1,-1,-1,1,3,2,2,1,0,-1,-1,-1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+21281,2,2,1,1,1,-1,-1,-1,1,1,2,1,1,0,-2,-2,-1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+21285,3,2,2,2,3,-1,-1,-1,0,1,3,0,3,3,3,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+21361,1,0,-1,-1,0,-1,-1,-1,2,2,0,2,2,2,0,0,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+21397,1,2,1,2,2,0,0,-1,0,1,2,1,-1,1,-2,-2,-2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+21443,1,1,1,0,1,-1,-1,-1,1,1,2,1,0,0,1,1,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+21484,-2,-2,-2,-3,-3,-1,-1,-1,3,3,3,0,0,0,-2,-2,-1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+21503,0,0,0,-1,0,0,0,0,1,0,2,1,-2,-1,-2,-2,-2,1,0,1,1.5,1.5,1.5,1.5,FALSE
+21542,2,0,-1,-1,0,-1,-1,-1,0,0,1,2,2,1,-1,-1,0,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+21555,1,1,0,0,2,-1,0,-1,0,0,1,1,1,1,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+21568,1,1,-2,-2,-2,1,1,1,2,3,1,0,2,0,-2,-2,-2,0,0,1,1.5,1.5,1.5,1.5,FALSE
+21616,-1,-1,1,2,1,-1,-1,-1,1,0,2,1,-1,-2,-1,1,1,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
+21624,1,1,0,1,2,-1,-1,-1,0,0,2,2,2,1,1,1,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+21685,1,0,1,1,1,1,0,0,2,2,3,0,0,0,0,0,0,1,1,1,1.5,1.5,1.5,1.5,FALSE
+21713,2,2,2,2,2,-1,-1,-1,0,0,2,1,2,2,3,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+21723,2,1,2,2,3,-1,-1,-1,0,1,2,1,2,0,2,2,3,-1,0,0,1.5,1.5,1.5,1.5,TRUE
+21726,-1,-1,1,0,2,-1,-1,0,2,2,3,0,0,2,1,0,1,-1,0,-1,1.5,1.5,1.5,1.5,TRUE
+21746,0,-3,-3,-3,-3,1,1,1,3,3,0,3,-2,-3,-3,-2,-3,1,1,1,1.5,1.5,1.5,1.5,FALSE
+21764,0,-1,0,0,-1,-1,-1,0,3,3,0,0,-1,-3,-2,-2,-2,0,0,1,1.5,1.5,1.5,1.5,FALSE
+21776,2,2,2,2,3,1,-1,0,0,0,3,1,2,0,1,0,2,0,-1,-1,1.5,1.5,1.5,1.5,TRUE
+21826,1,0,-1,-1,1,1,0,0,1,2,1,2,0,-1,-2,-1,1,1,1,1,1.5,1.5,1.5,1.5,FALSE
+21890,0,1,1,-1,1,-1,-1,-1,1,1,2,1,1,2,1,1,1,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+21906,1,1,2,1,-1,0,0,0,1,1,0,1,2,0,1,1,2,-1,0,-1,1.5,1.5,1.5,1.5,FALSE
+21913,1,1,-1,-1,2,0,-1,0,1,1,2,1,2,1,-2,-2,-1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+22000,1,1,-2,-3,-3,0,1,0,0,1,2,0,2,2,1,-2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+22139,0,0,-2,-1,-1,-1,0,-1,1,1,2,0,0,1,-2,-2,-2,0,1,0,1.5,1.5,1.5,1.5,FALSE
+22142,1,1,-3,-2,-3,1,0,0,2,2,1,0,-3,-3,-2,-3,-3,1,0,0,1.5,1.5,1.5,1.5,FALSE
+22193,1,0,0,0,2,1,0,1,1,2,2,1,1,0,-1,1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+22290,3,3,2,2,2,-1,0,0,0,1,2,2,3,3,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+22310,0,0,0,1,1,0,0,0,1,1,2,1,0,0,-1,-1,-1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+22444,1,1,2,3,1,0,0,0,1,0,2,0,0,0,1,2,1,0,0,-1,1.5,1.5,1.5,1.5,FALSE
+22477,1,0,-1,-2,-2,-1,-1,0,1,1,2,1,-1,-1,-3,-2,-2,-1,-1,0,1.5,1.5,1.5,1.5,FALSE
+22523,1,1,-2,-1,-1,-1,-1,-1,0,0,2,0,2,2,1,2,1,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+22624,-1,0,-2,2,1,-1,-1,-1,1,2,2,1,2,2,-1,-1,0,0,-1,0,1.5,1.5,1.5,1.5,TRUE
+22701,1,1,1,1,2,1,0,-1,1,1,2,2,2,1,2,1,1,0,0,-1,1.5,1.5,1.5,1.5,TRUE
+22705,2,2,-1,0,-1,0,0,-1,1,2,1,2,2,3,0,1,-1,0,0,0,1.5,1.5,1.5,1.5,TRUE
+22726,-2,-2,-2,-2,-2,0,0,1,3,2,0,0,-1,-2,-3,-2,-3,0,0,0,1.5,1.5,1.5,1.5,FALSE
+22858,1,-1,-1,-3,-1,0,1,1,2,3,3,0,0,-3,-3,-3,-3,0,1,0,1.5,1.5,1.5,1.5,TRUE
+22947,1,1,2,1,2,-1,0,-1,1,0,2,1,2,1,2,2,2,-1,0,-1,1.5,1.5,1.5,1.5,FALSE
+22999,2,0,-1,0,0,-1,-1,-1,1,2,2,1,2,1,0,0,1,-1,0,-1,1.5,1.5,1.5,1.5,FALSE
+23078,1,1,2,2,2,-1,-1,0,0,1,2,2,2,3,2,3,2,0,0,0,1.5,1.5,1.5,1.5,FALSE
+23111,1,0,0,-2,-1,-1,-1,-1,0,1,2,2,1,2,0,0,1,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+23330,2,3,-1,2,3,-1,-1,-1,0,1,2,0,2,2,3,3,3,-1,-1,-1,1.5,1.5,1.5,1.5,TRUE
+23398,2,2,2,2,2,-1,-1,-1,0,1,2,1,2,0,2,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+23427,-1,-1,-2,-1,-1,-1,0,0,2,3,1,1,0,-1,0,-1,1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+23454,1,0,-1,1,2,-1,-1,-1,0,0,2,1,2,2,1,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+23503,2,2,2,2,2,-1,-1,-1,0,0,2,1,2,2,2,2,2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+23597,-1,-1,-1,-2,-2,0,0,0,1,2,2,0,1,-1,-2,-2,-1,0,0,0,1.5,1.5,1.5,1.5,FALSE
+23612,1,-1,1,1,0,1,0,0,0,0,1,2,1,2,0,0,1,1,1,0,1.5,1.5,1.5,1.5,FALSE
+23703,0,0,-2,-2,-1,1,0,0,1,0,0,2,0,-1,-1,-2,-2,1,1,1,1.5,1.5,1.5,1.5,FALSE
+23706,0,1,0,1,1,-1,-1,-1,0,1,2,1,2,2,0,2,2,-1,-1,-1,1.5,1.5,1.5,1.5,FALSE
+23718,-1,-1,-2,-2,-2,-1,0,0,2,2,2,1,0,-2,-2,-2,-2,0,1,1,1.5,1.5,1.5,1.5,TRUE
+23752,1,-2,-2,-2,-1,-1,1,1,3,3,1,3,-1,-2,-2,-2,-2,0,0,1,1.5,1.5,1.5,1.5,FALSE
+23786,0,0,-2,0,-1,0,0,0,2,2,1,1,0,0,0,0,0,0,0,0,1.5,1.5,1.5,1.5,FALSE
+23877,-2,-2,-3,-2,-3,1,1,1,3,3,1,2,-1,-1,-3,-3,-2,1,0,0,1.5,1.5,1.5,1.5,FALSE
+24011,-1,-1,-1,-1,-1,0,0,0,2,2,2,0,-1,-1,-1,1,-2,0,1,1,1.5,1.5,1.5,1.5,FALSE
+24046,3,2,2,1,2,-1,-1,-1,0,0,2,0,1,0,2,2,2,0,0,0,1.5,1.5,1.5,1.5,TRUE
+24132,1,1,-2,-1,-2,1,1,0,2,2,1,2,-1,-3,-3,-3,-3,1,1,1,1.5,1.5,1.5,1.5,FALSE
+24313,1,2,2,3,2,0,0,-1,1,2,1,2,1,1,2,2,2,0,-1,-1,1.5,1.5,1.5,1.5,FALSE
