@@ -27,63 +27,124 @@ endline <- as.Date(mdy(yaml_data$metadata$dates$endline))
 daylight_saving_2018 <- as.Date("2018-11-3")
 
 
-# Extract state information from baseline
+# Extract state information from baseline, midline and endline
 raw_baseline <- read_dta("data/raw_data/baseline_anonymous.dta")
+raw_midline <- read_dta("data/raw_data/midline_anonymous.dta")
+raw_endline <- read_dta("data/raw_data/endline_anonymous.dta")
 
+# Clean baseline
+# filter out response that either decide to not continue, or invalid
 cleaned_baseline <- raw_baseline |>
   clean_names() |>
-  filter(consent1 == "Continue")
-  
+  filter(consent1 == "Continue" & fb_minutes < 1440) |>
+  rename(fb_minutes_base = fb_minutes,
+         swb_happiness_base = swb_happiness,
+         swb_relhappiness_base = swb_relhappiness,
+         swb_ideal_base = swb_swl1,
+         swb_conditions_base = swb_swl2,
+         swb_satisfied_base = swb_swl3,
+         swb_lack_companion_base = swb_lnlns1,
+         swb_left_out_base = swb_lnlns2,
+         swb_isolated_base = swb_lnlns3,
+         swb_bored_base = swb_eurhappsvy_4,
+         swb_anxious_base = swb_eurhappsvy_5,
+         swb_depressed_base = swb_eurhappsvy_6,
+         swb_absorbed_worthwhile_base = swb_eurhappsvy_7)
 
-# Fill in missing state abbreviations for individuals who qualified for 
-# the midline but whose Zip codes weren't found
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Mississippi" & 
-                       cleaned_baseline$state == ""] <- "MS"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Wisconsin" & 
-                       cleaned_baseline$state == ""] <- "WI"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Utah" & 
-                       cleaned_baseline$state == ""] <- "UT"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "California" & 
-                       cleaned_baseline$state == ""] <- "CA"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Rhode Island" & 
-                       cleaned_baseline$state == ""] <- "RI"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Florida" & 
-                       cleaned_baseline$state == ""] <- "FL"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Iowa" & 
-                       cleaned_baseline$state == ""] <- "IA"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Ohio" & 
-                       cleaned_baseline$state == ""] <- "OH"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Massachusetts" & 
-                       cleaned_baseline$state == ""] <- "MA"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Indiana" & 
-                       cleaned_baseline$state == ""] <- "IN"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Alabama" & 
-                       cleaned_baseline$state == ""] <- "AL"
-cleaned_baseline$state[cleaned_baseline$state_prescreen == "Michigan" & 
-                       cleaned_baseline$state == ""] <- "MI"
+# Clean midline
+cleaned_midline <- raw_midline |>
+  clean_names() |>
+  rename(price1 = first_4weeks_num,
+         price2 = second_4weeks_num1) |>
+  # Made it to randomization stage in midline
+  mutate(randomized = ifelse(wta_understanding1 == "", 0, 1),
+         # treatment = 1 if price is offered, 0 if not
+         treatment = ifelse(price1 == 102 & wta1 != "" & randomized == 1,
+                            1,
+                            ifelse(price1 == 0 & wta1 != "" & randomized == 1,
+                                   0,
+                                   NA)))
 
-# Drop the state_prescreen variable
-cleaned_baseline$state_prescreen <- NULL
+# Clean endline
+cleaned_endline <- raw_endline |>
+  clean_names() |>
+  rename(fb_minutes_end = fb_minutes,
+         swb_happiness_end = swb_happiness,
+         swb_relhappiness_end = swb_relhappiness,
+         swb_ideal_end = swb_swl1,
+         swb_conditions_end = swb_swl2,
+         swb_satisfied_end = swb_swl3,
+         swb_lack_companion_end = swb_lnlns1,
+         swb_left_out_end = swb_lnlns2,
+         swb_isolated_end = swb_lnlns3,
+         swb_bored_end = swb_eurhappsvy_4,
+         swb_anxious_end = swb_eurhappsvy_5,
+         swb_depressed_end = swb_eurhappsvy_6,
+         swb_absorbed_worthwhile_end = swb_eurhappsvy_7)
 
+
+# Select variables that are useful for measuring social media usage
 social_time <- cleaned_baseline |>
-  select(id, leisure_activities2_5, fb_minutes) |>
+  select(id, fb_minutes_base) |>
   # Remove non valid entries
-  filter(leisure_activities2_5 != "" & fb_minutes != "")|>
-  # Mutate response on other social media to numeric value
-  mutate(other_social_minutes = recode(leisure_activities2_5,
-                                       "0 minutes" = 0,
-                                       "Between 1 and 30 minutes" = 15,
-                                       "Between 31 minutes and 1 hour" = 45,
-                                       "Between 1 and 2 hours" = 90,
-                                       "Between 2 and 3 hours" = 150,
-                                       "More than 3 hours" = 180,
-                                       .default = -1),
-         fb_minutes = as.numeric(fb_minutes),
-         sum_social_minutes = fb_minutes + other_social_minutes) |>
-  rename(other_social_response = leisure_activities2_5)
+  filter(fb_minutes_base != "")|>
+  mutate(fb_minutes_base = as.numeric(fb_minutes_base))
+
+# Select variables that are useful for measuring well-being
+# Variables that are useful in baseline
+subjective_well_being <- cleaned_baseline |>
+  select(id,
+         swb_happiness_base,
+         swb_relhappiness_base,
+         swb_ideal_base,
+         swb_conditions_base,
+         swb_satisfied_base,
+         swb_lack_companion_base,
+         swb_left_out_base,
+         swb_isolated_base,
+         swb_bored_base,
+         swb_anxious_base,
+         swb_depressed_base,
+         swb_absorbed_worthwhile_base)
+
+# Variables that are useful in endline
+data <- cleaned_endline |>
+  select(id,
+         swb_happiness_end,
+         swb_relhappiness_end,
+         swb_ideal_end,
+         swb_conditions_end,
+         swb_satisfied_end,
+         swb_lack_companion_end,
+         swb_left_out_end,
+         swb_isolated_end,
+         swb_bored_end,
+         swb_anxious_end,
+         swb_depressed_end,
+         swb_absorbed_worthwhile_end)
+
+subjective_well_being <- merge(subjective_well_being,
+                               data,
+                               by = "id",
+                               all.x = TRUE)
+
+# Distinguish treatment and control
+data <- cleaned_midline |>
+  select(id, treatment)
+
+subjective_well_being <- merge(subjective_well_being,
+                               data,
+                               by = "id",
+                               all.x = TRUE)
+
+subjective_well_being <- subjective_well_being |>
+  filter(!is.na(treatment),
+         !is.na(swb_absorbed_worthwhile_end))
+
 
 #### Save data ####
 write_csv(social_time, "data/analysis_data/social_time.csv")
+write_csv(subjective_well_being, "data/analysis_data/subjective_well_being.csv")
 
 #### TODO: DELETE IT ####
 raw_data <- read_dta("data/raw_data/politics_anonymous.dta")
