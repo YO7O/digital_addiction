@@ -118,9 +118,9 @@ treatment_data <- subjective_well_being |>
 
 treatment_data |>
   ggplot(aes(x = name, y = mean, color = type)) +
-  geom_point(position = position_dodge(width = 0.2)) +
+  geom_point(position = position_dodge(width = -0.2)) +
   geom_errorbar(aes(ymin = mean - 1.96 * sd, ymax = mean + 1.96 * sd),
-                position = position_dodge(width = 0.2),
+                position = position_dodge(width = -0.2),
                 width = 0.1) + 
   theme_minimal() +
   ylim(-0.35, 0.35) +
