@@ -1,0 +1,26 @@
+---
+title: "Digital Addiction"
+subtitle: "My subtitle if needed"
+author: 
+  - Kenneth Chan, Stephanie Xuan Zhao, Siyu Li
+thanks: "Code and data are available at: <https://github.com/YO7O/digital_addiction.git>"
+date: today
+date-format: long
+abstract: "."
+format: pdf
+number-sections: true
+#bibliography: references.bib
+---
+
+```{r}
+#| include: false
+#| warning: false
+#| message: false
+
+```
+
+# Introduction
+In 2023, there will be more than 4.95 billion users of different social media across the world. It has rapidly increased since 2015, as it only had 2.05 billion social media users at that time. (backlinko) According to Datareportal, in quarter 3 of 2021, it shows  46% of Americans spend 4 to 5 hours every day on their phones and 1 in 5 people have more than 4.5 hours per day of usage of their phone. With the development of technology, smartphones have started to offer more services and play a more important role in daily life. However, how the smartphone impacts our lives need more exploration for it. Based on this background, we will have discuss it from two aspects.  
+
+Regarding our first argument, the article provides very valuable insights into the complexity of digital addiction and its impact on individuals and society, urging further research interventions to mitigate its negative effects. The authors discuss and analyze experiments related to subjective well-being. They administered four surveys to participants between April 12th and June 14th. Participants were randomized into rewarding and limiting treatment conditions using an analytic factor design. A participant-led experimental intervention known as the restriction group may have been a part of this. In order to evaluate the impacts of particular digital technology usage patterns on their well-being, experiments estimate treatment effects using regression models that include restriction and reward group indicators. These studies might compare the well-being levels of individuals who use various digital technologies, or they can monitor changes in participants' well-being before and after using digital technology. In research pertaining to mobile phone usage, control and restriction groups can be employed to evaluate the effects of interventions on cell phone use as well as the effects of cell phone use on an individual's behaviour or psychological state.
+
