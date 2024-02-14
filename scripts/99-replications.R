@@ -114,91 +114,85 @@ graph_data <- all_data |>
       "Bored",
       "Anxious",
       "Depressed",
-      "Absorbed in doing something worthwhile",
-      "Feeling index"
+      "Absorbed in doing something worthwhile"
       ),
-    mean = c(mean(fb_minutes_end - fb_minutes_base)
+    mean = c(mean(fb_minutes_diff)
              / sd(fb_minutes_base),
-             mean(swb_happiness_end - swb_happiness_base)
+             mean(swb_happiness_diff)
              / sd(swb_happiness_base),
-             mean(swb_relhappiness_end - swb_relhappiness_base)
+             mean(swb_relhappiness_diff)
              / sd(swb_relhappiness_base),
-             mean(swb_ideal_end - swb_ideal_base)
+             mean(swb_ideal_diff)
              / sd(swb_ideal_base),
-             mean(swb_conditions_end - swb_conditions_base)
+             mean(swb_conditions_diff)
              / sd(swb_conditions_base),
-             mean(swb_satisfied_end - swb_satisfied_base)
+             mean(swb_satisfied_diff)
              / sd(swb_satisfied_base),
-             mean(swb_wellbeing_index_end - swb_wellbeing_index_base)
+             mean(swb_wellbeing_index_diff)
              / sd(swb_wellbeing_index_base),
-             mean(swb_lack_companion_end - swb_lack_companion_base)
+             mean(swb_lack_companion_diff)
              / sd(swb_lack_companion_base),
-             mean(swb_left_out_end - swb_left_out_base)
+             mean(swb_left_out_diff)
              / sd(swb_left_out_base),
-             mean(swb_isolated_end - swb_isolated_base)
+             mean(swb_isolated_diff)
              / sd(swb_isolated_base),
-             mean(swb_social_index_end - swb_social_index_base)
+             mean(swb_social_index_diff)
              / sd(swb_social_index_base),
-             mean(swb_bored_end - swb_bored_base)
+             mean(swb_bored_diff)
              / sd(swb_bored_base),
-             mean(swb_anxious_end - swb_anxious_base)
+             mean(swb_anxious_diff)
              / sd(swb_anxious_base),
-             mean(swb_depressed_end - swb_depressed_base)
+             mean(swb_depressed_diff)
              / sd(swb_depressed_base),
-             mean(swb_absorbed_worthwhile_end - swb_absorbed_worthwhile_base)
-             / sd(swb_absorbed_worthwhile_base),
-             mean(swb_feeling_index_end - swb_feeling_index_base)
-             / sd(swb_feeling_index_base)
+             mean(swb_absorbed_worthwhile_diff)
+             / sd(swb_absorbed_worthwhile_base)
             ),
     
-    sd = c(sd(fb_minutes_end - fb_minutes_base)
+    sd = c(sd(fb_minutes_diff)
            / sqrt(length(id))
            / sd(fb_minutes_base),
-           sd(swb_happiness_end - swb_happiness_base)
+           sd(swb_happiness_diff)
            / sqrt(length(id))
            / sd(swb_happiness_base),
-           sd(swb_relhappiness_end - swb_relhappiness_base)
+           sd(swb_relhappiness_diff)
            / sqrt(length(id))
            / sd(swb_relhappiness_base),
-           sd(swb_ideal_end - swb_ideal_base)
+           sd(swb_ideal_diff)
            / sqrt(length(id))
            / sd(swb_ideal_base),
-           sd(swb_conditions_end - swb_conditions_base)
+           sd(swb_conditions_diff)
            / sqrt(length(id))
            / sd(swb_conditions_base),
-           sd(swb_satisfied_end - swb_satisfied_base)
+           sd(swb_satisfied_diff)
            / sqrt(length(id))
            / sd(swb_satisfied_base),
-           sd(swb_wellbeing_index_end - swb_wellbeing_index_base)
+           sd(swb_wellbeing_index_diff)
            / sqrt(length(id))
            / sd(swb_wellbeing_index_base),
-           sd(swb_lack_companion_end - swb_lack_companion_base)
+           sd(swb_lack_companion_diff)
            / sqrt(length(id))
            / sd(swb_lack_companion_base),
-           sd(swb_left_out_end - swb_left_out_base)
+           sd(swb_left_out_diff)
            / sqrt(length(id))
            / sd(swb_left_out_base),
-           sd(swb_isolated_end - swb_isolated_base)
+           sd(swb_isolated_diff)
            / sqrt(length(id))
            / sd(swb_isolated_base),
-           sd(swb_social_index_end - swb_social_index_base)
+           sd(swb_social_index_diff)
            / sqrt(length(id))
            / sd(swb_social_index_base),
-           sd(swb_bored_end - swb_bored_base)
+           sd(swb_bored_diff)
            / sqrt(length(id))
            / sd(swb_bored_base),
-           sd(swb_anxious_end - swb_anxious_base)
+           sd(swb_anxious_diff)
            / sqrt(length(id))
            / sd(swb_anxious_base),
-           sd(swb_depressed_end - swb_depressed_base)
+           sd(swb_depressed_diff)
            / sqrt(length(id))
            / sd(swb_depressed_base),
-           sd(swb_absorbed_worthwhile_end - swb_absorbed_worthwhile_base)
+           sd(swb_absorbed_worthwhile_diff)
            / sqrt(length(id))
-           / sd(swb_absorbed_worthwhile_base),
-           sd(swb_feeling_index_end - swb_feeling_index_base)
-           / sqrt(length(id))
-           / sd(swb_feeling_index_base)
+           / sd(swb_absorbed_worthwhile_base)
            )
   ) |>
   mutate(name = factor(name, rev(c(
@@ -216,8 +210,7 @@ graph_data <- all_data |>
            "Bored",
            "Anxious",
            "Depressed",
-           "Absorbed in doing something worthwhile",
-           "Feeling index"
+           "Absorbed in doing something worthwhile"
            ))))
 
 graph_data |>
@@ -225,7 +218,7 @@ graph_data |>
   geom_point(position = position_dodge(width = -0.2)) +
   geom_errorbar(aes(ymin = mean - 1.96 * sd, ymax = mean + 1.96 * sd),
                 position = position_dodge(width = -0.2),
-                width = 0.1) + 
+                width = 0.2) + 
   geom_hline(yintercept = 0) +
   theme_minimal() +
   coord_flip(expand = TRUE) +

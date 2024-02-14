@@ -67,10 +67,10 @@ cleaned_endline <- raw_endline |>
          swb_lack_companion_end = swb_lnlns1,
          swb_left_out_end = swb_lnlns2,
          swb_isolated_end = swb_lnlns3,
-         swb_bored_end = swb_eurhappsvy_4,
-         swb_anxious_end = swb_eurhappsvy_5,
-         swb_depressed_end = swb_eurhappsvy_6,
-         swb_absorbed_worthwhile_end = swb_eurhappsvy_7)
+         swb_bored_end = swb_eurhappsvy_7,
+         swb_anxious_end = swb_eurhappsvy_4,
+         swb_depressed_end = swb_eurhappsvy_5,
+         swb_absorbed_worthwhile_end = swb_eurhappsvy_6)
 
 # Clean enviroment
 rm(raw_baseline, raw_midline, raw_endline)
@@ -89,9 +89,74 @@ social_time_data <- merge(social_time_data, data) |>
   # Remove non valid entries
   filter(fb_minutes_base != "" & fb_minutes_end != "")|>
   mutate(fb_minutes_base = as.numeric(fb_minutes_base),
-         fb_minutes_end = as.numeric(fb_minutes_end)
+         fb_minutes_end = as.numeric(fb_minutes_end),
+         # Calculate the difference
+         fb_minutes_diff = fb_minutes_end - fb_minutes_base,
          )
 
+
+# Function for translating response into numeric values
+happiness_numeric <- function(happiness) {
+  recode (happiness,
+          "1 (not a very happy person)" = -1,
+          "2" = -2/3,
+          "3" = -1/3,
+          "4" = 0,
+          "5" = 1/3,
+          "6" = 2/3,
+          "7 (a very happy person)" = 1,
+          .default = NaN
+  )
+}
+
+rel_happiness_numeric <- function(happiness) {
+  recode (happiness,
+          "1 (less happy)" = -1,
+          "2" = -2/3,
+          "3" = -1/3,
+          "4" = 0,
+          "5" = 1/3,
+          "6" = 2/3,
+          "7 (more happy)" = 1,
+          .default = NaN
+  )
+}
+
+swl_numeric <- function(swl) {
+  recode (swl,
+          "Strongly disagree" = -1,
+          "Disagree" = -2/3,
+          "Slightly disagree" = -1/3,
+          "Neither agree nor disagree" = 0,
+          "Slightly agree" = 1/3,
+          "Agree" = 2/3,
+          "Strongly agree" = 1,
+          .default = NaN
+  )
+}
+
+lns_numeric <- function(lns) {
+  recode (lns,
+          "Hardly ever" = -1,
+          "Some of the time" = 0,
+          "Often" = 1,
+          .default = NaN
+  )
+}
+
+feel_numeric <- function(feel) {
+  recode (feel,
+          "1. None or almost none of the time" = -1,
+          "1. None or almost none of the times" = -1,
+          "2" = -1/3,
+          "2." = -1/3,
+          "3" = 1/3,
+          "3." = 1/3,
+          "4. All or almost all of the time" = 1,
+          "4. All or almost all of the time." = 1,
+          .default = NaN
+  )
+}
 
 # Select variables that are useful for measuring well-being
 # Variables that are useful in baseline
@@ -136,69 +201,8 @@ treatment_data <- cleaned_midline |>
   select(id, treatment)
 
 
-# Function for translating response into numeric values
-happiness_numeric <- function(happiness) {
-  recode (happiness,
-          "1 (not a very happy person)" = -1,
-          "2" = -2/3,
-          "3" = -1/3,
-          "4" = 0,
-          "5" = 1/3,
-          "6" = 2/3,
-          "7 (a very happy person)" = 1,
-          .default = 0
-  )
-}
-
-rel_happiness_numeric <- function(happiness) {
-  recode (happiness,
-          "1 (less happy)" = -1,
-          "2" = -2/3,
-          "3" = -1/3,
-          "4" = 0,
-          "5" = 1/3,
-          "6" = 2/3,
-          "7 (more happy)" = 1,
-          .default = 0
-  )
-}
-
-swl_numeric <- function(swl) {
-  recode (swl,
-          "Strongly disagree" = -1,
-          "Disagree" = -2/3,
-          "Slightly disagree" = -1/3,
-          "Neither agree nor disagree" = 0,
-          "Slightly agree" = 1/3,
-          "Agree" = 2/3,
-          "Strongly agree" = 1,
-          .default = 0
-  )
-}
-
-lns_numeric <- function(lns) {
-  recode (lns,
-          "Hardly ever" = -1,
-          "Some of the time" = 0,
-          "Often" = 1,
-          .default = 0
-  )
-}
-
-feel_numeric <- function(feel) {
-  recode (feel,
-          "1. None or almost none of the time" = -1,
-          "2" = -1/3,
-          "3" = 1/3,
-          "4. All or almost all of the time" = 1,
-          .default = 0
-  )
-}
-
 
 subjective_well_being_data <- subjective_well_being_data |>
-  # Filter out non valid responses
-  filter(!is.na(swb_absorbed_worthwhile_end)) |>
   # Translate the response to numeric
   mutate(# Baseline responses
     swb_happiness_base = happiness_numeric(swb_happiness_base),
@@ -206,27 +210,27 @@ subjective_well_being_data <- subjective_well_being_data |>
     swb_ideal_base = swl_numeric(swb_ideal_base),
     swb_conditions_base = swl_numeric(swb_conditions_base),
     swb_satisfied_base = swl_numeric(swb_satisfied_base),
-    swb_lack_companion_base = lns_numeric(swb_lack_companion_base),
-    swb_left_out_base = lns_numeric(swb_left_out_base),
-    swb_isolated_base = lns_numeric(swb_isolated_base),
-    swb_bored_base = feel_numeric(swb_bored_base),
-    swb_anxious_base = feel_numeric(swb_anxious_base),
-    swb_depressed_base = feel_numeric(swb_depressed_base),
-    swb_absorbed_worthwhile_base = feel_numeric(swb_absorbed_worthwhile_base),
     swb_wellbeing_index_base = 
       swb_happiness_base +
       swb_relhappiness_base +
       swb_ideal_base +
       swb_conditions_base +
       swb_satisfied_base,
+    swb_lack_companion_base = lns_numeric(swb_lack_companion_base),
+    swb_left_out_base = lns_numeric(swb_left_out_base),
+    swb_isolated_base = lns_numeric(swb_isolated_base),
     swb_social_index_base =
       swb_lack_companion_base +
       swb_left_out_base +
       swb_isolated_base,
+    swb_bored_base = feel_numeric(swb_bored_base),
+    swb_anxious_base = feel_numeric(swb_anxious_base),
+    swb_depressed_base = feel_numeric(swb_depressed_base),
+    swb_absorbed_worthwhile_base = feel_numeric(swb_absorbed_worthwhile_base),
     swb_feeling_index_base =
       swb_bored_base +
       swb_anxious_base +
-      swb_depressed_base +
+      swb_depressed_base -
       swb_absorbed_worthwhile_base,
     # Endline responses
     swb_happiness_end = happiness_numeric(swb_happiness_end),
@@ -234,29 +238,53 @@ subjective_well_being_data <- subjective_well_being_data |>
     swb_ideal_end = swl_numeric(swb_ideal_end),
     swb_conditions_end = swl_numeric(swb_conditions_end),
     swb_satisfied_end = swl_numeric(swb_satisfied_end),
-    swb_lack_companion_end = lns_numeric(swb_lack_companion_end),
-    swb_left_out_end = lns_numeric(swb_left_out_end),
-    swb_isolated_end = lns_numeric(swb_isolated_end),
-    swb_bored_end = feel_numeric(swb_bored_end),
-    swb_anxious_end = feel_numeric(swb_anxious_end),
-    swb_depressed_end = feel_numeric(swb_depressed_end),
-    swb_absorbed_worthwhile_end = feel_numeric(swb_absorbed_worthwhile_end),
     swb_wellbeing_index_end = 
       swb_happiness_end +
       swb_relhappiness_end +
       swb_ideal_end +
       swb_conditions_end +
       swb_satisfied_end,
+    swb_lack_companion_end = lns_numeric(swb_lack_companion_end),
+    swb_left_out_end = lns_numeric(swb_left_out_end),
+    swb_isolated_end = lns_numeric(swb_isolated_end),
     swb_social_index_end =
       swb_lack_companion_end +
       swb_left_out_end +
       swb_isolated_end,
+    swb_bored_end = feel_numeric(swb_bored_end),
+    swb_anxious_end = feel_numeric(swb_anxious_end),
+    swb_depressed_end = feel_numeric(swb_depressed_end),
+    swb_absorbed_worthwhile_end = feel_numeric(swb_absorbed_worthwhile_end),
     swb_feeling_index_end =
       swb_bored_end +
       swb_anxious_end +
-      swb_depressed_end +
+      swb_depressed_end -
       swb_absorbed_worthwhile_end,
-  )
+    # Calculating the difference
+    swb_happiness_diff = swb_happiness_end - swb_happiness_base,
+    swb_relhappiness_diff = swb_relhappiness_end - swb_relhappiness_base,
+    swb_ideal_diff = swb_ideal_end - swb_ideal_base,
+    swb_conditions_diff = swb_conditions_end - swb_conditions_base,
+    swb_satisfied_diff = swb_satisfied_end - swb_satisfied_base,
+    swb_wellbeing_index_diff = 
+      swb_wellbeing_index_end - swb_wellbeing_index_base,
+    swb_lack_companion_diff = 
+      swb_lack_companion_end - swb_lack_companion_base,
+    swb_left_out_diff = swb_left_out_end - swb_left_out_base,
+    swb_isolated_diff = swb_isolated_end - swb_isolated_base,
+    swb_social_index_diff = swb_social_index_end - swb_social_index_base,
+    swb_bored_diff = swb_bored_end - swb_bored_base,
+    swb_anxious_diff = swb_anxious_end - swb_anxious_base,
+    swb_depressed_diff = swb_depressed_end - swb_depressed_base,
+    swb_absorbed_worthwhile_diff = 
+      swb_absorbed_worthwhile_end - swb_absorbed_worthwhile_base,
+    swb_feeling_index_diff = swb_feeling_index_end - swb_feeling_index_base) |>
+    # Filter out non valid responses
+    filter(!is.na(swb_wellbeing_index_diff),
+           !is.na(swb_social_index_diff),
+           !is.na(swb_feeling_index_base)
+           ) 
+  
 
 #### Save data ####
 write_csv(social_time_data,
@@ -266,6 +294,6 @@ write_csv(subjective_well_being_data,
 write_csv(treatment_data,
           "data/analysis_data/treatment_data.csv")
 
-# Clean enviroment
+# Clean environment
 rm(list = ls())
 
