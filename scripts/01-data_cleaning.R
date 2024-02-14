@@ -28,6 +28,7 @@ cleaned_baseline <- raw_baseline |>
   clean_names() |>
   filter(consent1 == "Continue") |>
   rename(fb_minutes_base = fb_minutes,
+         # Subjective wellness being
          swb_happiness_base = swb_happiness,
          swb_relhappiness_base = swb_relhappiness,
          swb_ideal_base = swb_swl1,
@@ -39,7 +40,9 @@ cleaned_baseline <- raw_baseline |>
          swb_bored_base = swb_eurhappsvy_4,
          swb_anxious_base = swb_eurhappsvy_5,
          swb_depressed_base = swb_eurhappsvy_6,
-         swb_absorbed_worthwhile_base = swb_eurhappsvy_7)
+         swb_absorbed_worthwhile_base = swb_eurhappsvy_7,
+         # Facebook opinion
+         fb_soclife_base = fb_soclife_1)
 
 # Clean midline
 cleaned_midline <- raw_midline |>
@@ -59,6 +62,7 @@ cleaned_midline <- raw_midline |>
 cleaned_endline <- raw_endline |>
   clean_names() |>
   rename(fb_minutes_end = fb_minutes,
+         # Subjective wellness being
          swb_happiness_end = swb_happiness,
          swb_relhappiness_end = swb_relhappiness,
          swb_ideal_end = swb_swl1,
@@ -70,7 +74,9 @@ cleaned_endline <- raw_endline |>
          swb_bored_end = swb_eurhappsvy_7,
          swb_anxious_end = swb_eurhappsvy_4,
          swb_depressed_end = swb_eurhappsvy_5,
-         swb_absorbed_worthwhile_end = swb_eurhappsvy_6)
+         swb_absorbed_worthwhile_end = swb_eurhappsvy_6,
+         # Facebook opinion
+         fb_soclife_end = fb_soclife_1)
 
 # Clean enviroment
 rm(raw_baseline, raw_midline, raw_endline)
@@ -160,7 +166,7 @@ feel_numeric <- function(feel) {
 
 # Select variables that are useful for measuring well-being
 # Variables that are useful in baseline
-subjective_well_being_data <- cleaned_baseline |>
+data1 <- cleaned_baseline |>
   select(id,
          swb_happiness_base,
          swb_relhappiness_base,
@@ -176,7 +182,7 @@ subjective_well_being_data <- cleaned_baseline |>
          swb_absorbed_worthwhile_base)
 
 # Variables that are useful in endline
-data <- cleaned_endline |>
+data2 <- cleaned_endline |>
   select(id,
          swb_happiness_end,
          swb_relhappiness_end,
@@ -191,10 +197,7 @@ data <- cleaned_endline |>
          swb_depressed_end,
          swb_absorbed_worthwhile_end)
 
-subjective_well_being_data <- merge(subjective_well_being_data,
-                               data,
-                               by = "id",
-                               all.x = TRUE)
+merged_data <- merge(data1, data2, by = "id", all.x = TRUE)
 
 # Distinguish treatment and control
 treatment_data <- cleaned_midline |>
@@ -202,7 +205,7 @@ treatment_data <- cleaned_midline |>
 
 
 
-subjective_well_being_data <- subjective_well_being_data |>
+subjective_well_being_data <- merged_data |>
   # Translate the response to numeric
   mutate(# Baseline responses
     swb_happiness_base = happiness_numeric(swb_happiness_base),
@@ -284,6 +287,28 @@ subjective_well_being_data <- subjective_well_being_data |>
            !is.na(swb_social_index_diff),
            !is.na(swb_feeling_index_base)
            ) 
+
+
+# Select variables that are useful for facebook opinions
+# Variables that are useful in baseline
+data1 <- cleaned_baseline |>
+  select(id,
+         fb_soclife_base)
+
+# Variables that are useful in endline
+data2 <- cleaned_endline |>
+  select(id,
+         fb_soclife_end)
+
+merged_data <- merge(data1, data2, by = "id", all.x = TRUE)
+
+opinion_data <- merged_data |>
+  filter(fb_soclife_base != "" &
+           fb_soclife_end != "" &
+           !is.na(fb_soclife_end)) |>
+  mutate(fb_soclife_base = as.numeric(fb_soclife_base) - 5,
+         fb_soclife_end = as.numeric(fb_soclife_end) - 5,
+         fb_soclife_diff = fb_soclife_end - fb_soclife_base)
   
 
 #### Save data ####
@@ -293,6 +318,8 @@ write_csv(subjective_well_being_data,
           "data/analysis_data/subjective_well_being_data.csv")
 write_csv(treatment_data,
           "data/analysis_data/treatment_data.csv")
+write_csv(opinion_data,
+          "data/analysis_data/opinion_data.csv")
 
 # Clean environment
 rm(list = ls())

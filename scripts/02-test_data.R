@@ -48,3 +48,6 @@ all(social_time_data$fb_minutes_end >= 0)
 all(social_time_data$fb_minutes_diff ==
       social_time_data$fb_minutes_end -
       social_time_data$fb_minutes_base)
+
+# Clean environment
+rm(list = ls())

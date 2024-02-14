@@ -24,10 +24,15 @@ treatment_data <-
   read_csv("data/analysis_data/treatment_data.csv",
            show_col_types = FALSE)
 
+opinion_data <- 
+  read_csv("data/analysis_data/opinion_data.csv",
+           show_col_types = FALSE)
+
 # Combine all data
-all_data <- merge(treatment_data,
-                    merge(social_time_data,
-                          subjective_well_being_data)) |>
+all_data <- merge(opinion_data,
+            merge(treatment_data,
+            merge(social_time_data,
+                  subjective_well_being_data))) |>
   # filter out non valid response
   filter(!is.na(treatment)) |>
   mutate(type = ifelse(treatment, "Treatment", "Control")) |>
@@ -35,10 +40,11 @@ all_data <- merge(treatment_data,
 
 
 
+
 ###########################################
 ### Replicating Figure A4 from appendix ###
 ###########################################
-count_participant <- count(social_time_data)
+count_participant <- count(all_data)
 # Define breaks for grouping (intervals of 25)
 breaks <- seq(0,
               ceiling(800 / 25) * 25,
@@ -92,9 +98,9 @@ ggarrange(
 )
 
 
-##########################
-### Replicate Figure 8 ###
-##########################
+##########################################
+### Replicate bottom right of Figure 8 ###
+##########################################
 
 graph_data <- all_data |>
   group_by(type) |>
@@ -225,6 +231,54 @@ graph_data |>
   labs(y = "Difference from baseline (standard deviation)",
      x = "Subjective wellness being",
      color = "Type")
+
+##########################
+### Replicate Figure 3 ###
+##########################
+count_participant <- count(all_data)
+
+# Prepare the data for graph uses
+graph_data <- all_data |>
+  arrange(fb_soclife_base) |>
+  group_by(fb_soclife_base, type) |>
+  # Calculate the fraction of each interval
+  count(fb_soclife_base) |>
+  mutate(fraction = n / count_participant)
+
+fig3a <- graph_data |>
+  ggplot(aes(x = fb_soclife_base, y = fraction$n, fill = type)) +
+  geom_bar(stat = "identity", width = 1) +
+  theme_minimal() +
+  labs(title = "Baseline",
+       x = "Facebook usage make social life worse(left)
+       or better (right)",
+       y = "Fraction of sample",
+       fill = "Type")
+
+
+# end version
+graph_data <- all_data |>
+  arrange(fb_soclife_end) |>
+  group_by(fb_soclife_end, type) |>
+  # Calculate the fraction of each interval
+  count(fb_soclife_end) |>
+  mutate(fraction = n / count_participant)
+
+fig3b <- graph_data |>
+  ggplot(aes(x = fb_soclife_end, y = fraction$n, fill = type)) +
+  geom_bar(stat = "identity", width = 1) +
+  theme_minimal() +
+  labs(title = "Endline",
+       x = "Facebook usage make social life worse (left)
+       or better (right)",
+       y = "Fraction of sample",
+       fill = "Type")
+
+ggarrange(
+  fig3a, fig3b, nrow = 2,
+  common.legend = TRUE, legend = "bottom"
+)
+
 
 
 # Clean enviroment
