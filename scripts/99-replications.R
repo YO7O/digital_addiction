@@ -345,6 +345,85 @@ graph_data |>
   coord_flip()
 
 
+### Political dot plot ###
+
+graph_data <- all_data |>
+  mutate(party = 
+           recode(
+             repdem,
+             "Democrat (Strongly Democratic)" = "Democrat",
+             "Democrat (Weakly Democratic)" = "Democrat",
+             "Independent (Lean toward the Democratic Party)" = "Independent",
+             "Independent (Lean toward the Republican Party)" = "Independent",
+             "Republican (Weakly Republican)" = "Republican",
+             "Republican (Strongly Republican)" = "Republican",
+           )) |>
+  group_by(party) |>
+  reframe(
+    name = c(
+      "Feeling towards Democratic
+    Cold (left) or Warm (right)",
+      "Feeling towards Republican
+    Cold (left) or Warm (right)",
+      "Feeling towards Trump
+    Cold (left) or Warm (right)",
+      "Understand Democratic POV",
+      "Understand Republican POV"
+    ),
+    mean = c(mean(feeling_dem_diff)
+             / sd(feeling_dem_base),
+             mean(feeling_rep_diff)
+             / sd(feeling_rep_base),
+             mean(feeling_trump_diff)
+             / sd(feeling_trump_base),
+             mean(rep_pov_diff)
+             / sd(rep_pov_base),
+             mean(dem_pov_diff)
+             / sd(dem_pov_base)
+    ),
+    
+    sd = c(sd(feeling_dem_diff)
+           / sqrt(length(id))
+           / sd(feeling_dem_base),
+           sd(feeling_rep_diff)
+           / sqrt(length(id))
+           / sd(feeling_rep_base),
+           sd(feeling_trump_diff)
+           / sqrt(length(id))
+           / sd(feeling_trump_base),
+           sd(rep_pov_diff)
+           / sqrt(length(id))
+           / sd(rep_pov_base),
+           sd(dem_pov_diff)
+           / sqrt(length(id))
+           / sd(dem_pov_base)
+    )
+  ) |>
+  mutate(name = factor(name, rev(c(
+    "Feeling towards Democratic
+    Cold (left) or Warm (right)",
+    "Feeling towards Republican
+    Cold (left) or Warm (right)",
+    "Feeling towards Trump
+    Cold (left) or Warm (right)",
+    "Understand Democratic POV",
+    "Understand Republican POV"
+  ))))
+
+
+graph_data |>
+  ggplot(aes(x = name, y = mean, color = party)) +
+  geom_point(position = position_dodge(width = -0.2)) +
+  geom_errorbar(aes(ymin = mean - abs(1.96 * sd), ymax = mean + abs(1.96 * sd)),
+                position = position_dodge(width = -0.2),
+                width = 0.2) + 
+  geom_hline(yintercept = 0) +
+  theme_minimal() +
+  coord_flip(expand = TRUE) +
+  labs(x = "Political opinions",
+       y = "Difference from baseline (standard deviation)",
+       color = "Party")
+
 # Clean enviroment
 rm(list = ls())
 

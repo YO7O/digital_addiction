@@ -49,5 +49,7 @@ all(social_time_data$fb_minutes_diff ==
       social_time_data$fb_minutes_end -
       social_time_data$fb_minutes_base)
 
+# max(political_data$feeling_dem_base)
+
 # Clean environment
 rm(list = ls())

@@ -83,14 +83,14 @@ rm(raw_baseline, raw_midline, raw_endline)
 
 # Select variables that are useful for measuring social media usage
 # Variables that are useful in baseline
-social_time_data <- cleaned_baseline |>
+data1 <- cleaned_baseline |>
   select(id, fb_minutes_base)
 
 # Variables that are useful in endline
-data <- cleaned_endline |>
+data2 <- cleaned_endline |>
   select(id, fb_minutes_end)
 
-social_time_data <- merge(social_time_data, data) |>
+social_time_data <- merge(data1, data2) |>
   # Remove non valid entries
   filter(fb_minutes_base != "" & fb_minutes_end != "")|>
   mutate(fb_minutes_base = as.numeric(fb_minutes_base),
@@ -100,7 +100,7 @@ social_time_data <- merge(social_time_data, data) |>
          )
 
 
-# Function for translating response into numeric values
+# Functions for cleaning well-being response
 happiness_numeric <- function(happiness) {
   recode (happiness,
           "1 (not a very happy person)" = -1,
@@ -178,35 +178,8 @@ data1 <- cleaned_baseline |>
          swb_bored_base,
          swb_anxious_base,
          swb_depressed_base,
-         swb_absorbed_worthwhile_base)
-
-# Variables that are useful in endline
-data2 <- cleaned_endline |>
-  select(id,
-         swb_happiness_end,
-         swb_relhappiness_end,
-         swb_ideal_end,
-         swb_conditions_end,
-         swb_satisfied_end,
-         swb_lack_companion_end,
-         swb_left_out_end,
-         swb_isolated_end,
-         swb_bored_end,
-         swb_anxious_end,
-         swb_depressed_end,
-         swb_absorbed_worthwhile_end)
-
-merged_data <- merge(data1, data2, by = "id", all.x = TRUE)
-
-# Distinguish treatment and control
-treatment_data <- cleaned_midline |>
-  select(id, treatment)
-
-
-
-subjective_well_being_data <- merged_data |>
-  # Translate the response to numeric
-  mutate(# Baseline responses
+         swb_absorbed_worthwhile_base) |>
+  mutate(# Translate the response to numeric
     swb_happiness_base = happiness_numeric(swb_happiness_base),
     swb_relhappiness_base = rel_happiness_numeric(swb_relhappiness_base),
     swb_ideal_base = swl_numeric(swb_ideal_base),
@@ -233,8 +206,24 @@ subjective_well_being_data <- merged_data |>
       swb_bored_base +
       swb_anxious_base +
       swb_depressed_base -
-      swb_absorbed_worthwhile_base,
-    # Endline responses
+      swb_absorbed_worthwhile_base)
+
+# Variables that are useful in endline
+data2 <- cleaned_endline |>
+  select(id,
+         swb_happiness_end,
+         swb_relhappiness_end,
+         swb_ideal_end,
+         swb_conditions_end,
+         swb_satisfied_end,
+         swb_lack_companion_end,
+         swb_left_out_end,
+         swb_isolated_end,
+         swb_bored_end,
+         swb_anxious_end,
+         swb_depressed_end,
+         swb_absorbed_worthwhile_end) |>
+  mutate(# Translate the response to numeric
     swb_happiness_end = happiness_numeric(swb_happiness_end),
     swb_relhappiness_end = rel_happiness_numeric(swb_relhappiness_end),
     swb_ideal_end = swl_numeric(swb_ideal_end),
@@ -261,8 +250,18 @@ subjective_well_being_data <- merged_data |>
       swb_bored_end +
       swb_anxious_end +
       swb_depressed_end -
-      swb_absorbed_worthwhile_end,
-    # Calculating the difference
+      swb_absorbed_worthwhile_end)
+
+merged_data <- merge(data1, data2, by = "id", all.x = TRUE)
+
+# Distinguish treatment and control
+treatment_data <- cleaned_midline |>
+  select(id, treatment)
+
+
+
+subjective_well_being_data <- merged_data |>
+  mutate(# Calculate the difference
     swb_happiness_diff = swb_happiness_end - swb_happiness_base,
     swb_relhappiness_diff = swb_relhappiness_end - swb_relhappiness_base,
     swb_ideal_diff = swb_ideal_end - swb_ideal_base,
@@ -287,8 +286,25 @@ subjective_well_being_data <- merged_data |>
            !is.na(swb_feeling_index_base)
            ) 
 
+# Functions for cleaning political response
+feel_political <- function(feel) {
+  recode (feel,
+          .default = (as.numeric(feel) - 50) / 50
+  )
+}
+
+political_pov <- function(pov) {
+  recode (pov,
+          "Never" = 0,
+          "Once" = 1,
+          "Two or three times" = 2,
+          "Four times or more" = 4,
+          .default = as.numeric(pov)
+  )
+}
 
 # Select variables that are useful for facebook opinions
+
 # Variables that are useful in baseline
 data1 <- cleaned_baseline |>
   select(id,
@@ -311,34 +327,61 @@ opinion_data <- merged_data |>
 
 
 # Select variables that are useful for political opinions
-political_numeric <- function(feel) {
-  recode (feel,
-          "1. None or almost none of the time" = -1,
-          "1. None or almost none of the times" = -1,
-          "2" = -1/3,
-          "2." = -1/3,
-          "3" = 1/3,
-          "3." = 1/3,
-          "4. All or almost all of the time" = 1,
-          "4. All or almost all of the time." = 1,
-          .default = NaN
-  )
-}
 # Variables that are useful in baseline
 data1 <- cleaned_baseline |>
   select(id,
          repdem, 
-         libcon)
+         libcon,
+         pol_feeling_1,
+         pol_feeling_2,
+         pol_feeling_3,
+         rep_pov,
+         dem_pov
+         ) |>
+  filter(repdem != "",
+         libcon != "",
+         pol_feeling_3 != "",
+         dem_pov != "") |>
+  mutate(# Translate the response to numeric
+    feeling_dem_base = feel_political(pol_feeling_1),
+    feeling_rep_base = feel_political(pol_feeling_2),
+    feeling_trump_base = feel_political(pol_feeling_3),
+    rep_pov_base = political_pov(rep_pov),
+    dem_pov_base = political_pov(dem_pov),
+    ) |>
+  select(-pol_feeling_1, -pol_feeling_2, -pol_feeling_3)
+
 
 # Variables that are useful in endline
 data2 <- cleaned_endline |>
-  select(id)
+  select(id,
+         pol_feeling_1,
+         pol_feeling_2,
+         pol_feeling_3,
+         rep_pov,
+         dem_pov) |>
+  filter(pol_feeling_3 != "",
+         dem_pov != "") |>
+  mutate(# Translate the response to numeric
+    feeling_dem_end = feel_political(pol_feeling_1),
+    feeling_rep_end = feel_political(pol_feeling_2),
+    feeling_trump_end = feel_political(pol_feeling_3),
+    rep_pov_end = political_pov(rep_pov),
+    dem_pov_end = political_pov(dem_pov),) |>
+  select(-pol_feeling_1, -pol_feeling_2, -pol_feeling_3)
 
 merged_data <- merge(data1, data2, by = "id", all.x = TRUE)
 
 political_data <- merged_data |>
-  filter(repdem != "",
-         libcon != "")
+  mutate(# Calculate the difference
+    feeling_dem_diff = feeling_dem_end - feeling_dem_base,
+    feeling_rep_diff = feeling_rep_end - feeling_rep_base,
+    feeling_trump_diff = feeling_trump_end - feeling_trump_base,
+    rep_pov_diff = rep_pov_end - rep_pov_base,
+    dem_pov_diff = dem_pov_end - dem_pov_base
+  ) |>
+  filter(!is.nan(rep_pov_diff),
+         !is.nan(dem_pov_diff))
   
 
 #### Save data ####
