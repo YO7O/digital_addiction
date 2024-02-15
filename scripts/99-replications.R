@@ -28,11 +28,16 @@ opinion_data <-
   read_csv("data/analysis_data/opinion_data.csv",
            show_col_types = FALSE)
 
+political_data <-
+  read_csv("data/analysis_data/political_data.csv",
+           show_col_types = FALSE)
+
 # Combine all data
-all_data <- merge(opinion_data,
+all_data <- merge(political_data,
+            merge(opinion_data,
             merge(treatment_data,
             merge(social_time_data,
-                  subjective_well_being_data))) |>
+                  subjective_well_being_data)))) |>
   # filter out non valid response
   filter(!is.na(treatment)) |>
   mutate(type = ifelse(treatment, "Treatment", "Control")) |>
@@ -93,8 +98,7 @@ fig8b <- graph_data |>
        fill = "Type")
 
 ggarrange(
-  fig8a, fig8b, nrow = 2,
-  common.legend = TRUE, legend = "bottom"
+  fig8a, fig8b, nrow = 2, common.legend = TRUE, legend = "bottom"
 )
 
 
@@ -117,10 +121,11 @@ graph_data <- all_data |>
       "Feeling left out",
       "Feel isolated",
       "Social index",
-      "Bored",
-      "Anxious",
-      "Depressed",
-      "Absorbed in doing something worthwhile"
+      "Bored(-1)",
+      "Anxious(-1)",
+      "Depressed(-1)",
+      "Absorbed in doing something worthwhile",
+      "Feeling index"
       ),
     mean = c(mean(fb_minutes_diff)
              / sd(fb_minutes_base),
@@ -144,14 +149,16 @@ graph_data <- all_data |>
              / sd(swb_isolated_base),
              mean(swb_social_index_diff)
              / sd(swb_social_index_base),
-             mean(swb_bored_diff)
+             - mean(swb_bored_diff)
              / sd(swb_bored_base),
-             mean(swb_anxious_diff)
+             - mean(swb_anxious_diff)
              / sd(swb_anxious_base),
-             mean(swb_depressed_diff)
+             - mean(swb_depressed_diff)
              / sd(swb_depressed_base),
              mean(swb_absorbed_worthwhile_diff)
-             / sd(swb_absorbed_worthwhile_base)
+             / sd(swb_absorbed_worthwhile_base),
+             - mean(swb_feeling_index_diff)
+             / sd(swb_feeling_index_base)
             ),
     
     sd = c(sd(fb_minutes_diff)
@@ -198,7 +205,10 @@ graph_data <- all_data |>
            / sd(swb_depressed_base),
            sd(swb_absorbed_worthwhile_diff)
            / sqrt(length(id))
-           / sd(swb_absorbed_worthwhile_base)
+           / sd(swb_absorbed_worthwhile_base),
+           sd(swb_feeling_index_diff)
+           / sqrt(length(id))
+           / sd(swb_feeling_index_base)
            )
   ) |>
   mutate(name = factor(name, rev(c(
@@ -213,16 +223,17 @@ graph_data <- all_data |>
            "Feeling left out",
            "Feel isolated",
            "Social index",
-           "Bored",
-           "Anxious",
-           "Depressed",
-           "Absorbed in doing something worthwhile"
+           "Bored(-1)",
+           "Anxious(-1)",
+           "Depressed(-1)",
+           "Absorbed in doing something worthwhile",
+           "Feeling index"
            ))))
 
 graph_data |>
   ggplot(aes(x = name, y = mean, color = type)) +
   geom_point(position = position_dodge(width = -0.2)) +
-  geom_errorbar(aes(ymin = mean - 1.96 * sd, ymax = mean + 1.96 * sd),
+  geom_errorbar(aes(ymin = mean - abs(1.96 * sd), ymax = mean + abs(1.96 * sd)),
                 position = position_dodge(width = -0.2),
                 width = 0.2) + 
   geom_hline(yintercept = 0) +
@@ -275,10 +286,63 @@ fig3b <- graph_data |>
        fill = "Type")
 
 ggarrange(
-  fig3a, fig3b, nrow = 2,
-  common.legend = TRUE, legend = "bottom"
+  fig3a, fig3b, nrow = 2, common.legend = TRUE, legend = "bottom"
 )
 
+########################
+### Political Graphs ###
+########################
+count_participant <- count(all_data)
+
+
+### Distribution of republican, democrat and independent ###
+graph_data <- all_data |>
+  group_by(repdem) |>
+  # Calculate the fraction of each interval
+  count(repdem) |>
+  mutate(fraction = n / count_participant,
+         repdem = factor(repdem, c(
+           "Democrat (Strongly Democratic)",
+           "Democrat (Weakly Democratic)",
+           "Independent (Lean toward the Democratic Party)",
+           "Independent",
+           "Independent (Lean toward the Republican Party)",
+           "Republican (Weakly Republican)",
+           "Republican (Strongly Republican)"
+         )))
+
+graph_data |>
+  ggplot(aes(x = repdem, y = fraction$n)) +
+  geom_bar(stat = "identity", fill = "darkred") +
+  theme_minimal() +
+  labs(x = "Republican, Democrat or Independent",
+       y = "Fraction of sample") +
+  coord_flip()
+
+### Distribution of liberal and conservative ###
+
+graph_data <- all_data |>
+  group_by(libcon) |>
+  # Calculate the fraction of each interval
+  count(libcon) |>
+  mutate(fraction = n / count_participant,
+         libcon = factor(libcon, c(
+           "Extremely liberal",
+           "Liberal",
+           "Slightly liberal",
+           "Moderate",
+           "Slightly conservative",
+           "Conservative",
+           "Extremely conservative"
+         )))
+
+graph_data |>
+  ggplot(aes(x = libcon, y = fraction$n)) +
+  geom_bar(stat = "identity", fill = "darkred") +
+  theme_minimal() +
+  labs(x = "Liberal or Conservative",
+       y = "Fraction of sample") +
+  coord_flip()
 
 
 # Clean enviroment

@@ -14,7 +14,6 @@ library(tidyverse)
 library(haven)
 library(readxl)
 library(janitor)
-library(stringr)
 
 
 # Extract state information from baseline, midline and endline
@@ -309,6 +308,37 @@ opinion_data <- merged_data |>
   mutate(fb_soclife_base = as.numeric(fb_soclife_base) - 5,
          fb_soclife_end = as.numeric(fb_soclife_end) - 5,
          fb_soclife_diff = fb_soclife_end - fb_soclife_base)
+
+
+# Select variables that are useful for political opinions
+political_numeric <- function(feel) {
+  recode (feel,
+          "1. None or almost none of the time" = -1,
+          "1. None or almost none of the times" = -1,
+          "2" = -1/3,
+          "2." = -1/3,
+          "3" = 1/3,
+          "3." = 1/3,
+          "4. All or almost all of the time" = 1,
+          "4. All or almost all of the time." = 1,
+          .default = NaN
+  )
+}
+# Variables that are useful in baseline
+data1 <- cleaned_baseline |>
+  select(id,
+         repdem, 
+         libcon)
+
+# Variables that are useful in endline
+data2 <- cleaned_endline |>
+  select(id)
+
+merged_data <- merge(data1, data2, by = "id", all.x = TRUE)
+
+political_data <- merged_data |>
+  filter(repdem != "",
+         libcon != "")
   
 
 #### Save data ####
@@ -320,6 +350,8 @@ write_csv(treatment_data,
           "data/analysis_data/treatment_data.csv")
 write_csv(opinion_data,
           "data/analysis_data/opinion_data.csv")
+write_csv(political_data,
+          "data/analysis_data/political_data.csv")
 
 # Clean environment
 rm(list = ls())
