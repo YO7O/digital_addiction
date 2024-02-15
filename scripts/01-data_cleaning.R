@@ -2,12 +2,14 @@
 # Purpose: Cleans the raw data recorded by Hunt Allcot, Luca Braghieri, 
 #          Sarah Eichmeyer and Matthew Gentzkow
 # Author: Kenneth Chan, Stephanie Xuan Zhao and Siyu Li
-# Date: 11 February 2023 
-# Contact: kenchancf0618@gmail.com
+# Date: 15 February 2023 
+# Contact: chif.chan@mail.utoronto.ca,
+#          xuan.zhao@mail.utoronto.ca,
+#          siyul.li@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: Digital addiction by Hunt Allcott, Matthew Gentzkow and
 #                 Lena Song
-# Any other information needed? None
+# Any other information needed? Data from original replication package
 
 #### Workspace setup ####
 library(tidyverse)

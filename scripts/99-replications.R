@@ -2,7 +2,9 @@
 # Purpose: Replicated graphs from Digital addiction
 # Author: Kenneth Chan, 
 # Date: 11 February 2023 
-# Contact: kenchancf0618@gmail.com
+# Contact: chif.chan@mail.utoronto.ca,
+#          xuan.zhao@mail.utoronto.ca,
+#          siyul.li@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: Digital addiction by Hunt Allcott, Matthew Gentzkow and
 #                 Lena Song
@@ -294,7 +296,6 @@ ggarrange(
 ########################
 count_participant <- count(all_data)
 
-
 ### Distribution of republican, democrat and independent ###
 graph_data <- all_data |>
   group_by(repdem) |>
@@ -422,7 +423,8 @@ graph_data |>
   coord_flip(expand = TRUE) +
   labs(x = "Political opinions",
        y = "Difference from baseline (standard deviation)",
-       color = "Party")
+       color = "Party") +
+  scale_color_manual(values = c("dodgerblue3", "springgreen3", "firebrick3"))
 
 # Clean enviroment
 rm(list = ls())
