@@ -6,7 +6,7 @@ author:
 thanks: "Code and data are available at: <https://github.com/YO7O/digital_addiction.git>"
 date: today
 date-format: long
-abstract: "."
+abstract: "The global population of social media users is predicted to reach 4.95 billion by 2023; this is a significant increase from the 2.05 billion users in 2015 (source: Backlinko). As technology continues to evolve, smartphones are playing an increasingly important role in our daily lives, providing us with more and more services. However, the impact of smartphones on our lives still needs to be further explored. In this paper, we will discuss two aspects. First, we explore the impact of the social media Facebook on social and political attitudes, providing insights and calling for further research on interventions to mitigate its negative effects. The paper analyzes experimental data related to subjective well-being by experimentally surveying participants and using an analytic factorial design to randomize them into reward and restriction groups. The study uses regression modelling to assess the impact of specific digital technology use patterns on well-being. We also examine whether Facebook use affects people's political attitudes."
 format: pdf
 toc: true
 number-sections: true
@@ -351,7 +351,6 @@ ggarrange(
 
 ```
 
-Figure 3 
 The above figure(@fig-social_life) show whether Facebook usage makes social life worse or better. The x-axis is formed from -6 to 6 which is based on a set of marking schemes for the research target to scale. From the figure, it has changed between -1 and 1. At baseline, it has the most fraction at 0 for the treatment group and in the control group, it has the most in -1 and 0. However, in endline’s figure, the biggest fraction shifts to the right. It becomes 0 and 1. This means that user feels their social life becomes better. This helps to prove that with less time spent on Facebook, people’s objective well-being increases.
 
 ```{r}
@@ -421,7 +420,8 @@ graph_data |>
   coord_flip()
 ```
 
-This two graphs(@fig-political_opinion_1)(@fig-political_opinion_2) shows whether people change their political stance when using Facebook or not. The two different political positions are Republican, Democrat or Independent and Liberal or Conservative. obviously, we can see from the Republican graph that most people would still strongly choose Strongly Democratic, almost to 0.3 The distance is almost 0.3. In the Liberal graph, we can see that most people would choose liberal over extremely liberal, with a figure of more than 0.3.
+This graphs(@fig-political_opinion_1)(@fig-political_opinion_2) shows whether people change their political stance when using Facebook or not. The two different political positions are Republican, Democrat or Independent and Liberal or Conservative. obviously, we can see from the Republican graph that most people would still strongly choose Strongly Democratic, almost to 0.3 The distance is almost 0.3. In the Liberal graph, we can see that most people would choose liberal over extremely liberal, with a figure of more than 0.3. So from this graph social media affects a lot of people who are liberal and conservatives are in the minority.
+
 
 ```{r}
 #| label: fig-6
@@ -511,13 +511,11 @@ graph_data |>
   scale_color_manual(values = c("dodgerblue3", "springgreen3", "firebrick3"))
 ```
 
-
 # Discuss
 In recent years, the popularity of smartphones has greatly increased the use of social media. Social media, as a communication tool, works in the context of people's interactions, and the psychological changes induced by interpersonal interactions become the mediating variable between its use and well-being. Excessive use of social media has a negative impact on health and well-being. Our present investigation suggests that limiting the time spent on social media use may be beneficial to health and well-being. Research has noted a correlation between reduced social media use and improved mental health, and this latest controlled experiment provides further evidence of a causal relationship between reduced social media use and improved physical health. For those who were directly asked to reduce their social media use time and do something else with that time, they did not experience health benefits, suggesting that if one wants to get a person healthier to exercise, one should not ask them how to use their time, which can be counterproductive.
 
 There are some weaknesses of our experiment, that make our experiment lack generality. People in different age groups have different lifestyles and not all age groups have the same free time to use Facebook. For example, for seniors, some of them not familiar with smartphones and they do not understand how to use Facebook. Therefore, when they join the experiment, the experiment does not work as significantly as researchers expect. Also, different age groups can not have a more specific discussion about the actual situation of how people use Facebook. For example, Facebook is popular with people aged around 18-25 and those people, have more free time than people who have work, especially during summer vacation. This causes the experiment can not have generality. 
 
 In the future, researchers can have a longer experiment and track the research target after finishing the experiment to see did they kept the habit that they had at the endline or if they increased usage time. With this tracking, the researcher can check what difference between the control group and the treatment group, and then check if there are any direct relations to show which group has self-control. Therefore, researchers can know did their experiment impacted the research targets’ lifestyles. Another thing, research can do to improve the experiment is to set different age groups thus, researchers can focus on how different age groups work and explore why there are differences between groups.
-
 
 # Reference
