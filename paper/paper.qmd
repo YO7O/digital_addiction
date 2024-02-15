@@ -10,7 +10,7 @@ abstract: "."
 format: pdf
 toc: true
 number-sections: true
-#bibliography: references.bib
+bibliography: references.bib
 ---
 
 ```{r}
@@ -76,6 +76,8 @@ The authors in their experiment mainly adopted the standardized measures from th
 ## Survey Measures:
 The research includes several variables related to social media and examines the effects of different groups of experimenters in experiments with different time regimes for social media use. The nature and severity of digital addiction are relevant to many important issues, and the authors adopted economic models of digital addiction, using randomized experiments to provide unmodeled evidence and estimate model parameters that would simulate the effects of habit formation and self-control issues on smartphone use, and these valuations would also directly affect the experimenter's reference data.
 
+## Tool
+Our paper use data from While writing the paper, we have utilized different tools and literature references to ensure that the findings across the board were correctly logical. Our graphs and data analysis plots were laid using R code[@citeR] as a base. library tidyverse[@thereferencecanbewhatever] directly helped us to start from the data so that we can process and visualize the data for application in no time. library haven[@haven] to help us quickly convert the data we need into R language format. It can be convenient for us to import data into R for analysis and processing. library readxl[@readxl] helps us read some Excel functions and processing. This makes it easier for us to analyze Excel data in R. library janitor[@janitor] helps us to check and clean up the dirty data, and format the data we need in R. library ggpubr[@ggpubr] facilitates us to draw graphs to meet the research direction more easily. These tools help us to understand more deeply the direction of the research and the relationship between them.
 
 # Result
 
@@ -511,5 +513,11 @@ graph_data |>
 
 
 # Discuss
+In recent years, the popularity of smartphones has greatly increased the use of social media. Social media, as a communication tool, works in the context of people's interactions, and the psychological changes induced by interpersonal interactions become the mediating variable between its use and well-being. Excessive use of social media has a negative impact on health and well-being. Our present investigation suggests that limiting the time spent on social media use may be beneficial to health and well-being. Research has noted a correlation between reduced social media use and improved mental health, and this latest controlled experiment provides further evidence of a causal relationship between reduced social media use and improved physical health. For those who were directly asked to reduce their social media use time and do something else with that time, they did not experience health benefits, suggesting that if one wants to get a person healthier to exercise, one should not ask them how to use their time, which can be counterproductive.
+
+There are some weaknesses of our experiment, that make our experiment lack generality. People in different age groups have different lifestyles and not all age groups have the same free time to use Facebook. For example, for seniors, some of them not familiar with smartphones and they do not understand how to use Facebook. Therefore, when they join the experiment, the experiment does not work as significantly as researchers expect. Also, different age groups can not have a more specific discussion about the actual situation of how people use Facebook. For example, Facebook is popular with people aged around 18-25 and those people, have more free time than people who have work, especially during summer vacation. This causes the experiment can not have generality. 
+
+In the future, researchers can have a longer experiment and track the research target after finishing the experiment to see did they kept the habit that they had at the endline or if they increased usage time. With this tracking, the researcher can check what difference between the control group and the treatment group, and then check if there are any direct relations to show which group has self-control. Therefore, researchers can know did their experiment impacted the research targets’ lifestyles. Another thing, research can do to improve the experiment is to set different age groups thus, researchers can focus on how different age groups work and explore why there are differences between groups.
+
 
 # Reference
