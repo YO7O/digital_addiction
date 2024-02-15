@@ -1,4 +1,4 @@
-# Starter folder
+# Digital Addiction: Analysis of How Usage of Social Media Impact Objective Well-Being
 
 ## Overview
 
