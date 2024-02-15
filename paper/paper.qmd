@@ -64,23 +64,23 @@ In 2023, there will be more than 4.95 billion users of different social media ac
 
 Regarding our first argument, the article provides very valuable insights into the complexity of digital addiction and its impact on individuals and society, urging further research interventions to mitigate its negative effects. The authors discuss and analyze experiments related to subjective well-being. They administered four surveys to participants between April 12th and June 14th. Participants were randomized into rewarding and limiting treatment conditions using an analytic factor design. A participant-led experimental intervention known as the restriction group may have been a part of this. In order to evaluate the impacts of particular digital technology usage patterns on their well-being, experiments estimate treatment effects using regression models that include restriction and reward group indicators. These studies might compare the well-being levels of individuals who use various digital technologies, or they can monitor changes in participants' well-being before and after using digital technology. In research pertaining to mobile phone usage, control and restriction groups can be employed to evaluate the effects of interventions on cell phone use as well as the effects of cell phone use on an individual's behaviour or psychological state.
 
+In our paper, we use a dataset for users who most focus on using Facebook as social media. The experiment has two periods which are baseline and endline. The research target is separate into control and treatment groups, for the control group, they can themselves and for the treatment group they can get treatment if they achieve goals about self-control for using social media. At the beginning of the experiment, the research targets finish a survey about how their mental health works at that time and other information like political trends and knowledge they get from the news. After four weeks, both groups of research targets wrote the survey and it shows there are differences between them. Both groups have a significant change for baseline and end line. The control group have a worse performance than the treatment group. 
+
+
 # Data
 
-The authors in their experiment mainly adopted the standardized measures from the subjective well-being literature, where the respondents were required to answer the following seven questions of a questionnaire after conducting different groups of rules each week, Over the last three weeks," with a matrix of seven questions :
+## Methodological Approach
+The authors in their experiment mainly adopted the standardized measures from the subjective well-being literature, where the respondents were required to answer the following seven questions of a questionnaire after conducting different groups of rules each week, Over the last three weeks," with a matrix of six questions, based on the different responses it is possible to categorize and collect new data.
 
--   "...I was a happy person."
--   "...I was satisfied with my I felt anxious."
--   "...I felt depressed."
--   "...I could concentrate on my life."
--   "...I could concentrate on what I was doing."
--   "...I was easily distracted."
--   "... I slept well."
+## Survey Measures:
+The research includes several variables related to social media and examines the effects of different groups of experimenters in experiments with different time regimes for social media use. The nature and severity of digital addiction are relevant to many important issues, and the authors adopted economic models of digital addiction, using randomized experiments to provide unmodeled evidence and estimate model parameters that would simulate the effects of habit formation and self-control issues on smartphone use, and these valuations would also directly affect the experimenter's reference data.
 
-Based on the different responses it is possible to categorize and collect new data.
+
+# Result
 
 ```{r}
-#| label: fig-1
-#| fig-cap: figure 1 cap
+#| label: fig-usage_time
+#| fig-cap: Facebook Usage Time at Baseline And Endline
 #| echo: false
 #| warning: false
 #| message: false
@@ -138,9 +138,13 @@ ggarrange(
 )
 ```
 
+These figure(@fig-usage_time) show the distribution of Facebook usage at Baseline and Endline. The red is the control group and the green is the treatment group. The Y-axis shows the fraction of the sample and the x-axis shows Facebook usage time. For the longest time, the endline group’s time is shorter than the baseline’s time and the longest time both happen in the control group. The longest time for the treatment group is 550 minutes in baseline and 450 minutes in the endline group. For the treatment group, it decreases from 625 minutes to 575 minutes. To this result, there is a large decrease for the longest usage time. For the baseline, usage time exceeding 250 minutes is more than 2.5% in total but compared with it, at the endline, for the control group it has around 5% and for treatment is only 1.25%.
+
+It is obvious that between 0 and 125 minutes, the figure has a skew left and generally fraction decreases for each period in the treatment group.
+
 ```{r}
-#| label: fig-2
-#| fig-cap: figure 2 cap
+#| label: fig-swb
+#| fig-cap: Difference at Baseline for Subjective Well-Being
 #| echo: false
 #| warning: false
 #| message: false
@@ -283,10 +287,19 @@ graph_data |>
      color = "Type")
 ```
 
+Above figure(@fig-swb) shows dot plots that count the differences between two different groups in all directions of the survey, and explains the results of the control and treatment groups in the Subjective Well-Being of the survey. In this graph, the x-axis is the difference from the baseline, the y-axis is the subjective well-being, the orange line is the control group, the blue line is the treatment group, and the confidence interval is 95%. The treatment group was controlled by the researcher for the amount of time spent on Facebook per day and was rewarded accordingly for being controlled. The research target also generally responded that receiving the reward mechanism could greatly improve their subjective well-being. In contrast, there was not much change in the other survey directions. From the figure we can also see that the difference between the values of happiness, and conditions of life is excellent is not big, they are all concentrated in the range of -0.25 to 0.25. The subjective happiness of the treatment group will be a little bit lower than that of the control group at this time.
+
+The graph above shows the result of deactivation of the first 4 weeks, treatment means there is bonus cash if they successfully deactivate for another 4 weeks (8 weeks in total)
+
+* Unit is the standard deviation of the baseline
+* Well being an index is the sum of (Happiness, … and satisfaction with life)
+* The social index is the sum of (Lack companion, …, Feel isolated)
+* The feeling index is the sum of (Bored, …, Absorbed in doing)
+
 ```{r}
-#| label: fig-3
-#| fig-cap: figure 3 cap
-#| echo: false
+#| label: fig-social_life
+#| fig-cap: Facebook Make Social Life Worse or Better at Baseline And Endline Period
+#| echo: false 
 #| warning: false
 #| message: false
 
@@ -335,9 +348,12 @@ ggarrange(
 
 ```
 
+Figure 3 
+The above figure(@fig-social_life) show whether Facebook usage makes social life worse or better. The x-axis is formed from -6 to 6 which is based on a set of marking schemes for the research target to scale. From the figure, it has changed between -1 and 1. At baseline, it has the most fraction at 0 for the treatment group and in the control group, it has the most in -1 and 0. However, in endline’s figure, the biggest fraction shifts to the right. It becomes 0 and 1. This means that user feels their social life becomes better. This helps to prove that with less time spent on Facebook, people’s objective well-being increases.
+
 ```{r}
-#| label: fig-4
-#| fig-cap: figure 4 cap
+#| label: fig-political_opinion_1
+#| fig-cap: People Political Opinion 1
 #| echo: false
 #| warning: false
 #| message: false
@@ -370,8 +386,8 @@ graph_data |>
 ```
 
 ```{r}
-#| label: fig-5
-#| fig-cap: figure 5 cap
+#| label: fig-political_opinion_2
+#| fig-cap: People Political Opinion 2
 #| echo: false
 #| warning: false
 #| message: false
@@ -401,6 +417,8 @@ graph_data |>
        y = "Fraction of sample") +
   coord_flip()
 ```
+
+This two graphs(@fig-political_opinion_1)(@fig-political_opinion_2) shows whether people change their political stance when using Facebook or not. The two different political positions are Republican, Democrat or Independent and Liberal or Conservative. obviously, we can see from the Republican graph that most people would still strongly choose Strongly Democratic, almost to 0.3 The distance is almost 0.3. In the Liberal graph, we can see that most people would choose liberal over extremely liberal, with a figure of more than 0.3.
 
 ```{r}
 #| label: fig-6
@@ -490,17 +508,6 @@ graph_data |>
   scale_color_manual(values = c("dodgerblue3", "springgreen3", "firebrick3"))
 ```
 
-# Result
-
-Figure 1 It shows dot plots that count the differences between two different groups in all directions of the survey, and explains the results of the control and treatment groups in the Subjective Well-Being of the survey. In this graph, the x-axis is the difference from the baseline, the y-axis is the subjective well-being, the orange line is the control group, the blue line is the treatment group, and the confidence interval is 95%. The treatment group was controlled by the researcher for the amount of time spent on Facebook per day and was rewarded accordingly for being controlled. The research target also generally responded that receiving the reward mechanism could greatly improve their subjective well-being. In contrast, there was not much change in the other survey directions. From the figure we can also see that the difference between the values of happiness, and conditions of life is excellent is not big, they are all concentrated in the range of -0.25 to 0.25. The subjective happiness of the treatment group will be a little bit lower than that of the control group at this time.
-
-Figure 2 These two figures show the distribution of Facebook usage at Baseline and Endline. The red is the control group and the green is the treatment group. The Y-axis shows the fraction of the sample and the x-axis shows Facebook usage time. For the longest time, the endline group’s time is shorter than the baseline’s time and the longest time both happen in the control group. The longest time for the treatment group is 550 minutes in baseline and 450 minutes in the endline group. For the treatment group, it decreases from 625 minutes to 575 minutes. To this result, there is a large decrease for the longest usage time. For the baseline, usage time exceeding 250 minutes is more than 2.5% in total but compared with it, at the endline, for the control group it has around 5% and for treatment is only 1.25%.
-
-It is obvious that between 0 and 125 minutes, the figure has a skew left and generally fraction decreases for each period in the treatment group.
-
-Figure 3 The above two figures show whether Facebook usage makes social life worse or better. The x-axis is formed from -6 to 6 which is based on a set of marking schemes for the research target to scale. From the figure, it has changed between -1 and 1. At baseline, it has the most fraction at 0 for the treatment group and in the control group, it has the most in -1 and 0. However, in endline’s figure, the biggest fraction shifts to the right. It becomes 0 and 1. This means that user feels their social life becomes better.
-
-Figure 4
 
 # Discuss
 
