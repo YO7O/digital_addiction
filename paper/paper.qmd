@@ -32,7 +32,7 @@ library(ggpubr)
 setwd("..")
 #### Import Data ####
 #### Explore ####
-dinesafe_program_clean <-
+digital_clean_data <-
   read_csv(
    here::here("scripts/02_data_cleaning.R"),
     show_col_types = FALSE
