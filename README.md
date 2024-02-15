@@ -1,4 +1,4 @@
-# Digital Addiction: Analysis of How Usage of Social Media Impact Objective Well-Being
+# Digital Addiction: Analysis of How Usage of Social Media Impact Objective Well-Being And Political Opinion
 
 ## Overview
 
