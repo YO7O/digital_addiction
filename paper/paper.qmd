@@ -67,8 +67,9 @@ Regarding our first argument, the article provides very valuable insights into t
 
 Our paper is followed by a reproduction of Hunt Allcott, Matthew Gentzkow, and Lena Song’s analysis[@originalpaper] of digital addiction to social media and their experiments prove reducing the usage of social media incentive new habits. Furthermore, their model shows that self-control is one of the important problems for people and it causes 31 percent of social media use. 
 
-In our paper, we use a dataset for users who most focus on using Facebook as social media. The experiment has two periods which are baseline and endline. The research target is separate into control and treatment groups, for the control group, they can themselves and for the treatment group they can get treatment if they achieve goals about self-control for using social media. At the beginning of the experiment, the research targets finish a survey about how their mental health works at that time and other information like political trends and knowledge they get from the news. After four weeks, both groups of research targets wrote the survey and it shows there are differences between them. Both groups have a significant change for baseline and end line. The control group have a worse performance than the treatment group. 
+In our paper, we use a dataset for users who most focus on using Facebook as social media. The experiment has two periods which are baseline and endline. The research target is separated into control and treatment groups, for the control group, they can themselves and the treatment group they can get treatment if they achieve goals about self-control for using social media. At the beginning of the experiment, the research targets finish a survey about how their mental health works at that time and other information like political trends and knowledge they get from the news. After four weeks, both groups of research targets wrote the survey and it shows there are differences between them. Both groups have a significant change for baseline and end line. The control group have a worse performance than the treatment group. 
 
+In our research, we chose to compare the two groups about their change. At the endline, it shows that objective well-being is higher when people use less Facebook and using Facebook cause polarizing political opinions to happen for people to use Facebook.
 
 # Data
 
@@ -80,6 +81,64 @@ The research includes several variables related to social media and examines the
 
 ## Tool
 Our paper use data from While writing the paper, we have utilized different tools and literature references to ensure that the findings across the board were correctly logical. Our graphs and data analysis plots were laid using R code[@citeR] as a base. library tidyverse[@thereferencecanbewhatever] directly helped us to start from the data so that we can process and visualize the data for application in no time. library haven[@haven] to help us quickly convert the data we need into R language format. It can be convenient for us to import data into R for analysis and processing. library readxl[@readxl] helps us read some Excel functions and processing. This makes it easier for us to analyze Excel data in R. library janitor[@janitor] helps us to check and clean up the dirty data, and format the data we need in R. library ggpubr[@ggpubr] facilitates us to draw graphs to meet the research direction more easily. These tools help us to understand more deeply the direction of the research and the relationship between them.
+
+## Variable
+In our experiment, the dataset includes three surveys and we only select two of them to analyze. The first survey is the baseline and the survey after 4 weeks of the experiment is endline. The first survey To analyze Facebook usage time, we collect usage time for each research target. For this part, it has only one variable which is how much time each one spends on Facebook at the baseline and endline. The second figure, measures objective well-being for each research target at baseline and endline. It asks the research target to choose what they feel like at that time and count it together. Each variable score has five choices which are 
+
+* Strongly disagree
+* Disagree
+* Slightly disagree
+* Neither agree nor disagree
+* Slightly agree
+* Agree
+* Strongly agree 
+
+ To count it, the different variables are stated below
+
+* My life is close to ideal: 
+* The condition of my life is excellent
+* Satisfied with my life
+* How often did you feel that you lacked companionship over the past four weeks?
+* How often do you feel left out over the past four weeks?
+* How often did you feel isolated from others over the past four weeks? 
+
+Also, it has choice for how much time people spend with four different emotions which are
+
+* Felt bored
+* Felt anxious
+* Felt depressed
+* Absorbed in something worthwhile
+
+For each motion, it have four different levels which are
+
+* Level 1: None or almost none of the time
+* Level 2: Feel a little bit of time
+* Level 3: Sometimes feel it
+* Level 4: All or almost of the time
+
+With those variables, researchers can have a more general idea about how research targets mental health. 
+
+To analyze the political opinion of the research target, the researcher also provides several choices for people. People choose what they feel about the political opinion they have. Those variables are:
+
+* Republican(Strongly Republican)
+* Republican(Weakly Republican)
+* Independent(Lean toward the Republican Party)
+* Independent
+* Independent(Lean toward the Democratic Party)
+* Democrat(Weakly Democratic)
+* Democrat(Strongly Democratic)
+
+Also, researchers ask about the level of extreme people have, therefore, people can choose the variables below:
+
+* Extreme conservative
+* Conservative
+* Slightly Conservative
+* Moderate
+* Slightly Liberal
+* Liberal
+* Extreme Liberal
+By collecting those data, we can know how extreme political opinions people have.
+
 
 # Result
 
@@ -291,8 +350,7 @@ graph_data |>
      x = "Subjective wellness being",
      color = "Type")
 ```
-
-Above figure(@fig-swb) shows dot plots that count the differences between two different groups in all directions of the survey, and explains the results of the control and treatment groups in the Subjective Well-Being of the survey. In this graph, the x-axis is the difference from the baseline, the y-axis is the subjective well-being, the orange line is the control group, the blue line is the treatment group, and the confidence interval is 95%. The treatment group was controlled by the researcher for the amount of time spent on Facebook per day and was rewarded accordingly for being controlled. The research target also generally responded that receiving the reward mechanism could greatly improve their subjective well-being. In contrast, there was not much change in the other survey directions. From the figure we can also see that the difference between the values of happiness, and conditions of life is excellent is not big, they are all concentrated in the range of -0.25 to 0.25. The subjective happiness of the treatment group will be a little bit lower than that of the control group at this time.
+Figure(@fig-swb) shows dot plots that count the differences between two different groups in all directions of the survey, and explains the results of the control and treatment groups in the Subjective Well-Being of the survey. In this graph, the x-axis is the difference from the baseline, the y-axis is the subjective well-being, the orange line is the control group, the blue line is the treatment group, and the confidence interval is 95%. The treatment group was controlled by the researcher for the amount of time spent on Facebook per day and was rewarded accordingly for being controlled. The research target also generally responded that receiving the reward mechanism could greatly improve their subjective well-being. In contrast, there was not much change in the other survey directions. From the figure we can also see that the difference between the values of happiness, and conditions of life is excellent is not big, they are all concentrated in the range of -0.25 to 0.25. The subjective happiness of the treatment group will be a little bit lower than that of the control group at this time.
 
 The graph above shows the result of deactivation of the first 4 weeks, treatment means there is bonus cash if they successfully deactivate for another 4 weeks (8 weeks in total)
 
@@ -353,7 +411,7 @@ ggarrange(
 
 ```
 
-The above figure(@fig-social_life) show whether Facebook usage makes social life worse or better. The x-axis is formed from -6 to 6 which is based on a set of marking schemes for the research target to scale. From the figure, it has changed between -1 and 1. At baseline, it has the most fraction at 0 for the treatment group and in the control group, it has the most in -1 and 0. However, in endline’s figure, the biggest fraction shifts to the right. It becomes 0 and 1. This means that user feels their social life becomes better. This helps to prove that with less time spent on Facebook, people’s objective well-being increases.
+The below figure(@fig-social_life) show whether Facebook usage makes social life worse or better. The x-axis is formed from -6 to 6 which is based on a set of marking schemes for the research target to scale. From the figure, it has changed between -1 and 1. At baseline, it has the most fraction at 0 for the treatment group and in the control group, it has the most in -1 and 0. However, in endline’s figure, the biggest fraction shifts to the right. It becomes 0 and 1. This means that user feels their social life becomes better. This helps to prove that with less time spent on Facebook, people’s objective well-being increases.
 
 ```{r}
 #| label: fig-political_opinion_1
@@ -513,7 +571,8 @@ graph_data |>
   scale_color_manual(values = c("dodgerblue3", "springgreen3", "firebrick3"))
 ```
 
-# Discuss
+
+# Discussion
 In recent years, the popularity of smartphones has greatly increased the use of social media. Social media, as a communication tool, works in the context of people's interactions, and the psychological changes induced by interpersonal interactions become the mediating variable between its use and well-being. Excessive use of social media has a negative impact on health and well-being. Our present investigation suggests that limiting the time spent on social media use may be beneficial to health and well-being. Research has noted a correlation between reduced social media use and improved mental health, and this latest controlled experiment provides further evidence of a causal relationship between reduced social media use and improved physical health. For those who were directly asked to reduce their social media use time and do something else with that time, they did not experience health benefits, suggesting that if one wants to get a person healthier to exercise, one should not ask them how to use their time, which can be counterproductive.
 
 There are some weaknesses of our experiment, that make our experiment lack generality. People in different age groups have different lifestyles and not all age groups have the same free time to use Facebook. For example, for seniors, some of them not familiar with smartphones and they do not understand how to use Facebook. Therefore, when they join the experiment, the experiment does not work as significantly as researchers expect. Also, different age groups can not have a more specific discussion about the actual situation of how people use Facebook. For example, Facebook is popular with people aged around 18-25 and those people, have more free time than people who have work, especially during summer vacation. This causes the experiment can not have generality. 
