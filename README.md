@@ -6,7 +6,7 @@
 
 The repo is structured as:
 
--   `data/raw_data` contains the raw data as obtained from [replication package](https://www.openicpsr.org/openicpsr/project/112081/version/V1/view?flag=follow&pageSelected=1&pageSize=10&sortOrder=(?title)&sortAsc=true) from AEA. Some of the data was exceeds the upload size of GitHub. To get those data, go to [Getting raw data](#getting-raw-data)
+-   `data/raw_data` contains the raw data as obtained from [replication package](https://www.openicpsr.org/openicpsr/project/112081/version/V1/view?flag=follow&pageSelected=1&pageSize=10&sortOrder=(?title)&sortAsc=true) from AEA. Some of the data was exceeds the upload size limit of GitHub. To get those data, go to [Getting raw data](#getting-raw-data)
 -   `data/analysis_data` contains the cleaned dataset that was constructed.
 -   `paper` contains the files used to generate the paper, including the Quarto document and reference bibliography file, as well as the PDF of the paper. 
 -   `other` contains relevant literature, details about LLM chat interactions, and sketches.
