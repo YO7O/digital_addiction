@@ -1,6 +1,6 @@
 ---
 title: "Digital Addiction"
-subtitle: "My subtitle if needed"
+subtitle: "Analysis of How Usage of Social Media Impact Objective Well-Being And Political Opinion"
 author: 
   - Kenneth Chan, Stephanie Xuan Zhao, Siyu Li
 thanks: "Code and data are available at: <https://github.com/YO7O/digital_addiction.git>"
