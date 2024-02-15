@@ -17,6 +17,27 @@ number-sections: true
 #| warning: false
 #| message: false
 
+#install.packages("tidyverse")
+#install.packages("haven")
+#install.packages("readxl")
+#install.packages("janitor")
+#install.packages("ggpubr")
+
+library(tidyverse)
+library(haven)
+library(readxl)
+library(janitor)
+library(ggpubr)
+
+setwd("..")
+#### Import Data ####
+#### Explore ####
+dinesafe_program_clean <-
+  read_csv(
+   here::here("scripts/02_data_cleaning.R"),
+    show_col_types = FALSE
+  )
+
 ```
 
 # Introduction
